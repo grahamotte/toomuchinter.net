@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'extlz4'
+gem 'fileutils'
+gem 'json'
+gem 'oj'
+gem 'ostruct'
+gem 'pry'
+gem 'sqlite3'
+gem 'time'
