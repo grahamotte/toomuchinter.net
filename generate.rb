@@ -70,6 +70,7 @@ items = (items_index.keys + places_index.keys)
 items
   .each { |x| x.digest ||= Digest::SHA256.hexdigest(x.url) }
   .each { |x| x.wbm ||= nil; x.wbm_tries ||= 0 }
+  .each { |x| x.jpg ||= nil; x.jpg_tries ||= 0 }
   .each { |x| x.png ||= nil; x.png_tries ||= 0 }
   .each { |x| x.pdf ||= nil; x.pdf_tries ||= 0 }
 
@@ -84,17 +85,17 @@ rescue StandardError => e
   puts e.backtrace
 end
 
-# def browse(url)
-#   browser = nil
-#   try do
-#     browser = Ferrum::Browser.new(window_size: [1200, 1200], headless: true, timeout: 60)
-#     browser.go_to(url)
-#     sleep(10)
-#     yield(browser)
-#   end
-# ensure
-#   browser&.quit
-# end
+def browse(url)
+  browser = nil
+  try do
+    browser = Ferrum::Browser.new(window_size: [1200, 1200], headless: true, timeout: 60)
+    browser.go_to(url)
+    sleep(10)
+    yield(browser)
+  end
+ensure
+  browser&.quit
+end
 
 items
   .select { |x| x.wbm.nil? }
@@ -134,6 +135,17 @@ items
 #     browse(item.url) { |x| x.screenshot(path: item.png, full: true) }
 #   end
 
+items
+  .select { |x| x.jpg.nil? }
+  .select { |x| x.jpg_tries < 8 }
+  .sample(2)
+  .each do |item|
+    puts "jpg #{item.url}"
+    item.jpg_tries += 1
+    item.jpg ||= "snapshots/#{item.digest}.jpg"
+    browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
+  end
+
 #
 # save
 #
@@ -150,6 +162,8 @@ items
       timestamp: item.timestamp,
       wbm: item.wbm,
       wbm_tries: item.wbm_tries,
+      jpg: item.png && File.exist?(item.jpg) ? item.jpg : nil,
+      jpg_tries: item.jpg_tries,
       png: item.png && File.exist?(item.png) ? item.png : nil,
       png_tries: item.png_tries,
       pdf: item.pdf && File.exist?(item.pdf) ? item.pdf : nil,
@@ -220,6 +234,7 @@ def item_html(item)
       <a href="#{item.url}" target="_blank">#{CGI.escape_html(item.title)}</a>
       <br /><span class="text-small">#{item.timestamp.strftime('%Y-%m-%d %H:%M:%S')}</span>
       #{item.wbm ? "<a href=\"#{item.wbm}\" target=\"_blank\" class=\"text-tiny\">WBM</a>" : nil}
+      #{item.jpg && File.exist?(item.jpg) ? "<a href=\"/#{item.jpg}\" target=\"_blank\" class=\"text-tiny\">JPG</a>" : nil}
       #{item.png && File.exist?(item.png) ? "<a href=\"/#{item.png}\" target=\"_blank\" class=\"text-tiny\">PNG</a>" : nil}
       #{item.pdf && File.exist?(item.pdf) ? "<a href=\"/#{item.pdf}\" target=\"_blank\" class=\"text-tiny\">PDF</a>" : nil}
     </li>
