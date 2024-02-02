@@ -33,7 +33,7 @@
     "timestamp": "2023-12-27 10:45:50 -0800",
     "wbm": "http://web.archive.org/web/20240105220134/https://intrepidcamera.co.uk/products/intrepid-4x5-camera",
     "wbm_tries": 1,
-    "png": "snapshots/11b648e25c20e5b414db6ac482b9d1eb67c35ffc4da2aa7ed357cf3846c16c62.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -72,9 +72,9 @@
     "timestamp": "2023-12-27 10:47:12 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/de557dba635b1444ae85c3679b32c944e31a9046d9e686be8f07792ae7bbda18.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/de557dba635b1444ae85c3679b32c944e31a9046d9e686be8f07792ae7bbda18.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -85,9 +85,9 @@
     "timestamp": "2023-12-27 10:47:22 -0800",
     "wbm": "http://web.archive.org/web/20231129104718/https://launch.puzzmo.com/",
     "wbm_tries": 0,
-    "png": "snapshots/d4e1cb3bde76f5f98f5b54f28353792cd802517f38b1b0854e7d47588d4e9ebf.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/d4e1cb3bde76f5f98f5b54f28353792cd802517f38b1b0854e7d47588d4e9ebf.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -100,7 +100,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/651b50c4cf884ba757f240caac6daca8db489f7d5b57000864987fc2bfae82fd.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -124,7 +124,7 @@
     "timestamp": "2024-01-01 10:26:01 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/0f5690637b3baf7934729577ec0df025907cd3320a6bd6a700736339b26e654c.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -137,9 +137,9 @@
     "timestamp": "2024-01-01 10:36:50 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/928e09b3456db33c177131801b5413c49a601aab885a52b8ecea443f09cfae17.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/928e09b3456db33c177131801b5413c49a601aab885a52b8ecea443f09cfae17.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -163,9 +163,9 @@
     "timestamp": "2024-01-01 10:37:33 -0800",
     "wbm": "http://web.archive.org/web/20231113163146/https://www.johncoulthart.com/feuilleton/2023/11/13/return-to-square/",
     "wbm_tries": 0,
-    "png": "snapshots/0163db87765bb4fdb5942ee20fd6074504090bfa1eb6fd9f67e14cbd1e150dc2.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/0163db87765bb4fdb5942ee20fd6074504090bfa1eb6fd9f67e14cbd1e150dc2.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -217,7 +217,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/391760a291b4451fa35bb0b573bf47350fb6fb79d1a76cb4db32fba66a906ca3.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -228,7 +228,7 @@
     "timestamp": "2024-01-01 14:42:32 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/e974bcccf4325348b50d6aeca343d78f0e3719eeb162742231d483dea9ec5414.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -241,9 +241,9 @@
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/0cfb74e8d4f9d15c68aa9b869f30b0158f769e18580239fdd075bfefa50e018e.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/0cfb74e8d4f9d15c68aa9b869f30b0158f769e18580239fdd075bfefa50e018e.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -256,7 +256,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/41f93a8b809bfc9c1999fbb64f59efd62e7b7c0ea325206f84eb5c3a063b1d62.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -267,9 +267,9 @@
     "timestamp": "2024-01-01 14:48:24 -0800",
     "wbm": "http://web.archive.org/web/20231214012100/http://lalo.li/lsd/",
     "wbm_tries": 1,
-    "png": "snapshots/75c5c51c1e9fcb45cc56286522531e2175241381c1c145e3fe352405804ef7c9.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/75c5c51c1e9fcb45cc56286522531e2175241381c1c145e3fe352405804ef7c9.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -280,9 +280,9 @@
     "timestamp": "2024-01-01 21:55:42 -0800",
     "wbm": "http://web.archive.org/web/20221225111225/https://feliciachiao.tumblr.com/",
     "wbm_tries": 0,
-    "png": "snapshots/a2703e5140905f0c3fa94d122c86ed623eb8a276fec30c0b2030f656a0fd1a70.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/a2703e5140905f0c3fa94d122c86ed623eb8a276fec30c0b2030f656a0fd1a70.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -293,7 +293,7 @@
     "timestamp": "2024-01-01 22:04:55 -0800",
     "wbm": "http://web.archive.org/web/20230626005551/https://www.jasondavies.com/primos/",
     "wbm_tries": 1,
-    "png": "snapshots/22913202a8627791449576478198c8938bb3fd34641edf7f56ef3bb53a8f2198.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -306,7 +306,7 @@
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -319,9 +319,9 @@
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -334,7 +334,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/71ad4725ecf5ca3ee1de17573d94a64b3937ff3eaaa3c0da7f0f1bd9c0a9c3ae.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -358,7 +358,7 @@
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -371,9 +371,9 @@
     "timestamp": "2024-01-02 23:01:50 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -397,7 +397,7 @@
     "timestamp": "2024-01-02 23:06:27 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/02f53fea12660ed96359429d9e9646bd9fc26b9c9cb5e44cf956538d79be6dfa.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -410,7 +410,7 @@
     "timestamp": "2024-01-02 23:10:50 -0800",
     "wbm": "http://web.archive.org/web/20240105193957/https://hackerstations.com/setups/taylor_town/",
     "wbm_tries": 1,
-    "png": "snapshots/d745722768d5759b90149238c4cdbf0f218490f9fb265c7654bd8776310e472f.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -425,7 +425,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/6a0acf1cbffe181be17da11139b86673118d2b1cf3e4506506a5d7153477a675.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -438,7 +438,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/8f6eacd3af997bb0cb25765574d5e428d63e9607fc009f6153e5d0a072cdcdde.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -449,9 +449,9 @@
     "timestamp": "2024-01-02 23:14:02 -0800",
     "wbm": "http://web.archive.org/web/20231222164731/https://www.youtube.com/watch?v=rEoc0YoALt0",
     "wbm_tries": 1,
-    "png": "snapshots/97d64c502a482f8fde5a7aa177b922e1bb5595d95e1348a75709be986a7b1780.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/97d64c502a482f8fde5a7aa177b922e1bb5595d95e1348a75709be986a7b1780.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -475,7 +475,7 @@
     "timestamp": "2024-01-02 23:22:34 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/56035159e0872dc9735261975d80c93892a96df2d1d489d1b81f71ee8c50fe9e.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -490,7 +490,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -514,9 +514,9 @@
     "timestamp": "2024-01-02 23:36:58 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/d1319b52921d8a806f86e887086c714a2912d3a94d81b3ecab0d4b084170a735.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/d1319b52921d8a806f86e887086c714a2912d3a94d81b3ecab0d4b084170a735.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -542,7 +542,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e9635a8849de85b568bb6e1c4b047713b85582de3038e6c35aa805b19fdd5b01.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -566,7 +566,7 @@
     "timestamp": "2024-01-04 10:57:22 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/77bd5e34133ef62c580cf7b434f1c44c6ce26b02644364a13aef1b7d98e89c74.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -581,7 +581,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/7689c6647bebb7b737def3bbcf72c4abf76bdb0be45eb10e7264cdbd74f67e51.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -594,7 +594,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/994fa25bdf1bdf130270d24faf0aa6f7835c5bc6996396fdec0a639320a220ec.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -618,7 +618,7 @@
     "timestamp": "2024-01-04 11:10:19 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/4dc5aa31c14967cf0492a301dc70d953fdae2fc6d930beb4fa27f309f5e3e418.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -657,9 +657,9 @@
     "timestamp": "2024-01-05 10:55:32 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/ddedfbe126b6e3d4e1673a466114b2520d647894fa2ec89ab010a3233404e40f.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/ddedfbe126b6e3d4e1673a466114b2520d647894fa2ec89ab010a3233404e40f.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -672,7 +672,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/95a1b4b6557ce176fac7fa861f68d3bf734ee70a9e5561c1f5a133a6fcbce688.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -724,7 +724,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/7456fb7745355199c160753a1ae4bb802172a3e72eb39372bffcd115cc6cb4e0.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -735,7 +735,7 @@
     "timestamp": "2024-01-05 20:13:08 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/4b52dde7cfc23e68cf8a9ab3357af3f7948ad968f721bbb9b33efe784ce14ebf.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -748,9 +748,9 @@
     "timestamp": "2024-01-05 20:16:14 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/8a8a4b645b051cdaa68f5a5bdc4c3ad17f82a6a8542037b91fe236d865c03845.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/8a8a4b645b051cdaa68f5a5bdc4c3ad17f82a6a8542037b91fe236d865c03845.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -763,7 +763,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/b006a9506a428b9815a4ef3bde9f0ccfbd078846f5da21e69088070950120bc7.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -776,7 +776,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -800,7 +800,7 @@
     "timestamp": "2024-01-06 15:50:23 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/2ef1c5a78a3580d5bb6f0fa6c0b4746b265a1a05d03d5ecdf77b087a0e1554d1.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -813,9 +813,9 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -839,7 +839,7 @@
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -852,9 +852,9 @@
     "timestamp": "2024-01-08 16:26:53 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/f833b3f93ce2ddc7a08892a26c70cce8289990a813847303a257080a6088db7c.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/f833b3f93ce2ddc7a08892a26c70cce8289990a813847303a257080a6088db7c.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -867,7 +867,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/a27b2050e816153657ada39a98dcdf7199c5abc5ff7ca0f956f9e5c2082a5e5e.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -878,7 +878,7 @@
     "timestamp": "2024-01-08 16:57:45 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/924ddaa9e2568d3eafe9ca6f708eb62753525516a43711ab109960836a672367.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -891,9 +891,9 @@
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -906,7 +906,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/016366f22d50fce6a5bba9bee833c74ec34963077e4fa6ff9c57b7d4b1da8a5f.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -917,7 +917,7 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -945,7 +945,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/082f0e8e10e761dd65971dd7246d26ded5a6279e917ef1d3c76e727ed14b381d.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -956,7 +956,7 @@
     "timestamp": "2024-01-08 19:16:40 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3f1b45c0f3a9db37007894de87a578417ff4191be4345fc71acff7a46e27ad1a.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -982,9 +982,9 @@
     "timestamp": "2024-01-09 08:20:28 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "png": "snapshots/88a4632d04755fbde855062dd25f4c02a0b9411bd87171806e5fd1cd33cb74f6.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/88a4632d04755fbde855062dd25f4c02a0b9411bd87171806e5fd1cd33cb74f6.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1008,9 +1008,9 @@
     "timestamp": "2024-01-09 16:52:54 -0800",
     "wbm": "http://web.archive.org/web/20240129220302/https://www.youtube.com/watch?v=2ZJs4gjHda0",
     "wbm_tries": 1,
-    "png": "snapshots/563b02b0944b9a2fbf6f5ddfba4b99fe3acfb90760d5a78832a95698673e2c30.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/563b02b0944b9a2fbf6f5ddfba4b99fe3acfb90760d5a78832a95698673e2c30.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1021,9 +1021,9 @@
     "timestamp": "2024-01-10 09:09:06 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/996f8a6667070c1d0617fd9b9ca749cf05557225b1f636b0dcb2b16f2d6a9716.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/996f8a6667070c1d0617fd9b9ca749cf05557225b1f636b0dcb2b16f2d6a9716.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1034,9 +1034,9 @@
     "timestamp": "2024-01-10 15:31:30 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/c68cf74a25b9dc7f1b553a7fe6297e7f07342ed350572609dacd697e03fcec3b.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/c68cf74a25b9dc7f1b553a7fe6297e7f07342ed350572609dacd697e03fcec3b.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1047,7 +1047,7 @@
     "timestamp": "2024-01-10 16:44:17 -0800",
     "wbm": "http://web.archive.org/web/20231231034306/https://www.gartner.com/en/newsroom/press-releases/2023-12-14-gartner-predicts-fifty-percent-of-consumers-will-significantly-limit-their-interactions-with-social-media-by-2025",
     "wbm_tries": 1,
-    "png": "snapshots/03039435c7597500df4c8dd03fb6105f5fd6493e22246ba9352982afdea2c10a.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1060,7 +1060,7 @@
     "timestamp": "2024-01-11 09:54:45 -0800",
     "wbm": "http://web.archive.org/web/20240124084954/https://www.youtube.com/watch?v=4XpnKHJAok8",
     "wbm_tries": 1,
-    "png": "snapshots/403284294e7bd809c909306d1b72a752fce39b72609f0a899e430fc89636bd4d.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1073,7 +1073,7 @@
     "timestamp": "2024-01-11 10:55:02 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3c5a2b27dcad391bebf6296424d55ec394827e49fa44d0328b80003bc84989eb.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1086,9 +1086,9 @@
     "timestamp": "2024-01-11 21:44:57 -0800",
     "wbm": "http://web.archive.org/web/20240115030628/https://www.scopeofwork.net/bare-beauty-beyond-euclid/",
     "wbm_tries": 0,
-    "png": "snapshots/b3efd25255e12b2e275dbca83d88a01d0a7cccb914f0d5023ecc29aba746be5f.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/b3efd25255e12b2e275dbca83d88a01d0a7cccb914f0d5023ecc29aba746be5f.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1101,7 +1101,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1112,9 +1112,9 @@
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1151,9 +1151,9 @@
     "timestamp": "2024-01-12 11:42:24 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "png": "snapshots/adbc69b12534a47bbc56d752cede05a97caa5d6deffb18366c0df2acc01f7d02.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/adbc69b12534a47bbc56d752cede05a97caa5d6deffb18366c0df2acc01f7d02.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1166,7 +1166,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e08545444af984099a1c4fc99b7c042abe612e8004d9a6f231e346fe1ae83855.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1177,7 +1177,7 @@
     "timestamp": "2024-01-12 15:26:11 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "png": "snapshots/c3d7bb0f2c83c6c36ddba90a280c8fdde8b00740a86421c07f196204c8c3fd34.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1190,7 +1190,7 @@
     "timestamp": "2024-01-13 10:20:49 -0800",
     "wbm": "http://web.archive.org/web/20240113160539/https://thehazeltree.co.uk/2024/01/13/lochbuie-stone-circle-and-moy-castle-isle-of-mull/",
     "wbm_tries": 0,
-    "png": "snapshots/a35bf391e64853f6a9659945722e34b0693ba1383e26c339723b6126a5d75d7e.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1216,9 +1216,9 @@
     "timestamp": "2024-01-14 12:03:06 -0800",
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
-    "png": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1229,9 +1229,9 @@
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1244,7 +1244,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e2a27d9d6efdd31d67479c7844cbf0ce0f944575b3e01ab6bcc101df219ea192.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1255,7 +1255,7 @@
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "png": "snapshots/50c38aa2d2bef02706a44bb00370f1829279b0f67e6e94b31b044e4d7d84827b.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1281,9 +1281,9 @@
     "timestamp": "2024-01-14 23:13:55 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/1110e312074db6bf306be7806f1e1b2c5891858ebb9a538ac8bec0bc0effadb4.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/1110e312074db6bf306be7806f1e1b2c5891858ebb9a538ac8bec0bc0effadb4.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1294,7 +1294,7 @@
     "timestamp": "2024-01-14 23:13:59 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/9ac515eceee189eb623ffced6c87ff1e7234d1fae5853e3837f1e6856b561390.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1309,7 +1309,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/3d4d22f5ee8af42e04ece93c23bc347772905fa6c1d1ecf58ed7822a8db1ff0c.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1333,7 +1333,7 @@
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/ae36539fd72ac2231f1ee0ba7361b6e005efa913e860050ef5984ad0628f2b39.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1346,7 +1346,7 @@
     "timestamp": "2024-01-14 23:26:59 -0800",
     "wbm": "http://web.archive.org/web/20220929132523/https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/",
     "wbm_tries": 1,
-    "png": "snapshots/41ee0abb06afd6645c1ba52b82f0494a6162a3a9e04b8e30513b37a608a5c07c.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1372,9 +1372,9 @@
     "timestamp": "2024-01-14 23:28:20 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/6b521caedeca29a0a2dc91431920a7a792986dfe1c7feeb17473732feb166fe5.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/6b521caedeca29a0a2dc91431920a7a792986dfe1c7feeb17473732feb166fe5.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1385,7 +1385,7 @@
     "timestamp": "2024-01-14 23:30:06 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/9002ed877f3ee05d2513b4469724042b89e9a6629fc8993d7febafacdfd958f5.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1398,9 +1398,9 @@
     "timestamp": "2024-01-14 23:30:33 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/6c96706d86c81c992cdde448cd6fca9c491cd0e1d9354a6d2770b1d568598528.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/6c96706d86c81c992cdde448cd6fca9c491cd0e1d9354a6d2770b1d568598528.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1411,7 +1411,7 @@
     "timestamp": "2024-01-14 23:33:58 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/34ee25638a347e9e7c8c3b2bfd8a5a91e49063aa9e8da3930af5d58b8d7e0c59.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1450,9 +1450,9 @@
     "timestamp": "2024-01-14 23:37:10 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/7e3c44b32bd5750002d4c1e884c3010615d1abc71a5eba7e464520768b2dd0ec.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/7e3c44b32bd5750002d4c1e884c3010615d1abc71a5eba7e464520768b2dd0ec.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1463,7 +1463,7 @@
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "png": "snapshots/c913b48484bb35445ea5a78c9a452673d224183acf44cd8d00fd968dbb99be33.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1476,9 +1476,9 @@
     "timestamp": "2024-01-15 23:17:16 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/5d1920f8281731c3c5398c87cb7e215883569db9e7f26223acbd24dc3abc1a22.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/5d1920f8281731c3c5398c87cb7e215883569db9e7f26223acbd24dc3abc1a22.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1491,7 +1491,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1502,9 +1502,9 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "png": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1515,7 +1515,7 @@
     "timestamp": "2024-01-16 09:06:28 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/0f3fc8f08d8aafde8db246946831b9f7e1b79fcdeabf910ad8c805d589aa00b0.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1530,7 +1530,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/ec74aab66b230feda768f33e1e60946ad727f79e09fb5a064d20bc602331d1e1.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1554,9 +1554,9 @@
     "timestamp": "2024-01-19 18:17:35 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/1acbc3476d104bd2e50c637a2d90b35b3abae4e80094479068d0d414f29ea56f.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/1acbc3476d104bd2e50c637a2d90b35b3abae4e80094479068d0d414f29ea56f.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1569,7 +1569,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/c662ab66de3acdf85a5c48bded7afe1f0a90034fce09a174d5800397fd21f576.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1580,9 +1580,9 @@
     "timestamp": "2024-01-19 20:50:01 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/9ce861c0a94144af6d9b05fa2b799f5bffdb0fcbea9c96acac06fe405cd2cba7.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/9ce861c0a94144af6d9b05fa2b799f5bffdb0fcbea9c96acac06fe405cd2cba7.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1593,9 +1593,9 @@
     "timestamp": "2024-01-19 21:11:01 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/0ce91760373a1ffded96521c41247d02ad0594fcd93b326fdf935a1d9109cab6.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/0ce91760373a1ffded96521c41247d02ad0594fcd93b326fdf935a1d9109cab6.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1606,9 +1606,9 @@
     "timestamp": "2024-01-19 22:15:33 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/2df6f154c70e6052a92107e270b3938e634cc334a6483f020f4b22725e950750.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/2df6f154c70e6052a92107e270b3938e634cc334a6483f020f4b22725e950750.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1619,9 +1619,9 @@
     "timestamp": "2024-01-19 22:17:38 -0800",
     "wbm": "http://web.archive.org/web/20240123115456/https://www.itsnicethat.com/articles/joseph-melhuish-music-posters-animation-digital-project-170124",
     "wbm_tries": 1,
-    "png": "snapshots/bc1ca07c68e553f1aad14f6c513d2b276a3a925d1dd0aedadeda6337473c7307.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/bc1ca07c68e553f1aad14f6c513d2b276a3a925d1dd0aedadeda6337473c7307.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1632,9 +1632,9 @@
     "timestamp": "2024-01-19 22:18:37 -0800",
     "wbm": "http://web.archive.org/web/20240127054423/https://www.behance.net/gallery/186693463/Compilation-14",
     "wbm_tries": 0,
-    "png": "snapshots/c09507d7cfab5c995695ce008581b5a48b5f3bd3283c40323276c98873af9209.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/c09507d7cfab5c995695ce008581b5a48b5f3bd3283c40323276c98873af9209.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1647,7 +1647,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/d58812272d7a339251624c412b69fec44af5b96e8b603e56e0b06d6e94fd4226.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1658,9 +1658,9 @@
     "timestamp": "2024-01-20 16:06:46 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/506082f664436f9994cae4f649597f632ae0205218cd561e757cb05a90807900.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/506082f664436f9994cae4f649597f632ae0205218cd561e757cb05a90807900.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1684,7 +1684,7 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "png": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1725,7 +1725,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/52d03e560150729e7151b0bf4a0f14e2e3c1d55ace32986361e1b751ec51f9bf.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1738,7 +1738,7 @@
     "wbm_tries": 2,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/981992c9de39bed8c3056ddee9b1f1100bcd9e77bd95d8d0f2acaf4b2c6c5598.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1751,7 +1751,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1775,7 +1775,7 @@
     "timestamp": "2024-01-22 11:39:50 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/bc05f3f78d745d0fafa7121cb9c3de2eb75e220a51fceb2a9bf7092c487710b4.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1788,9 +1788,9 @@
     "timestamp": "2024-01-22 16:21:13 -0800",
     "wbm": "http://web.archive.org/web/20231229023654/https://en.wikipedia.org/wiki/List_of_cryptids",
     "wbm_tries": 0,
-    "png": "snapshots/e824851a5820ddd6bc2e64e4f66b0bc6af27eb6c2b8b073bfdb244d1b90bb653.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e824851a5820ddd6bc2e64e4f66b0bc6af27eb6c2b8b073bfdb244d1b90bb653.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1801,9 +1801,9 @@
     "timestamp": "2024-01-22 16:34:03 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/9412c77be58f2ed7d1ae58de5c7ee452d67b7d88065b8820f027dabd5a9db039.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/9412c77be58f2ed7d1ae58de5c7ee452d67b7d88065b8820f027dabd5a9db039.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1829,7 +1829,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/ce992f29c230550c25824c7da9430364ed4c8d822555e0747ad21550c81c1d25.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1853,9 +1853,9 @@
     "timestamp": "2024-01-22 22:14:15 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/2666b2cd6022635163107aee59c0b0f9d971e09e8a5d4849210ce7b5b98eb117.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/2666b2cd6022635163107aee59c0b0f9d971e09e8a5d4849210ce7b5b98eb117.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1892,9 +1892,9 @@
     "timestamp": "2024-01-22 22:24:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/330a8b9366f087e8acf94415bb3f8bb737d72ae25a5578fc6ee6aebb448a9bff.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/330a8b9366f087e8acf94415bb3f8bb737d72ae25a5578fc6ee6aebb448a9bff.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1905,7 +1905,7 @@
     "timestamp": "2024-01-23 01:16:28 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/565667d0ae095b9117ef9c1d3a30f76cda8b4e00f30190269f7f1ddb06b73875.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -1918,9 +1918,9 @@
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1931,9 +1931,9 @@
     "timestamp": "2024-01-24 11:53:41 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/ac523e720d665cde6b840bd26791aa42fc8b1c12fa390766da25d6712da065ca.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/ac523e720d665cde6b840bd26791aa42fc8b1c12fa390766da25d6712da065ca.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1957,9 +1957,9 @@
     "timestamp": "2024-01-24 12:04:48 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/28504c3a65ee58e3a6c7e358e393b2eb1a7a220953897227f1f5714366e2f88d.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/28504c3a65ee58e3a6c7e358e393b2eb1a7a220953897227f1f5714366e2f88d.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -1970,9 +1970,9 @@
     "timestamp": "2024-01-24 12:09:49 -0800",
     "wbm": "http://web.archive.org/web/20240127053812/https://www.behance.net/gallery/188222982/Voyage-Typeface-New-Styles",
     "wbm_tries": 0,
-    "png": "snapshots/f828b8b80e34a40fb27ddd3c6c39eb0608ec45c7f0e17d499e7a4faa5866e890.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/f828b8b80e34a40fb27ddd3c6c39eb0608ec45c7f0e17d499e7a4faa5866e890.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1985,7 +1985,7 @@
     "wbm_tries": 1,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/5a3f5c6720c81560f20202a56ff1e006734a1a7c6656d8affc50a8eb8b4dac51.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -1998,7 +1998,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/f3e6a56f09a2e2f5afca41580262fb432d3e79817800ea7818e3b08edf6aae9b.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2009,7 +2009,7 @@
     "timestamp": "2024-01-24 15:50:49 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/12c5ba5c288e8a90bd84818f75e3c95b8f207826235f443faa41070034725bc6.png",
+    "png": null,
     "png_tries": 2,
     "pdf": null,
     "pdf_tries": 2
@@ -2024,7 +2024,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/26f8f93aa670416d4d425699a045f549e5b45d39ddf61437f6f075423285b213.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2037,7 +2037,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/9e53b37cca918993634c54217e2e4a3bb0b88e0c596801d3a182927e3f635a39.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2061,9 +2061,9 @@
     "timestamp": "2024-01-25 22:19:04 -0800",
     "wbm": "http://web.archive.org/web/20240201174703/https://www.galactanet.com/oneoff/theegg_mod.html",
     "wbm_tries": 1,
-    "png": "snapshots/b2e3dd5e5da98760b4795bef237dbebe296e8383814d805961e87a3dec072c57.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/b2e3dd5e5da98760b4795bef237dbebe296e8383814d805961e87a3dec072c57.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -2076,7 +2076,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/5d002eb685dc58b6f5f013947cf22302b622f510271cfca38deefe8e9fed1359.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2087,9 +2087,9 @@
     "timestamp": "2024-01-26 13:47:45 -0800",
     "wbm": "http://web.archive.org/web/20221222055855/https://www.fieldandnest.com/journal/japans-72-poetic-micro-seasons",
     "wbm_tries": 0,
-    "png": "snapshots/801f9377eafec1f82fecf196357cb975ab438dbad4fbb843d8f5adbba10bcda9.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/801f9377eafec1f82fecf196357cb975ab438dbad4fbb843d8f5adbba10bcda9.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2100,7 +2100,7 @@
     "timestamp": "2024-01-27 00:28:39 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/3278ac3b4e8aebefb8e695f3c8d7def61c3e0ae0179a49872c1b5f798f3a3508.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -2128,7 +2128,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/58a3b74cabaec0922997deb2865f6d62863e6dec34a25615cbcf42398a7c4784.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2152,9 +2152,9 @@
     "timestamp": "2024-01-27 00:39:46 -0800",
     "wbm": "http://web.archive.org/web/20240119014431/https://en.wikipedia.org/wiki/Low-background_steel",
     "wbm_tries": 1,
-    "png": "snapshots/e963e8098935ff99250b9d74dc9e98a08f13f885a863e9bfdfde75aa55a80759.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/e963e8098935ff99250b9d74dc9e98a08f13f885a863e9bfdfde75aa55a80759.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2165,9 +2165,9 @@
     "timestamp": "2024-01-27 00:40:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/da3005d63714b0564763fbfb98b69d75e135b6e36716d84b69e388753390f9d3.png",
+    "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/da3005d63714b0564763fbfb98b69d75e135b6e36716d84b69e388753390f9d3.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2180,7 +2180,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/6e88d41d6890190b941ba32adfc4cf68683fa89a8543938c132655edab6562c0.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2206,7 +2206,7 @@
     "wbm_tries": 0,
     "png": null,
     "png_tries": 0,
-    "pdf": "snapshots/eeccc325a5a9db132d7b3582522f3437024fdadd57be0892d8845b997fdf4156.pdf",
+    "pdf": null,
     "pdf_tries": 0
   },
   {
@@ -2243,7 +2243,7 @@
     "timestamp": "2024-01-29 20:42:05 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/a82d5fbbb5dcd4c0e25d9ad6f4af380ad89ffc644fdc6f5d1406c16b336e994d.png",
+    "png": null,
     "png_tries": 1,
     "pdf": null,
     "pdf_tries": 1
@@ -2256,9 +2256,9 @@
     "timestamp": "2024-01-30 15:20:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "png": "snapshots/12767a2670abca63bc5a170b7dd04f0f0ed947ee7e301225cc046aebba8ffe24.png",
+    "png": null,
     "png_tries": 1,
-    "pdf": "snapshots/12767a2670abca63bc5a170b7dd04f0f0ed947ee7e301225cc046aebba8ffe24.pdf",
+    "pdf": null,
     "pdf_tries": 1
   },
   {
@@ -2306,6 +2306,19 @@
     "url": "https://alexwlchan.net/2024/big-pdf/",
     "title": "Making a PDF that’s larger than Germany – alexwlchan",
     "timestamp": "2024-02-01 13:14:36 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "png": null,
+    "png_tries": 0,
+    "pdf": null,
+    "pdf_tries": 0
+  },
+  {
+    "id": 179,
+    "digest": "ae68d535ea6f8715c04f4b65a3e7002768ed4504dbd1faaad2f019ef60adef7f",
+    "url": "https://fabiensanglard.net/iSummer/index.html",
+    "title": "A captivating summer 2007",
+    "timestamp": "2024-02-01 17:13:35 -0800",
     "wbm": null,
     "wbm_tries": 0,
     "png": null,
