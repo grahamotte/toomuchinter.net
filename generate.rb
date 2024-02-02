@@ -88,7 +88,7 @@ end
 def browse(url)
   browser = nil
   try do
-    browser = Ferrum::Browser.new(window_size: [1200, 1200], headless: false, timeout: 60)
+    browser = Ferrum::Browser.new(window_size: [1200, 1200], headless: true, timeout: 60)
     browser.go_to(url)
     sleep(10)
     yield(browser)
@@ -138,14 +138,12 @@ items
 items
   .select { |x| x.jpg.nil? }
   .select { |x| x.jpg_tries < 8 }
-  .select { |x| x.url.include?('reddit') }
   .sample(2)
   .each do |item|
     puts "jpg #{item.url}"
     item.jpg_tries += 1
     item.jpg ||= "snapshots/#{item.digest}.jpg"
     browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
-    binding.pry
   end
 
 #
