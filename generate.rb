@@ -77,12 +77,12 @@ items
 # archival
 #
 
-# def try
-#   yield
-# rescue StandardError => e
-#   puts e.message
-#   puts e.backtrace
-# end
+def try
+  yield
+rescue StandardError => e
+  puts e.message
+  puts e.backtrace
+end
 
 # def browse(url)
 #   browser = nil
@@ -96,21 +96,21 @@ items
 #   browser&.quit
 # end
 
-# items
-#   .select { |x| x.wbm.nil? }
-#   .select { |x| x.wbm_tries < 8 }
-#   .sample(2)
-#   .each do |item|
-#     puts "wbm #{item.url}"
-#     item.wbm_tries += 1
-#     try do
-#       item.wbm = RestClient
-#         .get("https://archive.org/wayback/available?url=#{item.url}")
-#         .body
-#         .then { |x| JSON.parse(x, symbolize_names: true) }
-#         .dig(:archived_snapshots, :closest, :url)
-#     end
-#   end
+items
+  .select { |x| x.wbm.nil? }
+  .select { |x| x.wbm_tries < 8 }
+  .sample(2)
+  .each do |item|
+    puts "wbm #{item.url}"
+    item.wbm_tries += 1
+    try do
+      item.wbm = RestClient
+        .get("https://archive.org/wayback/available?url=#{item.url}")
+        .body
+        .then { |x| JSON.parse(x, symbolize_names: true) }
+        .dig(:archived_snapshots, :closest, :url)
+    end
+  end
 
 # items
 #   .select { |x| x.pdf.nil? }
