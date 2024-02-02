@@ -89,7 +89,7 @@ def browse(url)
   browser = nil
   try do
     browser = Ferrum::Browser.new(
-      window_size: [1200, 1200],
+      window_size: [800, 800],
       headless: url.include?('reddit') ? false : true,
       timeout: 60,
     )
