@@ -710,7 +710,7 @@
     "title": "Snapshot — sledgefisher · Lomography",
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.jpg",
     "jpg_tries": 1
   },
@@ -775,8 +775,8 @@
     "url": "https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "title": "How Google perfected the web",
     "timestamp": "2024-01-08 17:44:20 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
