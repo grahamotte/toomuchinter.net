@@ -643,10 +643,10 @@
     "url": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F8nc798x2amac1.jpg%3Fwidth%3D3155%26format%3Dpjpg%26auto%3Dwebp%26s%3D75a35b2f04c40b0a8ad3ab3bd54ae1323211d97e",
     "title": "Reddit - https://preview.redd.it/8nc798x2amac1.jpg?width=3155&format=pjpg&auto=webp&s=75a35b2f04c40b0a8ad3ab3bd54ae1323211d97e",
     "timestamp": "2024-01-05 20:19:47 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "wbm": "http://web.archive.org/web/20240106052501/https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F8nc798x2amac1.jpg%3Fwidth%3D3155%26format%3Dpjpg%26auto%3Dwebp%26s%3D75a35b2f04c40b0a8ad3ab3bd54ae1323211d97e",
+    "wbm_tries": 1,
+    "jpg": "snapshots/b006a9506a428b9815a4ef3bde9f0ccfbd078846f5da21e69088070950120bc7.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 60,
@@ -1501,8 +1501,8 @@
     "url": "https://www.lesswrong.com/posts/oA23zoEjPnzqfHiCt/there-is-way-too-much-serendipity",
     "title": "There is way too much serendipity — LessWrong",
     "timestamp": "2024-01-22 11:39:50 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240203020201/https://www.lesswrong.com/posts/oA23zoEjPnzqfHiCt/there-is-way-too-much-serendipity",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1943,8 +1943,8 @@
     "timestamp": "2024-01-31 19:50:14 -0800",
     "wbm": "http://web.archive.org/web/20240126020934/https://www.thewebsiteisdown.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/6c29db51b8c122aebca100e920de272f721dcf61a017abce7c3b0f5ae75ec011.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 178,
