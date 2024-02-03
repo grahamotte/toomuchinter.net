@@ -204,7 +204,7 @@
     "title": "#27002272 — tlath · Lomography",
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1160,8 +1160,8 @@
     "url": "http://www.arpa.net/1000days.html",
     "title": "1000 Days Uptime",
     "timestamp": "2024-01-14 23:28:20 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230717095246/http://www.arpa.net/1000days.html",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -2032,6 +2032,28 @@
     "wbm": null,
     "wbm_tries": 1,
     "jpg": "snapshots/eb8d78d62db57ec4d55827f82d5699ab337bc4ba8699bf161e8fc2088177def4.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 186,
+    "digest": "8c3d0dec19c337909c14d834d11c61802f19739dc09dc9d2fbaba00360aaec55",
+    "url": "https://www.google.com/maps/@40.882712,12.9546344,3a,63.9y,25.7h,104.67t/data=!3m8!1e1!3m6!1sAF1QipPWoyCBERjjdqFyssEMYRKe7XFuZX28CmUz6WZV!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPWoyCBERjjdqFyssEMYRKe7XFuZX28CmUz6WZV%3Dw203-h100-k-no-pi-0-ya350.65088-ro-0-fo100!7i10240!8i5120?entry=ttu",
+    "title": "Flavio Nicoletti - Google Maps",
+    "timestamp": "2024-02-03 10:50:23 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/8c3d0dec19c337909c14d834d11c61802f19739dc09dc9d2fbaba00360aaec55.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 187,
+    "digest": "c158103c1ec2113c4b9644b5ac7ad6f48c629ca2e40feb4a51a1af56dd8a35b3",
+    "url": "https://www.google.com/maps/@65.0931577,28.9031094,3a,37.1y,91.91h,87.97t/data=!3m6!1e1!3m4!1sGKx1Ub0vxep7SI_P-niG9g!2e0!7i16384!8i8192?entry=ttu",
+    "title": "546 5 - Google Maps",
+    "timestamp": "2024-02-03 11:04:26 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/c158103c1ec2113c4b9644b5ac7ad6f48c629ca2e40feb4a51a1af56dd8a35b3.jpg",
     "jpg_tries": 1
   }
 ]
