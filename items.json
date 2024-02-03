@@ -898,8 +898,8 @@
     "timestamp": "2024-01-11 09:54:45 -0800",
     "wbm": "http://web.archive.org/web/20240124084954/https://www.youtube.com/watch?v=4XpnKHJAok8",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/403284294e7bd809c909306d1b72a752fce39b72609f0a899e430fc89636bd4d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 83,
@@ -1446,8 +1446,8 @@
     "url": "https://www.behance.net/gallery/184019567/Chlorophyll",
     "title": "Chlorophyll :: Behance",
     "timestamp": "2024-01-20 22:21:38 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240127054416/https://www.behance.net/gallery/184019567/Chlorophyll",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1547,8 +1547,8 @@
     "timestamp": "2024-01-22 22:11:58 -0800",
     "wbm": "http://web.archive.org/web/20240127110349/https://practicaltypography.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/ce992f29c230550c25824c7da9430364ed4c8d822555e0747ad21550c81c1d25.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 142,
@@ -1864,8 +1864,8 @@
     "url": "http://native-languages.org/original.htm",
     "title": "Original Tribal Names",
     "timestamp": "2024-01-28 16:40:40 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230716175128/http://www.native-languages.org/original.htm",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },

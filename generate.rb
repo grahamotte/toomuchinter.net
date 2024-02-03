@@ -70,7 +70,7 @@ items = (items_index.keys + places_index.keys)
 items
   .each { |x| x.digest ||= Digest::SHA256.hexdigest(x.url) }
   .each { |x| x.wbm ||= nil; x.wbm_tries ||= 0 }
-  .each { |x| x.jpg ||= "snapshots/#{x.digest}.jpg"; x.jpg_tries ||= 0 }
+  .each { |x| x.jpg ||= nil; x.jpg_tries ||= 0 }
 # .each { |x| x.png ||= nil; x.png_tries ||= 0 }
 # .each { |x| x.pdf ||= nil; x.pdf_tries ||= 0 }
 
@@ -124,6 +124,7 @@ items
   .each do |item|
   puts "jpg #{item.digest} #{item.url}"
   item.jpg_tries += 1
+  item.jpg ||= "snapshots/#{item.digest}.jpg";
   browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
 end
 
@@ -165,7 +166,7 @@ items
       timestamp: item.timestamp,
       wbm: item.wbm,
       wbm_tries: item.wbm_tries,
-      jpg: item.jpg && File.exist?(item.jpg) ? item.jpg : nil,
+      jpg: File.exist?("snapshots/#{item.digest}.jpg") ? "snapshots/#{item.digest}.jpg" : nil,
       jpg_tries: item.jpg_tries,
       # png: item.png && File.exist?(item.png) ? item.png : nil,
       # png_tries: item.png_tries,
