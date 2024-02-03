@@ -314,7 +314,7 @@
     "title": "Reddit - https://preview.redd.it/mzimdno9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=2ac3ea3a1d133c6194c2acab7c52d5e194b644de",
     "timestamp": "2024-01-02 23:01:50 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.jpg",
     "jpg_tries": 1
   },
@@ -1249,7 +1249,7 @@
     "title": "Tallow to Margarine",
     "timestamp": "2024-01-15 23:17:16 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -2022,5 +2022,16 @@
     "wbm_tries": 0,
     "jpg": null,
     "jpg_tries": 0
+  },
+  {
+    "id": 185,
+    "digest": "eb8d78d62db57ec4d55827f82d5699ab337bc4ba8699bf161e8fc2088177def4",
+    "url": "https://www.google.com/maps/@38.1155924,13.3598321,3a,75y,200.77h,73.43t/data=!3m6!1e1!3m4!1su8X7l1jEzzUkgKj84MWfHA!2e0!7i13312!8i6656?entry=ttu",
+    "title": "27 Vicolo Gran Cancelliere - Google Maps",
+    "timestamp": "2024-02-03 10:39:38 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/eb8d78d62db57ec4d55827f82d5699ab337bc4ba8699bf161e8fc2088177def4.jpg",
+    "jpg_tries": 1
   }
 ]
