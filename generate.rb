@@ -70,9 +70,9 @@ items = (items_index.keys + places_index.keys)
 items
   .each { |x| x.digest ||= Digest::SHA256.hexdigest(x.url) }
   .each { |x| x.wbm ||= nil; x.wbm_tries ||= 0 }
-  .each { |x| x.jpg ||= nil; x.jpg_tries ||= 0 }
-  .each { |x| x.png ||= nil; x.png_tries ||= 0 }
-  .each { |x| x.pdf ||= nil; x.pdf_tries ||= 0 }
+  .each { |x| x.jpg ||= "snapshots/#{x.digest}.jpg"; x.jpg_tries ||= 0 }
+# .each { |x| x.png ||= nil; x.png_tries ||= 0 }
+# .each { |x| x.pdf ||= nil; x.pdf_tries ||= 0 }
 
 #
 # archival
@@ -117,6 +117,16 @@ items
     end
   end
 
+items
+  .select { |x| x.jpg.nil? }
+  .select { |x| x.jpg_tries < 8 }
+  .sample(2)
+  .each do |item|
+  puts "jpg #{item.digest} #{item.url}"
+  item.jpg_tries += 1
+  browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
+end
+
 # items
 #   .select { |x| x.pdf.nil? }
 #   .select { |x| x.pdf_tries < 8 }
@@ -139,17 +149,6 @@ items
 #     browse(item.url) { |x| x.screenshot(path: item.png, full: true) }
 #   end
 
-items
-  .select { |x| x.jpg.nil? }
-  .select { |x| x.jpg_tries < 8 }
-  .sample(2)
-  .each do |item|
-    puts "jpg #{item.digest} #{item.url}"
-    item.jpg_tries += 1
-    item.jpg ||= "snapshots/#{item.digest}.jpg"
-    browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
-  end
-
 #
 # save
 #
@@ -168,10 +167,10 @@ items
       wbm_tries: item.wbm_tries,
       jpg: item.jpg && File.exist?(item.jpg) ? item.jpg : nil,
       jpg_tries: item.jpg_tries,
-      png: item.png && File.exist?(item.png) ? item.png : nil,
-      png_tries: item.png_tries,
-      pdf: item.pdf && File.exist?(item.pdf) ? item.pdf : nil,
-      pdf_tries: item.png_tries,
+      # png: item.png && File.exist?(item.png) ? item.png : nil,
+      # png_tries: item.png_tries,
+      # pdf: item.pdf && File.exist?(item.pdf) ? item.pdf : nil,
+      # pdf_tries: item.png_tries,
     }
   end
   .then { |x| JSON.pretty_generate(x) }
@@ -239,10 +238,10 @@ def item_html(item)
       <br /><span class="text-small">#{item.timestamp.strftime('%Y-%m-%d %H:%M:%S')}</span>
       #{item.wbm ? "<a href=\"#{item.wbm}\" target=\"_blank\" class=\"text-tiny\">WBM</a>" : nil}
       #{item.jpg && File.exist?(item.jpg) ? "<a href=\"/#{item.jpg}\" target=\"_blank\" class=\"text-tiny\">JPG</a>" : nil}
-      #{item.png && File.exist?(item.png) ? "<a href=\"/#{item.png}\" target=\"_blank\" class=\"text-tiny\">PNG</a>" : nil}
-      #{item.pdf && File.exist?(item.pdf) ? "<a href=\"/#{item.pdf}\" target=\"_blank\" class=\"text-tiny\">PDF</a>" : nil}
     </li>
   HTML
+  # {item.png && File.exist?(item.png) ? "<a href=\"/#{item.png}\" target=\"_blank\" class=\"text-tiny\">PNG</a>" : nil}
+  # {item.pdf && File.exist?(item.pdf) ? "<a href=\"/#{item.pdf}\" target=\"_blank\" class=\"text-tiny\">PDF</a>" : nil}
   #  {item.archive_url == 'none' ? nil : "<a class=\"text-small\" href=\"#{item.archive_url}\" target=\"_blank\">A</a>"}
 end
 
