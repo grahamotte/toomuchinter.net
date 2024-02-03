@@ -457,7 +457,7 @@
     "title": "Pulled 2 stops — jonography · Lomography",
     "timestamp": "2024-01-04 10:25:18 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -799,8 +799,8 @@
     "timestamp": "2024-01-08 19:16:28 -0800",
     "wbm": "http://web.archive.org/web/20240116133704/http://www.skyhunter.com/marcs/GentleSeduction.html",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/082f0e8e10e761dd65971dd7246d26ded5a6279e917ef1d3c76e727ed14b381d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 74,
@@ -1141,7 +1141,7 @@
     "wbm": "http://web.archive.org/web/20220929132523/https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 105,
@@ -1249,7 +1249,7 @@
     "title": "Tallow to Margarine",
     "timestamp": "2024-01-15 23:17:16 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
