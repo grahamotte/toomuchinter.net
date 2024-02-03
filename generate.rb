@@ -166,7 +166,7 @@ items
       timestamp: item.timestamp,
       wbm: item.wbm,
       wbm_tries: item.wbm_tries,
-      jpg: item.png && File.exist?(item.jpg) ? item.jpg : nil,
+      jpg: item.jpg && File.exist?(item.jpg) ? item.jpg : nil,
       jpg_tries: item.jpg_tries,
       png: item.png && File.exist?(item.png) ? item.png : nil,
       png_tries: item.png_tries,
