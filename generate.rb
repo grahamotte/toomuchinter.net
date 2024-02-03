@@ -118,7 +118,6 @@ items
   end
 
 items
-  .select { |x| x.url.include?('google.com') }
   .select { |x| x.jpg.nil? }
   .select { |x| x.jpg_tries < 8 }
   .sample(2)
