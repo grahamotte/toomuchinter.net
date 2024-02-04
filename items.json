@@ -171,7 +171,7 @@
     "title": "#27002292 — pentax_pimp · Lomography",
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1393,8 +1393,8 @@
     "timestamp": "2024-01-20 12:24:26 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/d58812272d7a339251624c412b69fec44af5b96e8b603e56e0b06d6e94fd4226.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 128,
@@ -1535,7 +1535,7 @@
     "title": "Reddit - https://i.redd.it/21e51swxvydc1.jpeg",
     "timestamp": "2024-01-22 16:34:15 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1569,8 +1569,8 @@
     "timestamp": "2024-01-22 22:14:15 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/2666b2cd6022635163107aee59c0b0f9d971e09e8a5d4849210ce7b5b98eb117.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 144,
