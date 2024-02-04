@@ -249,8 +249,8 @@
     "timestamp": "2024-01-01 22:04:55 -0800",
     "wbm": "http://web.archive.org/web/20230626005551/https://www.jasondavies.com/primos/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/22913202a8627791449576478198c8938bb3fd34641edf7f56ef3bb53a8f2198.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 24,
@@ -941,7 +941,7 @@
     "title": "#27025115 — shoao · Lomography",
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.jpg",
     "jpg_tries": 1
   },
@@ -997,8 +997,8 @@
     "timestamp": "2024-01-12 15:26:11 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c3d7bb0f2c83c6c36ddba90a280c8fdde8b00740a86421c07f196204c8c3fd34.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 92,
@@ -1908,8 +1908,8 @@
     "url": "https://mossandfog.com/the-optimistic-futurism-of-space-artist-robert-mccall/",
     "title": "The Optimistic Futurism of Space Artist Robert McCall | Moss and Fog",
     "timestamp": "2024-01-30 15:20:24 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240129122455/https://mossandfog.com/the-optimistic-futurism-of-space-artist-robert-mccall/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
