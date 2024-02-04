@@ -788,8 +788,8 @@
     "timestamp": "2024-01-08 19:15:37 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/74f9d39b72921b44aa350caacdc3a537c58ab60f0cfe8ee3792682ff80276820.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 73,
@@ -874,8 +874,8 @@
     "url": "https://www.youtube.com/watch?v=WIiGUzaEwhk",
     "title": "The Farm-to-Prison Pipeline - YouTube",
     "timestamp": "2024-01-10 15:31:30 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240124022622/https://www.youtube.com/watch?v=WIiGUzaEwhk",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1789,8 +1789,8 @@
     "timestamp": "2024-01-27 00:28:52 -0800",
     "wbm": "http://web.archive.org/web/20240121211425/https://moonbase.lgbt/blog/minimum-wage-clock/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/834df334481cc89ebe7c06b45c14c5f4187c54e050cc5026d9bc48786a3b126a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 164,
@@ -2007,8 +2007,8 @@
     "url": "https://once.com/",
     "title": "ONCE — Introducing ONCE",
     "timestamp": "2024-02-02 19:41:02 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240203113700/https://once.com/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
