@@ -204,7 +204,7 @@
     "title": "#27002272 — tlath · Lomography",
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -392,8 +392,8 @@
     "timestamp": "2024-01-02 23:21:57 -0800",
     "wbm": "http://web.archive.org/web/20240102073903/https://www.drewexmachina.com/2024/01/02/the-dream-the-first-probe-to-the-moon/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4163e4cac001f75aacae09e26b36bc4eb88ea0fef13749e52f9a839e4e5f03d1.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 37,
@@ -1481,8 +1481,8 @@
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 136,
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
