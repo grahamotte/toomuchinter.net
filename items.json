@@ -139,8 +139,8 @@
     "timestamp": "2024-01-01 10:37:33 -0800",
     "wbm": "http://web.archive.org/web/20231113163146/https://www.johncoulthart.com/feuilleton/2023/11/13/return-to-square/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0163db87765bb4fdb5942ee20fd6074504090bfa1eb6fd9f67e14cbd1e150dc2.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 14,
@@ -1436,7 +1436,7 @@
     "title": "Coolsingel - Wikipedia",
     "timestamp": "2024-01-20 21:40:46 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1611,8 +1611,8 @@
     "url": "https://qr.blinry.org/",
     "title": "Reading QR codes without a computer!",
     "timestamp": "2024-01-23 01:16:28 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240201063827/https://qr.blinry.org/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1899,8 +1899,8 @@
     "timestamp": "2024-01-29 20:42:05 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/a82d5fbbb5dcd4c0e25d9ad6f4af380ad89ffc644fdc6f5d1406c16b336e994d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 174,
