@@ -1182,8 +1182,8 @@
     "url": "https://logological.org/girlfriend",
     "title": "Why I Will Never Have a Girlfriend | Tristan Miller",
     "timestamp": "2024-01-14 23:30:33 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231217055842/https://logological.org/girlfriend",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1281,8 +1281,8 @@
     "url": "https://aeon.co/essays/on-the-shared-histories-of-reconstruction-in-the-americas?utm_source=rss-feed",
     "title": "On the shared histories of reconstruction in the Americas | Aeon Essays",
     "timestamp": "2024-01-16 09:06:28 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240119023633/https://aeon.co/essays/on-the-shared-histories-of-reconstruction-in-the-americas?utm_source=rss-feed",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1426,8 +1426,8 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 131,
@@ -1745,8 +1745,8 @@
     "timestamp": "2024-01-25 22:19:04 -0800",
     "wbm": "http://web.archive.org/web/20240201174703/https://www.galactanet.com/oneoff/theegg_mod.html",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b2e3dd5e5da98760b4795bef237dbebe296e8383814d805961e87a3dec072c57.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 160,
