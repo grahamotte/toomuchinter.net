@@ -259,7 +259,7 @@
     "title": "Mining in Cornwall — stevejack0 · Lomography",
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1490,8 +1490,8 @@
     "url": "https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "title": "The Ten Best Mechanical 35mm Film SLRs Ever Made - Casual Photophile",
     "timestamp": "2024-01-21 22:57:58 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1756,8 +1756,8 @@
     "timestamp": "2024-01-26 11:48:31 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/5d002eb685dc58b6f5f013947cf22302b622f510271cfca38deefe8e9fed1359.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 161,
@@ -1800,8 +1800,8 @@
     "timestamp": "2024-01-27 00:29:03 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/58a3b74cabaec0922997deb2865f6d62863e6dec34a25615cbcf42398a7c4784.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 165,
