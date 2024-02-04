@@ -270,7 +270,7 @@
     "title": "Opinion | The End of Snow - The New York Times",
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.jpg",
     "jpg_tries": 1
   },
@@ -623,8 +623,8 @@
     "timestamp": "2024-01-05 20:13:08 -0800",
     "wbm": "http://web.archive.org/web/20240124134855/https://www.youtube.com/watch?v=Z_1Q0XB4X0Y",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4b52dde7cfc23e68cf8a9ab3357af3f7948ad968f721bbb9b33efe784ce14ebf.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 58,
@@ -755,8 +755,8 @@
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 70,
@@ -1600,8 +1600,8 @@
     "url": "https://melonking.net/melon",
     "title": "Melon's HOMEPAGE",
     "timestamp": "2024-01-22 22:24:24 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231127151851/https://melonking.net/melon",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
