@@ -491,8 +491,8 @@
     "timestamp": "2024-01-04 11:05:12 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/7689c6647bebb7b737def3bbcf72c4abf76bdb0be45eb10e7264cdbd74f67e51.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 46,
@@ -920,8 +920,8 @@
     "timestamp": "2024-01-11 21:44:57 -0800",
     "wbm": "http://web.archive.org/web/20240115030628/https://www.scopeofwork.net/bare-beauty-beyond-euclid/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b3efd25255e12b2e275dbca83d88a01d0a7cccb914f0d5023ecc29aba746be5f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 85,
@@ -1040,7 +1040,7 @@
     "title": "New York City In Kodachrome - Color Photos Found In A Trashcan From the 1950s and 1960s - Flashbak",
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 1
   },
@@ -1436,7 +1436,7 @@
     "title": "Coolsingel - Wikipedia",
     "timestamp": "2024-01-20 21:40:46 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
