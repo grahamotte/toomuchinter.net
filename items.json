@@ -128,8 +128,8 @@
     "timestamp": "2024-01-01 10:37:08 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/636407b01faebe6cdd72e685a2cd3db7d56f309807ee940db5cb415b93dda23c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 13,
@@ -171,7 +171,7 @@
     "title": "#27002292 — pentax_pimp · Lomography",
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -425,8 +425,8 @@
     "timestamp": "2024-01-02 23:36:35 -0800",
     "wbm": "http://web.archive.org/web/20240127105313/https://ritualdust.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e2eff5f7dec3b249b69d5a663ac9286a9f7e391e0e4e30b42bf90fe7ba5f8e91.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 40,
@@ -1315,7 +1315,7 @@
     "title": "#27038028 — stevejack0 · Lomography",
     "timestamp": "2024-01-19 18:17:35 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/1acbc3476d104bd2e50c637a2d90b35b3abae4e80094479068d0d414f29ea56f.jpg",
     "jpg_tries": 1
   },
