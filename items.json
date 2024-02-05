@@ -403,8 +403,8 @@
     "timestamp": "2024-01-02 23:22:34 -0800",
     "wbm": "http://web.archive.org/web/20221223111009/https://cargocollective.com/matthewdivito/Animated-Gifs-05",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/56035159e0872dc9735261975d80c93892a96df2d1d489d1b81f71ee8c50fe9e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 38,
@@ -657,7 +657,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 61,
@@ -820,7 +820,7 @@
     "title": "#27019613 — hutancahaya · Lomography",
     "timestamp": "2024-01-09 08:20:19 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/eb7949d45e71b06dfb24d3b32666852b1b4dfb080ed89647bfacc83991870708.jpg",
     "jpg_tries": 1
   },
@@ -831,7 +831,7 @@
     "title": "Forestry Mulcher mows down a tree : toolgifs",
     "timestamp": "2024-01-09 08:20:28 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
