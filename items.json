@@ -171,7 +171,7 @@
     "title": "#27002292 — pentax_pimp · Lomography",
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -754,7 +754,7 @@
     "title": "Dreaming in Color — Real Life",
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.jpg",
     "jpg_tries": 1
   },
@@ -1327,8 +1327,8 @@
     "timestamp": "2024-01-19 18:22:04 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c662ab66de3acdf85a5c48bded7afe1f0a90034fce09a174d5800397fd21f576.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 122,
@@ -1965,8 +1965,8 @@
     "timestamp": "2024-02-01 17:13:35 -0800",
     "wbm": "http://web.archive.org/web/20240201164711/https://fabiensanglard.net/iSummer/index.html",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/ae68d535ea6f8715c04f4b65a3e7002768ed4504dbd1faaad2f019ef60adef7f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 180,
