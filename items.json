@@ -469,8 +469,8 @@
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 44,
@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1316,8 +1316,8 @@
     "timestamp": "2024-01-19 18:17:35 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/1acbc3476d104bd2e50c637a2d90b35b3abae4e80094479068d0d414f29ea56f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 121,
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
