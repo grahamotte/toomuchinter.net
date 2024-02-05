@@ -579,8 +579,8 @@
     "timestamp": "2024-01-05 11:45:00 -0800",
     "wbm": "http://web.archive.org/web/20240123212649/https://enes.in/sorted-colors/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/66ac3cafa8817b50fe0d3aba3c61c29ca74a3166afd8d4c473e96cb0f1129cf1.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 54,
@@ -656,8 +656,8 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 61,
@@ -930,7 +930,7 @@
     "title": "Scifi Art — Art by Syd Mead 'Space Wreck' from The Flights of...",
     "timestamp": "2024-01-11 21:45:38 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.jpg",
     "jpg_tries": 1
   },
@@ -1051,7 +1051,7 @@
     "title": "Scifi Art — Art by Ian Miller",
     "timestamp": "2024-01-14 23:03:51 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
