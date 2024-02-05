@@ -205,8 +205,8 @@
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0cfb74e8d4f9d15c68aa9b869f30b0158f769e18580239fdd075bfefa50e018e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 20,
@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 1
+    "jpg_tries": 2
   },
   {
     "id": 48,
@@ -841,8 +841,8 @@
     "url": "https://twitter.com/ryanjreilly/status/1743656421562970545",
     "title": "Ryan J. Reilly on X: \"“If we’re got to hang a bunch of crooked congressmen, we’ll do that, okay?” https://t.co/r2jdvAEq2y\" / X",
     "timestamp": "2024-01-09 11:04:14 -0800",
-    "wbm": null,
-    "wbm_tries": 1,
+    "wbm": "http://web.archive.org/web/20240121182924/https://twitter.com/ryanjreilly/status/1743656421562970545",
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -941,7 +941,7 @@
     "title": "#27025115 — shoao · Lomography",
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.jpg",
     "jpg_tries": 1
   },
