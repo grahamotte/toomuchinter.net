@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 48,
@@ -930,7 +930,7 @@
     "title": "Scifi Art — Art by Syd Mead 'Space Wreck' from The Flights of...",
     "timestamp": "2024-01-11 21:45:38 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.jpg",
     "jpg_tries": 1
   },
@@ -941,7 +941,7 @@
     "title": "#27025115 — shoao · Lomography",
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.jpg",
     "jpg_tries": 1
   },
@@ -1668,8 +1668,8 @@
     "timestamp": "2024-01-24 12:09:49 -0800",
     "wbm": "http://web.archive.org/web/20240127053812/https://www.behance.net/gallery/188222982/Voyage-Typeface-New-Styles",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/f828b8b80e34a40fb27ddd3c6c39eb0608ec45c7f0e17d499e7a4faa5866e890.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 153,
