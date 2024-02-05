@@ -259,7 +259,7 @@
     "title": "Mining in Cornwall — stevejack0 · Lomography",
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.jpg",
     "jpg_tries": 1
   },
@@ -887,8 +887,8 @@
     "timestamp": "2024-01-10 16:44:17 -0800",
     "wbm": "http://web.archive.org/web/20231231034306/https://www.gartner.com/en/newsroom/press-releases/2023-12-14-gartner-predicts-fifty-percent-of-consumers-will-significantly-limit-their-interactions-with-social-media-by-2025",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/03039435c7597500df4c8dd03fb6105f5fd6493e22246ba9352982afdea2c10a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 82,
@@ -1041,8 +1041,8 @@
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 96,
@@ -1249,7 +1249,7 @@
     "title": "Tallow to Margarine",
     "timestamp": "2024-01-15 23:17:16 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
