@@ -260,8 +260,8 @@
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 25,
@@ -577,8 +577,8 @@
     "url": "https://enes.in/sorted-colors/",
     "title": "Sorted CSS Colors",
     "timestamp": "2024-01-05 11:45:00 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240123212649/https://enes.in/sorted-colors/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1567,8 +1567,8 @@
     "url": "https://www.ccelian.com/concepca.html",
     "title": "The Elian Script",
     "timestamp": "2024-01-22 22:14:15 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230904220140/https://www.ccelian.com/concepca.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/2666b2cd6022635163107aee59c0b0f9d971e09e8a5d4849210ce7b5b98eb117.jpg",
     "jpg_tries": 1
   },
@@ -1679,8 +1679,8 @@
     "timestamp": "2024-01-24 12:59:22 -0800",
     "wbm": "http://web.archive.org/web/20240123230620/https://augustinlignier.com/selfie-rats",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/5a3f5c6720c81560f20202a56ff1e006734a1a7c6656d8affc50a8eb8b4dac51.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 154,
