@@ -457,7 +457,7 @@
     "title": "Pulled 2 stops — jonography · Lomography",
     "timestamp": "2024-01-04 10:25:18 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1031,7 +1031,7 @@
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 95,
@@ -1218,7 +1218,7 @@
     "wbm": "http://web.archive.org/web/20240119085540/https://www.commondreams.org/news/in-41-us-states-richest-1-pay-lower-tax-rates-than-everyone-else",
     "wbm_tries": 3,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 112,
@@ -1414,7 +1414,7 @@
     "title": "Minéral — herbdolphy · Lomography",
     "timestamp": "2024-01-20 16:36:13 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/52c646a877fa5967c7027fa879dc6807703c7c415f779ce48a9c56ae0a800501.jpg",
     "jpg_tries": 1
   },
