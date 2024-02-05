@@ -304,8 +304,8 @@
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 29,
@@ -700,8 +700,8 @@
     "timestamp": "2024-01-07 10:47:45 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e53705d02de762c3cb2f121898f3cdea0924565707b8edb9604ff2ae38829347.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 65,
@@ -941,7 +941,7 @@
     "title": "#27025115 — shoao · Lomography",
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.jpg",
     "jpg_tries": 1
   },
@@ -1985,8 +1985,8 @@
     "url": "https://mcmansionhell.com/post/741171396971053056/weve-found-it-folks-mcmansion-heaven",
     "title": "we've found it folks: mcmansion heaven | McMansion Hell",
     "timestamp": "2024-02-01 21:23:31 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205002425/https://mcmansionhell.com/post/741171396971053056/weve-found-it-folks-mcmansion-heaven",
+    "wbm_tries": 1,
     "jpg": "snapshots/a50a808e7cded1a353c10b6654691bca4602b25aa08acd2f5406ab71019a9e7d.jpg",
     "jpg_tries": 1
   },
