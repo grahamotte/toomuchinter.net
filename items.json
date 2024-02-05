@@ -489,8 +489,8 @@
     "url": "https://dynomight.net/alcohol-trial/",
     "title": "The big alcohol study that didn't happen: My primal scream of rage",
     "timestamp": "2024-01-04 11:05:12 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240114002052/https://dynomight.net/alcohol-trial/",
+    "wbm_tries": 1,
     "jpg": "snapshots/7689c6647bebb7b737def3bbcf72c4abf76bdb0be45eb10e7264cdbd74f67e51.jpg",
     "jpg_tries": 1
   },
@@ -524,8 +524,8 @@
     "timestamp": "2024-01-04 11:10:19 -0800",
     "wbm": "http://web.archive.org/web/20231221075838/https://dynomight.net/air/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4dc5aa31c14967cf0492a301dc70d953fdae2fc6d930beb4fa27f309f5e3e418.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 49,
@@ -1062,7 +1062,7 @@
     "title": "Humble Toast Elevated to Zen Artistry by Manami Sasaki | Moss and Fog",
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1360,8 +1360,8 @@
     "timestamp": "2024-01-19 22:15:33 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/2df6f154c70e6052a92107e270b3938e634cc334a6483f020f4b22725e950750.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 125,
