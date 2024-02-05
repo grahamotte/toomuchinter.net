@@ -512,7 +512,7 @@
     "title": "08.08.01_Pepsi Breathtaking_FRANCE.indd - pepsi-arnell-021109.pdf",
     "timestamp": "2024-01-04 11:08:08 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 2
   },
@@ -1118,8 +1118,8 @@
     "timestamp": "2024-01-14 23:23:58 -0800",
     "wbm": "http://web.archive.org/web/20240113064433/https://solar.lowtechmagazine.com/2023/12/how-to-build-a-small-solar-power-system/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/14369989801aa79579d341c9d23173b2e834da3b2d9858527945678c0018e93f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 103,
@@ -1613,8 +1613,8 @@
     "timestamp": "2024-01-23 01:16:28 -0800",
     "wbm": "http://web.archive.org/web/20240201063827/https://qr.blinry.org/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/565667d0ae095b9117ef9c1d3a30f76cda8b4e00f30190269f7f1ddb06b73875.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 148,
@@ -1655,8 +1655,8 @@
     "url": "https://taylor.town/mtpt",
     "title": "Everything Worse Than Previously Thought",
     "timestamp": "2024-01-24 12:04:48 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240124050137/https://taylor.town/mtpt",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
