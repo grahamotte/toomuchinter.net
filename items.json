@@ -93,8 +93,8 @@
     "url": "https://news.ycombinator.com/item?id=38505211",
     "title": "LLM Visualization | Hacker News",
     "timestamp": "2024-01-01 10:21:44 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231216110257/https://news.ycombinator.com/item?id=38505211",
+    "wbm_tries": 1,
     "jpg": "snapshots/087987786f822e142e1b92164a4a5dce309d2a57c5fd1d52d3755cd25dd2c6e2.jpg",
     "jpg_tries": 1
   },
@@ -743,7 +743,7 @@
     "title": "Empuriabrava — edwi_na · Lomography",
     "timestamp": "2024-01-08 16:57:45 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/924ddaa9e2568d3eafe9ca6f708eb62753525516a43711ab109960836a672367.jpg",
     "jpg_tries": 2
   },
@@ -766,8 +766,8 @@
     "timestamp": "2024-01-08 17:25:12 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/016366f22d50fce6a5bba9bee833c74ec34963077e4fa6ff9c57b7d4b1da8a5f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 71,
@@ -1855,8 +1855,8 @@
     "timestamp": "2024-01-28 14:17:39 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/8c0d864b83f1066b8a1990fce4af8570c762fe48257c2fb7f0ac52f350b661f6.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 170,
