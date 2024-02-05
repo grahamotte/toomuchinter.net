@@ -182,7 +182,7 @@
     "title": "sea, Portugal, landscape, nature, cliff, rocks, aerial view, ponta da piedade, Europe, island, field, atlantic ocean | 5464x3640 Wallpaper - wallhaven.cc",
     "timestamp": "2024-01-01 14:40:30 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -414,8 +414,8 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 39,
@@ -1734,8 +1734,8 @@
     "timestamp": "2024-01-25 21:20:53 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/080be0da30aebb2a1e80e98d64381b97df7d44c55e2a8d0650ddb22a80a0f0ba.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 159,
@@ -2041,7 +2041,7 @@
     "title": "Flavio Nicoletti - Google Maps",
     "timestamp": "2024-02-03 10:50:23 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/8c3d0dec19c337909c14d834d11c61802f19739dc09dc9d2fbaba00360aaec55.jpg",
     "jpg_tries": 1
   },
