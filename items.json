@@ -710,7 +710,7 @@
     "title": "Snapshot — sledgefisher · Lomography",
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.jpg",
     "jpg_tries": 1
   },
@@ -832,8 +832,8 @@
     "timestamp": "2024-01-09 08:20:28 -0800",
     "wbm": null,
     "wbm_tries": 3,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/88a4632d04755fbde855062dd25f4c02a0b9411bd87171806e5fd1cd33cb74f6.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 77,
@@ -1206,8 +1206,8 @@
     "timestamp": "2024-01-14 23:35:08 -0800",
     "wbm": "http://web.archive.org/web/20240129122632/https://maggieappleton.com/garden-history",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/73371750322c72c45f6240247629806e83cf3903226ece02844d338e1db02d15.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 111,
@@ -1930,8 +1930,8 @@
     "url": "https://www.cghnyc.com/",
     "title": "Chermayeff & Geismar & Haviv",
     "timestamp": "2024-01-30 16:20:20 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240203110456/https://cghnyc.com/",
+    "wbm_tries": 1,
     "jpg": "snapshots/7d40c17e62c0b2b64ad446c9061ceb2dc1c627bd13d5d0b5c39094ecb4ea28b8.jpg",
     "jpg_tries": 1
   },
