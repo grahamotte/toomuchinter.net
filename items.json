@@ -51,8 +51,8 @@
     "timestamp": "2023-12-27 10:46:26 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/02fad810efd3e16b8cdb822d4ce10a8736feccc1ccc3343159fd71701f4123c4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 6,
@@ -710,7 +710,7 @@
     "title": "Snapshot — sledgefisher · Lomography",
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.jpg",
     "jpg_tries": 1
   },
@@ -778,7 +778,7 @@
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 72,
@@ -1062,7 +1062,7 @@
     "title": "Humble Toast Elevated to Zen Artistry by Manami Sasaki | Moss and Fog",
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
