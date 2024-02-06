@@ -1062,9 +1062,9 @@
     "title": "Humble Toast Elevated to Zen Artistry by Manami Sasaki | Moss and Fog",
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
-    "wbm_tries": 3,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 4,
+    "jpg": "snapshots/50c38aa2d2bef02706a44bb00370f1829279b0f67e6e94b31b044e4d7d84827b.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 98,
@@ -1128,7 +1128,7 @@
     "title": "Hand-cranked Flux Capacitor - mitxela.com",
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -2020,8 +2020,8 @@
     "timestamp": "2024-02-02 22:08:05 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/10bee2cc5275c68ef10c3fd09a5f53218fb08999144fb7020ef2048534492ff6.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 185,
