@@ -117,8 +117,8 @@
     "timestamp": "2024-01-01 10:36:50 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/928e09b3456db33c177131801b5413c49a601aab885a52b8ecea443f09cfae17.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 12,
@@ -148,8 +148,8 @@
     "url": "https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=yesterday&excludes=",
     "title": "Topviews Analysis",
     "timestamp": "2024-01-01 13:29:52 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231104064558/https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org",
+    "wbm_tries": 1,
     "jpg": "snapshots/4927c7748eba911ea60004c70f4f9830bdf08873b7b91559da73928614547fc5.jpg",
     "jpg_tries": 1
   },
@@ -161,8 +161,8 @@
     "timestamp": "2024-01-01 14:33:23 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/81cd6988586822809e757de8fabeeda1cd131ee2f005dbd5aea45cf9d0bea2f1.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 16,
@@ -808,8 +808,8 @@
     "url": "https://vimeo.com/900680873",
     "title": "THE 25 BEST FILMS OF 2023: A Video Countdown on Vimeo",
     "timestamp": "2024-01-08 19:16:40 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240203192440/https://vimeo.com/900680873",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
