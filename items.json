@@ -1492,8 +1492,8 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 137,
@@ -1558,8 +1558,8 @@
     "timestamp": "2024-01-22 22:12:30 -0800",
     "wbm": "http://web.archive.org/web/20230130011921/https://htmlgiant.com/author-news/watching-owning-looking-at-listening-to-thinking-about-and-at-last-finally-reading-solaris/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0988e899dbaae15d4188c22c8880a723e7435d99ae3de615abb125cc991abfae.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 143,
@@ -1754,8 +1754,8 @@
     "url": "https://www.fatchurofi.com/",
     "title": "Home | Fatchurofi",
     "timestamp": "2024-01-26 11:48:31 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205064324/https://www.fatchurofi.com/",
+    "wbm_tries": 1,
     "jpg": "snapshots/5d002eb685dc58b6f5f013947cf22302b622f510271cfca38deefe8e9fed1359.jpg",
     "jpg_tries": 2
   },
@@ -1996,8 +1996,8 @@
     "url": "https://dhwthompson.com/2019/my-favourite-git-commit",
     "title": "My favourite Git commit | dhwthompson.com",
     "timestamp": "2024-02-02 10:59:30 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205232422/https://dhwthompson.com/2019/my-favourite-git-commit",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -2073,6 +2073,17 @@
     "url": "https://www.creativeboom.com/inspiration/city-pop/",
     "title": "Nicolas Damiens' colourful photos capture the retro ambience of sunny Singapore | Creative Boom",
     "timestamp": "2024-02-06 11:27:21 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 190,
+    "digest": "eeef905880139bbefd159368416e3127d469c5a97087d03c82ce58d4fa5929e2",
+    "url": "https://pluralistic.net/2024/02/05/cyber-dunning-kruger/",
+    "title": "Pluralistic: How I got scammed (05 Feb 2024) – Pluralistic: Daily links from Cory Doctorow",
+    "timestamp": "2024-02-06 12:18:31 -0800",
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
