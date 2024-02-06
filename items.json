@@ -336,7 +336,7 @@
     "title": "SHARPENHOE CLAPPERS — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:06:27 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/02f53fea12660ed96359429d9e9646bd9fc26b9c9cb5e44cf956538d79be6dfa.jpg",
     "jpg_tries": 1
   },
@@ -1391,8 +1391,8 @@
     "url": "https://www.nier.go.jp/library/rarebooks/",
     "title": "国立教育政策研究所教育図書館貴重資料デジタルコレクション",
     "timestamp": "2024-01-20 12:24:26 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240129131523/https://www.nier.go.jp/library/rarebooks/",
+    "wbm_tries": 1,
     "jpg": "snapshots/d58812272d7a339251624c412b69fec44af5b96e8b603e56e0b06d6e94fd4226.jpg",
     "jpg_tries": 2
   },
@@ -1437,8 +1437,8 @@
     "timestamp": "2024-01-20 21:40:46 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/68a1b4f1ad4f2ece0aff46cfb5501c3bbb205f1828b0e599bac82bc0cd39b464.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 132,
@@ -1921,8 +1921,8 @@
     "timestamp": "2024-01-30 15:38:40 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e223d611915e12e3fabe4235753b65b149861a5be8e4473808955377d9c6902c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 176,
@@ -2062,6 +2062,17 @@
     "url": "https://www.behance.net/gallery/190562809/Year-of-The-Dragon-",
     "title": "Year of The Dragon 甲辰龍年 :: Behance",
     "timestamp": "2024-02-05 11:33:01 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 189,
+    "digest": "bddbd428859ca384dadf741561adc4d84e5329eb973d814ccdff1211af5eddd6",
+    "url": "https://www.creativeboom.com/inspiration/city-pop/",
+    "title": "Nicolas Damiens' colourful photos capture the retro ambience of sunny Singapore | Creative Boom",
+    "timestamp": "2024-02-06 11:27:21 -0800",
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
