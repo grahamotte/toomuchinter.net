@@ -480,8 +480,8 @@
     "timestamp": "2024-01-04 10:57:22 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/77bd5e34133ef62c580cf7b434f1c44c6ce26b02644364a13aef1b7d98e89c74.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 45,
@@ -533,8 +533,8 @@
     "url": "https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "title": "What Can I Do_NTL_text_2_2-1.pdf",
     "timestamp": "2024-01-04 15:36:00 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1723,8 +1723,8 @@
     "timestamp": "2024-01-25 16:31:45 -0800",
     "wbm": "http://web.archive.org/web/20240127213256/https://zachholman.com/posts/only-90s-developers/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9e53b37cca918993634c54217e2e4a3bb0b88e0c596801d3a182927e3f635a39.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 158,
@@ -1733,7 +1733,7 @@
     "title": "#27057235 — peterpan61 · Lomography",
     "timestamp": "2024-01-25 21:20:53 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/080be0da30aebb2a1e80e98d64381b97df7d44c55e2a8d0650ddb22a80a0f0ba.jpg",
     "jpg_tries": 1
   },
