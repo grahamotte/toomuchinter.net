@@ -710,7 +710,7 @@
     "title": "Snapshot — sledgefisher · Lomography",
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.jpg",
     "jpg_tries": 1
   },
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
@@ -1954,8 +1954,8 @@
     "timestamp": "2024-02-01 13:14:36 -0800",
     "wbm": "http://web.archive.org/web/20240201134711/https://alexwlchan.net/2024/big-pdf/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/6aa78a112730d0fc1a21c5efb0d4cb7c100dfefcc47254d682a2d2af185ebb6e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 179,
@@ -1976,8 +1976,8 @@
     "timestamp": "2024-02-01 18:38:24 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9fc221797489d307db7775dd369c23118669f393741770ed63d0bea944cd5573.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 181,
