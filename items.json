@@ -369,7 +369,7 @@
     "title": "#27004325 — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:12:27 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -635,7 +635,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 59,
@@ -964,8 +964,8 @@
     "timestamp": "2024-01-12 11:39:15 -0800",
     "wbm": "http://web.archive.org/web/20240129132258/https://lithub.com/rebecca-solnit-slow-change-can-be-radical-change/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/a5195da06c0e2ffcded7caf057af1cad399bd0b44a37b70626bce3c9fb33da52.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 89,
@@ -2074,7 +2074,7 @@
     "title": "Nicolas Damiens' colourful photos capture the retro ambience of sunny Singapore | Creative Boom",
     "timestamp": "2024-02-06 11:27:21 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
