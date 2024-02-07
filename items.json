@@ -699,7 +699,7 @@
     "title": "Matthias Portzel – Only Git Commits are Real",
     "timestamp": "2024-01-07 10:47:45 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/e53705d02de762c3cb2f121898f3cdea0924565707b8edb9604ff2ae38829347.jpg",
     "jpg_tries": 1
   },
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/15d2ea8e6301d9b4ecb1e3a0149f5e639b3c5953eb176689d7c399383c318a55.jpg",
     "jpg_tries": 1
   },
@@ -1701,8 +1701,8 @@
     "timestamp": "2024-01-24 15:50:49 -0800",
     "wbm": "http://web.archive.org/web/20240201083916/https://www.behance.net/gallery/186055037/Circus-Brand-Video-Imagery-Assets",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/12c5ba5c288e8a90bd84818f75e3c95b8f207826235f443faa41070034725bc6.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 156,
@@ -1778,8 +1778,8 @@
     "timestamp": "2024-01-27 00:28:39 -0800",
     "wbm": "http://web.archive.org/web/20240129132816/https://www.nand2tetris.org/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3278ac3b4e8aebefb8e695f3c8d7def61c3e0ae0179a49872c1b5f798f3a3508.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 163,
