@@ -227,8 +227,8 @@
     "timestamp": "2024-01-01 14:48:24 -0800",
     "wbm": "http://web.archive.org/web/20231214012100/http://lalo.li/lsd/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/75c5c51c1e9fcb45cc56286522531e2175241381c1c145e3fe352405804ef7c9.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 22,
@@ -369,7 +369,7 @@
     "title": "#27004325 — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:12:27 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -996,7 +996,7 @@
     "title": "Mega Corncobs - Chicago : filmphotography",
     "timestamp": "2024-01-12 15:26:11 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/c3d7bb0f2c83c6c36ddba90a280c8fdde8b00740a86421c07f196204c8c3fd34.jpg",
     "jpg_tries": 1
   },
@@ -1910,8 +1910,8 @@
     "timestamp": "2024-01-30 15:20:24 -0800",
     "wbm": "http://web.archive.org/web/20240129122455/https://mossandfog.com/the-optimistic-futurism-of-space-artist-robert-mccall/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/12767a2670abca63bc5a170b7dd04f0f0ed947ee7e301225cc046aebba8ffe24.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 175,
