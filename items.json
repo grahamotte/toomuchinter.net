@@ -677,7 +677,7 @@
     "title": "Reddit - https://i.redd.it/h77cswav15rb1.jpg",
     "timestamp": "2024-01-06 15:50:23 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 1
   },
@@ -722,8 +722,8 @@
     "timestamp": "2024-01-08 16:26:53 -0800",
     "wbm": "http://web.archive.org/web/20230626130847/http://vimeo.com/516647800",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/f833b3f93ce2ddc7a08892a26c70cce8289990a813847303a257080a6088db7c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 67,
@@ -1238,7 +1238,7 @@
     "title": "Reddit - https://i.redd.it/d6et9orykncc1.jpeg",
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1250,8 +1250,8 @@
     "timestamp": "2024-01-15 23:17:16 -0800",
     "wbm": null,
     "wbm_tries": 4,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/5d1920f8281731c3c5398c87cb7e215883569db9e7f26223acbd24dc3abc1a22.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 115,
