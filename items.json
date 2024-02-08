@@ -73,8 +73,8 @@
     "timestamp": "2023-12-27 10:47:22 -0800",
     "wbm": "http://web.archive.org/web/20231129104718/https://launch.puzzmo.com/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d4e1cb3bde76f5f98f5b54f28353792cd802517f38b1b0854e7d47588d4e9ebf.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 8,
@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
   },
   {
     "id": 48,
@@ -1040,7 +1040,7 @@
     "title": "New York City In Kodachrome - Color Photos Found In A Trashcan From the 1950s and 1960s - Flashbak",
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.jpg",
     "jpg_tries": 2
   },
@@ -1238,7 +1238,7 @@
     "title": "Reddit - https://i.redd.it/d6et9orykncc1.jpeg",
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": null,
     "jpg_tries": 0
   },
