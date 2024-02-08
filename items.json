@@ -281,7 +281,7 @@
     "title": "#26961161 — ds2785 · Lomography",
     "timestamp": "2024-01-02 22:59:06 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/71ad4725ecf5ca3ee1de17573d94a64b3937ff3eaaa3c0da7f0f1bd9c0a9c3ae.jpg",
     "jpg_tries": 2
   },
@@ -1260,7 +1260,7 @@
     "title": "#27033213 — stevejack0 · Lomography",
     "timestamp": "2024-01-15 23:25:56 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.jpg",
     "jpg_tries": 1
   },
@@ -1591,8 +1591,8 @@
     "timestamp": "2024-01-22 22:18:52 -0800",
     "wbm": "http://web.archive.org/web/20230129025350/https://minimalselect.com/architecture/lone-madrone/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b088d6adf8b7407eb6ea5465c5a4ce288e6589372227db74a34f2d5e2dc523a8.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 146,
@@ -1635,8 +1635,8 @@
     "timestamp": "2024-01-24 11:53:41 -0800",
     "wbm": "http://web.archive.org/web/20240204180124/http://linesandcolors.com/2024/01/23/eye-candy-for-today-virginia-frances-sterrett-illustration/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/ac523e720d665cde6b840bd26791aa42fc8b1c12fa390766da25d6712da065ca.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 150,
