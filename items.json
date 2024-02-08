@@ -171,7 +171,7 @@
     "title": "#27002292 — pentax_pimp · Lomography",
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -843,8 +843,8 @@
     "timestamp": "2024-01-09 11:04:14 -0800",
     "wbm": "http://web.archive.org/web/20240121182924/https://twitter.com/ryanjreilly/status/1743656421562970545",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9e4f9fe524571ee8de8558a1837dcd9080bfc54fc00949abf9b9ffaa05eddacd.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 78,
@@ -1062,7 +1062,7 @@
     "title": "Humble Toast Elevated to Zen Artistry by Manami Sasaki | Moss and Fog",
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/50c38aa2d2bef02706a44bb00370f1829279b0f67e6e94b31b044e4d7d84827b.jpg",
     "jpg_tries": 1
   },
@@ -1129,8 +1129,8 @@
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
     "wbm_tries": 4,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/ae36539fd72ac2231f1ee0ba7361b6e005efa913e860050ef5984ad0628f2b39.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 104,
