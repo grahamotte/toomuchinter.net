@@ -1184,8 +1184,8 @@
     "timestamp": "2024-01-14 23:30:33 -0800",
     "wbm": "http://web.archive.org/web/20231217055842/https://logological.org/girlfriend",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/6c96706d86c81c992cdde448cd6fca9c491cd0e1d9354a6d2770b1d568598528.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 109,
@@ -1260,7 +1260,7 @@
     "title": "#27033213 — stevejack0 · Lomography",
     "timestamp": "2024-01-15 23:25:56 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.jpg",
     "jpg_tries": 1
   },
@@ -1371,8 +1371,8 @@
     "timestamp": "2024-01-19 22:17:38 -0800",
     "wbm": "http://web.archive.org/web/20240123115456/https://www.itsnicethat.com/articles/joseph-melhuish-music-posters-animation-digital-project-170124",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/bc1ca07c68e553f1aad14f6c513d2b276a3a925d1dd0aedadeda6337473c7307.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 126,
@@ -1633,8 +1633,8 @@
     "url": "http://linesandcolors.com/2024/01/23/eye-candy-for-today-virginia-frances-sterrett-illustration/",
     "title": "Eye Candy for Today: Virginia Frances Sterrett illustration – Lines and Colors",
     "timestamp": "2024-01-24 11:53:41 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240204180124/http://linesandcolors.com/2024/01/23/eye-candy-for-today-virginia-frances-sterrett-illustration/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
