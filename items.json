@@ -1052,8 +1052,8 @@
     "timestamp": "2024-01-14 23:03:51 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e2a27d9d6efdd31d67479c7844cbf0ce0f944575b3e01ab6bcc101df219ea192.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 97,
@@ -1094,8 +1094,8 @@
     "url": "https://map.simonsarris.com/p/designing-a-new-old-home-beginnings",
     "title": "Designing a New Old Home: Beginnings - by Simon Sarris",
     "timestamp": "2024-01-14 23:13:59 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20231127145853/https://map.simonsarris.com/p/designing-a-new-old-home-beginnings",
+    "wbm_tries": 1,
     "jpg": "snapshots/9ac515eceee189eb623ffced6c87ff1e7234d1fae5853e3837f1e6856b561390.jpg",
     "jpg_tries": 1
   },
@@ -1624,8 +1624,8 @@
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 149,
@@ -2019,7 +2019,7 @@
     "title": "Wallpaper Search: #Zdzisław Beksiński - wallhaven.cc",
     "timestamp": "2024-02-02 22:08:05 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/10bee2cc5275c68ef10c3fd09a5f53218fb08999144fb7020ef2048534492ff6.jpg",
     "jpg_tries": 1
   },
