@@ -303,7 +303,7 @@
     "title": "Reddit - https://preview.redd.it/xawu2uo9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=c7715d2c8c6d4674215510814494f2f3cb0a3e49",
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.jpg",
     "jpg_tries": 1
   },
@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1096,8 +1096,8 @@
     "timestamp": "2024-01-14 23:13:59 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9ac515eceee189eb623ffced6c87ff1e7234d1fae5853e3837f1e6856b561390.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 101,
@@ -1866,8 +1866,8 @@
     "timestamp": "2024-01-28 16:40:40 -0800",
     "wbm": "http://web.archive.org/web/20230716175128/http://www.native-languages.org/original.htm",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/eeccc325a5a9db132d7b3582522f3437024fdadd57be0892d8845b997fdf4156.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 171,
