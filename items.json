@@ -445,8 +445,8 @@
     "url": "https://news.ycombinator.com/item?id=38849580",
     "title": "With revenue declining, Mozilla CEO gets a 20% raise | Hacker News",
     "timestamp": "2024-01-03 16:03:07 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240104025152/https://news.ycombinator.com/item?id=38849580",
+    "wbm_tries": 1,
     "jpg": "snapshots/6d441d7555fa135ee8f480e7fc303cf57fb7d69036ba41b1ae0259012b37d349.jpg",
     "jpg_tries": 1
   },
@@ -568,8 +568,8 @@
     "timestamp": "2024-01-05 11:44:01 -0800",
     "wbm": "http://web.archive.org/web/20240123193137/https://www.nomnoml.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/95a1b4b6557ce176fac7fa861f68d3bf734ee70a9e5561c1f5a133a6fcbce688.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 53,
@@ -975,8 +975,8 @@
     "timestamp": "2024-01-12 11:42:24 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/adbc69b12534a47bbc56d752cede05a97caa5d6deffb18366c0df2acc01f7d02.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 90,
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/15d2ea8e6301d9b4ecb1e3a0149f5e639b3c5953eb176689d7c399383c318a55.jpg",
     "jpg_tries": 1
   },
