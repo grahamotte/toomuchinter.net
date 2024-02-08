@@ -777,8 +777,8 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 72,
@@ -1260,7 +1260,7 @@
     "title": "#27033213 — stevejack0 · Lomography",
     "timestamp": "2024-01-15 23:25:56 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.jpg",
     "jpg_tries": 1
   },
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
@@ -1657,8 +1657,8 @@
     "timestamp": "2024-01-24 12:04:48 -0800",
     "wbm": "http://web.archive.org/web/20240124050137/https://taylor.town/mtpt",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/28504c3a65ee58e3a6c7e358e393b2eb1a7a220953897227f1f5714366e2f88d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 152,
@@ -2095,6 +2095,28 @@
     "url": "https://artvee.com/dl/portret-van-een-onbekende-vrouw-4/",
     "title": "Portret van een onbekende vrouw by Samuel Jessurun de Mesquita - Artvee",
     "timestamp": "2024-02-07 11:52:18 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 192,
+    "digest": "f1d29d64e53f35b4463ebe96edbbcfe6eb415e7e468cb0c87335368b57e5a7ac",
+    "url": "https://www.youtube.com/watch?v=teZsA_ci-7E",
+    "title": "Tracy Chapman - Fast Car [Wembley 1988] - YouTube",
+    "timestamp": "2024-02-07 16:38:20 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 193,
+    "digest": "0d411f93069ef8035c28c9d3638d10ccac0d44f873150a579d36457babb6a4a0",
+    "url": "https://www.threads.net/@andriu_fpv/post/C3AqwkioOWN",
+    "title": "@andriu_fpv • Last year we went to Iceland’s volcano to capture some unbelievable shots, defying what is poss... • Threads",
+    "timestamp": "2024-02-07 16:40:30 -0800",
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
