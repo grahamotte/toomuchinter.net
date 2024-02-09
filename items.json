@@ -512,7 +512,7 @@
     "title": "08.08.01_Pepsi Breathtaking_FRANCE.indd - pepsi-arnell-021109.pdf",
     "timestamp": "2024-01-04 11:08:08 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 4
   },
@@ -1018,7 +1018,7 @@
     "title": "Reddit - https://i.redd.it/q2b3v7fcsacc1.jpeg",
     "timestamp": "2024-01-14 12:02:45 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/b1891ac2dfbcd0fef10a1cc9d522d072b3093a55986d7b240b421d5adba5b77a.jpg",
     "jpg_tries": 1
   },
@@ -1239,8 +1239,8 @@
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
     "wbm_tries": 5,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c913b48484bb35445ea5a78c9a452673d224183acf44cd8d00fd968dbb99be33.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 114,
@@ -2097,8 +2097,8 @@
     "timestamp": "2024-02-07 11:52:18 -0800",
     "wbm": "http://web.archive.org/web/20230324151413/https://artvee.com/dl/portret-van-een-onbekende-vrouw-4/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/ad9c82fe30bdf68794a63e37d7d6b85b9ac688b15eefa1fe0c3247a42bc9341f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 192,
