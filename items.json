@@ -336,7 +336,7 @@
     "title": "SHARPENHOE CLAPPERS — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:06:27 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/02f53fea12660ed96359429d9e9646bd9fc26b9c9cb5e44cf956538d79be6dfa.jpg",
     "jpg_tries": 1
   },
@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 1
+    "jpg_tries": 2
   },
   {
     "id": 50,
@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -876,8 +876,8 @@
     "timestamp": "2024-01-10 15:31:30 -0800",
     "wbm": "http://web.archive.org/web/20240124022622/https://www.youtube.com/watch?v=WIiGUzaEwhk",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c68cf74a25b9dc7f1b553a7fe6297e7f07342ed350572609dacd697e03fcec3b.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 81,
