@@ -810,8 +810,8 @@
     "timestamp": "2024-01-08 19:16:40 -0800",
     "wbm": "http://web.archive.org/web/20240203192440/https://vimeo.com/900680873",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3f1b45c0f3a9db37007894de87a578417ff4191be4345fc71acff7a46e27ad1a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 75,
@@ -930,7 +930,7 @@
     "title": "Scifi Art — Art by Syd Mead 'Space Wreck' from The Flights of...",
     "timestamp": "2024-01-11 21:45:38 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.jpg",
     "jpg_tries": 1
   },
@@ -1688,8 +1688,8 @@
     "url": "https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html?unlocked_article_code=1.P00.9mYV.Ij3QDr_5lDS1",
     "title": "Restaurant Menu Trends - The New York Times",
     "timestamp": "2024-01-24 13:00:23 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240128002309/https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html?unlocked_article_code=1.P00.9mYV.Ij3QDr_5lDS1",
+    "wbm_tries": 1,
     "jpg": "snapshots/f3e6a56f09a2e2f5afca41580262fb432d3e79817800ea7818e3b08edf6aae9b.jpg",
     "jpg_tries": 1
   },
@@ -1811,8 +1811,8 @@
     "timestamp": "2024-01-27 00:31:10 -0800",
     "wbm": "http://web.archive.org/web/20240119082317/https://localghost.dev//blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e58f808af7adbe99524de06391e3b13b209f3e93b3d581d7872930fd2cddcb3b.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 166,
