@@ -115,8 +115,8 @@
     "url": "https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops",
     "title": "YOU’VE JUST BEEN FUCKED BY PSYOPS - media.ccc.de",
     "timestamp": "2024-01-01 10:36:50 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205172623/https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops",
+    "wbm_tries": 1,
     "jpg": "snapshots/928e09b3456db33c177131801b5413c49a601aab885a52b8ecea443f09cfae17.jpg",
     "jpg_tries": 1
   },
@@ -183,8 +183,8 @@
     "timestamp": "2024-01-01 14:40:30 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/391760a291b4451fa35bb0b573bf47350fb6fb79d1a76cb4db32fba66a906ca3.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 18,
@@ -1128,7 +1128,7 @@
     "title": "Hand-cranked Flux Capacitor - mitxela.com",
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/ae36539fd72ac2231f1ee0ba7361b6e005efa913e860050ef5984ad0628f2b39.jpg",
     "jpg_tries": 1
   },
@@ -1503,8 +1503,8 @@
     "timestamp": "2024-01-22 11:39:50 -0800",
     "wbm": "http://web.archive.org/web/20240203020201/https://www.lesswrong.com/posts/oA23zoEjPnzqfHiCt/there-is-way-too-much-serendipity",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/bc05f3f78d745d0fafa7121cb9c3de2eb75e220a51fceb2a9bf7092c487710b4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 138,
