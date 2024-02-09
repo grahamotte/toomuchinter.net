@@ -369,7 +369,7 @@
     "title": "#27004325 — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:12:27 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -1140,8 +1140,8 @@
     "timestamp": "2024-01-14 23:26:59 -0800",
     "wbm": "http://web.archive.org/web/20220929132523/https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/41ee0abb06afd6645c1ba52b82f0494a6162a3a9e04b8e30513b37a608a5c07c.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 105,
@@ -1853,8 +1853,8 @@
     "url": "https://designmanifestos.org/",
     "title": "design manifestos .org",
     "timestamp": "2024-01-28 14:17:39 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240129083530/https://designmanifestos.org/",
+    "wbm_tries": 1,
     "jpg": "snapshots/8c0d864b83f1066b8a1990fce4af8570c762fe48257c2fb7f0ac52f350b661f6.jpg",
     "jpg_tries": 1
   },
@@ -2064,8 +2064,8 @@
     "timestamp": "2024-02-05 11:33:01 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/cfff7524f1ed36ae8dab53b4a5adf01ed205d9752c2824f7a944393bb9fd561a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 189,
