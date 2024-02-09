@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 4
+    "jpg_tries": 5
   },
   {
     "id": 50,
@@ -654,8 +654,8 @@
     "url": "https://brr.fyi/posts/south-pole-signage",
     "title": "South Pole Signage",
     "timestamp": "2024-01-05 20:24:31 -0800",
-    "wbm": null,
-    "wbm_tries": 1,
+    "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
+    "wbm_tries": 2,
     "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
     "jpg_tries": 2
   },
@@ -1030,8 +1030,8 @@
     "timestamp": "2024-01-14 12:03:06 -0800",
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 95,
@@ -1128,7 +1128,7 @@
     "title": "Hand-cranked Flux Capacitor - mitxela.com",
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/ae36539fd72ac2231f1ee0ba7361b6e005efa913e860050ef5984ad0628f2b39.jpg",
     "jpg_tries": 1
   },
