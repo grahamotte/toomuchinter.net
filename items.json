@@ -369,7 +369,7 @@
     "title": "#27004325 — stevejack0 · Lomography",
     "timestamp": "2024-01-02 23:12:27 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/8f6eacd3af997bb0cb25765574d5e428d63e9607fc009f6153e5d0a072cdcdde.jpg",
     "jpg_tries": 1
   },
@@ -1062,7 +1062,7 @@
     "title": "Humble Toast Elevated to Zen Artistry by Manami Sasaki | Moss and Fog",
     "timestamp": "2024-01-14 23:07:27 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/50c38aa2d2bef02706a44bb00370f1829279b0f67e6e94b31b044e4d7d84827b.jpg",
     "jpg_tries": 1
   },
@@ -1085,8 +1085,8 @@
     "timestamp": "2024-01-14 23:13:55 -0800",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/1110e312074db6bf306be7806f1e1b2c5891858ebb9a538ac8bec0bc0effadb4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 100,
@@ -2152,7 +2152,7 @@
     "timestamp": "2024-02-09 09:50:57 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d3c836504e89ceb259ddcc7500781d17cf59b86adbeb0d036cb770d457541679.jpg",
+    "jpg_tries": 1
   }
 ]
