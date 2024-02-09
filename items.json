@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 3
+    "jpg_tries": 4
   },
   {
     "id": 48,
@@ -909,8 +909,8 @@
     "timestamp": "2024-01-11 10:55:02 -0800",
     "wbm": "http://web.archive.org/web/20240103165714/https://www.youtube.com/watch?v=rI8tNMsozo0",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3c5a2b27dcad391bebf6296424d55ec394827e49fa44d0328b80003bc84989eb.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 84,
@@ -2041,7 +2041,7 @@
     "title": "Flavio Nicoletti - Google Maps",
     "timestamp": "2024-02-03 10:50:23 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/8c3d0dec19c337909c14d834d11c61802f19739dc09dc9d2fbaba00360aaec55.jpg",
     "jpg_tries": 1
   },
@@ -2106,8 +2106,8 @@
     "url": "https://www.youtube.com/watch?v=teZsA_ci-7E",
     "title": "Tracy Chapman - Fast Car [Wembley 1988] - YouTube",
     "timestamp": "2024-02-07 16:38:20 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205165259/https://www.youtube.com/watch?v=teZsA_ci-7E",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
