@@ -292,7 +292,7 @@
     "title": "Infinite Market Cap",
     "timestamp": "2024-01-02 23:01:11 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/a16930259c1a88f46d27f8a731fa10840db768df21ff2bb6def1cf930336ba0e.jpg",
     "jpg_tries": 1
   },
@@ -667,8 +667,8 @@
     "timestamp": "2024-01-06 15:49:58 -0800",
     "wbm": "http://web.archive.org/web/20240102150703/https://www.theclueless.ai/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b25728a09744970a39a13ddebef5c504e0b490a0b5ff1f6d68b85d6e1d3be4a1.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 62,
@@ -1469,7 +1469,7 @@
     "title": "Reddit - https://i.redd.it/jxe99ijh7ycc1.jpeg",
     "timestamp": "2024-01-21 20:43:20 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/981992c9de39bed8c3056ddee9b1f1100bcd9e77bd95d8d0f2acaf4b2c6c5598.jpg",
     "jpg_tries": 1
   },
@@ -1888,8 +1888,8 @@
     "timestamp": "2024-01-29 20:37:44 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9a1fd17e7b64b546b46cadc652a84ee6e8e33b9296af314611ac4046ec4d39b4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 173,
