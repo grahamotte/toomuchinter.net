@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 3
+    "jpg_tries": 4
   },
   {
     "id": 50,
@@ -1195,8 +1195,8 @@
     "timestamp": "2024-01-14 23:33:58 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/34ee25638a347e9e7c8c3b2bfd8a5a91e49063aa9e8da3930af5d58b8d7e0c59.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 110,
@@ -1887,7 +1887,7 @@
     "title": "3428 Roberts - Wikipedia",
     "timestamp": "2024-01-29 20:37:44 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/9a1fd17e7b64b546b46cadc652a84ee6e8e33b9296af314611ac4046ec4d39b4.jpg",
     "jpg_tries": 1
   },
@@ -1975,7 +1975,7 @@
     "title": "Scifi Art — Art by Brom 'The Ghoul Princess' for Dungeon...",
     "timestamp": "2024-02-01 18:38:24 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/9fc221797489d307db7775dd369c23118669f393741770ed63d0bea944cd5573.jpg",
     "jpg_tries": 1
   },
