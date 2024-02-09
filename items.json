@@ -370,8 +370,8 @@
     "timestamp": "2024-01-02 23:12:27 -0800",
     "wbm": null,
     "wbm_tries": 5,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/8f6eacd3af997bb0cb25765574d5e428d63e9607fc009f6153e5d0a072cdcdde.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 35,
@@ -1040,7 +1040,7 @@
     "title": "New York City In Kodachrome - Color Photos Found In A Trashcan From the 1950s and 1960s - Flashbak",
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.jpg",
     "jpg_tries": 2
   },
@@ -1623,7 +1623,7 @@
     "title": "Swayam Parekh reconnects with herself in heartwarming, whimsical picture book | Creative Boom",
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.jpg",
     "jpg_tries": 1
   },
@@ -2009,8 +2009,8 @@
     "timestamp": "2024-02-02 19:41:02 -0800",
     "wbm": "http://web.archive.org/web/20240203113700/https://once.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d5011e3a64ead9eddefaf9b90baa6f316849c2ed8c6c44b733ef35d2ad5aa1ba.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 184,
