@@ -710,7 +710,7 @@
     "title": "Snapshot — sledgefisher · Lomography",
     "timestamp": "2024-01-07 10:57:49 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/de8daf073915024c07cf31a64fce058e4bb4558cb5a684c1e8f2cc42e6aa902c.jpg",
     "jpg_tries": 1
   },
@@ -1128,7 +1128,7 @@
     "title": "Hand-cranked Flux Capacitor - mitxela.com",
     "timestamp": "2024-01-14 23:25:24 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/ae36539fd72ac2231f1ee0ba7361b6e005efa913e860050ef5984ad0628f2b39.jpg",
     "jpg_tries": 1
   },
@@ -1294,8 +1294,8 @@
     "timestamp": "2024-01-19 18:13:53 -0800",
     "wbm": "http://web.archive.org/web/20240129214350/https://www.theatlantic.com/photo/2024/01/lava-flows-into-icelandic-town/677141/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/ec74aab66b230feda768f33e1e60946ad727f79e09fb5a064d20bc602331d1e1.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 119,
@@ -1822,8 +1822,8 @@
     "timestamp": "2024-01-27 00:39:46 -0800",
     "wbm": "http://web.archive.org/web/20240119014431/https://en.wikipedia.org/wiki/Low-background_steel",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e963e8098935ff99250b9d74dc9e98a08f13f885a863e9bfdfde75aa55a80759.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 167,
