@@ -215,7 +215,7 @@
     "title": "My Favorite Photos from 2023 – Alexander S. Kunz Photography",
     "timestamp": "2024-01-01 14:47:48 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/41f93a8b809bfc9c1999fbb64f59efd62e7b7c0ea325206f84eb5c3a063b1d62.jpg",
     "jpg_tries": 1
   },
@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 4
+    "jpg_tries": 5
   },
   {
     "id": 48,
@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 5
+    "jpg_tries": 6
   },
   {
     "id": 50,
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/15d2ea8e6301d9b4ecb1e3a0149f5e639b3c5953eb176689d7c399383c318a55.jpg",
     "jpg_tries": 1
   },
