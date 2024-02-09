@@ -172,8 +172,8 @@
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
     "wbm_tries": 4,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/84de11fcec445d030a09056044845e2e4140b1b5b22b9fcdc27ee9d4080b4caf.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 17,
@@ -556,7 +556,7 @@
     "title": "Reddit - https://i.redd.it/dhhy1f9o4gac1.jpeg",
     "timestamp": "2024-01-05 10:55:32 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/ddedfbe126b6e3d4e1673a466114b2520d647894fa2ec89ab010a3233404e40f.jpg",
     "jpg_tries": 1
   },
@@ -986,8 +986,8 @@
     "timestamp": "2024-01-12 11:43:26 -0800",
     "wbm": "http://web.archive.org/web/20240128083516/https://www.youtube.com/watch?v=Limpr1L8Pss",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e08545444af984099a1c4fc99b7c042abe612e8004d9a6f231e346fe1ae83855.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 91,
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
