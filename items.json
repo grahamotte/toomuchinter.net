@@ -303,7 +303,7 @@
     "title": "Reddit - https://preview.redd.it/xawu2uo9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=c7715d2c8c6d4674215510814494f2f3cb0a3e49",
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.jpg",
     "jpg_tries": 1
   },
@@ -996,7 +996,7 @@
     "title": "Mega Corncobs - Chicago : filmphotography",
     "timestamp": "2024-01-12 15:26:11 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/c3d7bb0f2c83c6c36ddba90a280c8fdde8b00740a86421c07f196204c8c3fd34.jpg",
     "jpg_tries": 1
   },
@@ -1217,8 +1217,8 @@
     "timestamp": "2024-01-14 23:36:34 -0800",
     "wbm": "http://web.archive.org/web/20240119085540/https://www.commondreams.org/news/in-41-us-states-richest-1-pay-lower-tax-rates-than-everyone-else",
     "wbm_tries": 3,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/bbe1bb24e5376316097fc8f07cf6ee7caf42fc84baf6cbeb1fe4b8ebacbb9c86.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 112,
@@ -1228,8 +1228,8 @@
     "timestamp": "2024-01-14 23:37:10 -0800",
     "wbm": "http://web.archive.org/web/20240101185031/https://ntietz.com/blog/annotating-my-early-code-from-a-robot/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/7e3c44b32bd5750002d4c1e884c3010615d1abc71a5eba7e464520768b2dd0ec.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 113,
