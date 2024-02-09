@@ -612,8 +612,8 @@
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
     "wbm_tries": 4,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/7456fb7745355199c160753a1ae4bb802172a3e72eb39372bffcd115cc6cb4e0.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 57,
@@ -974,7 +974,7 @@
     "title": "Reddit - https://i.redd.it/dy7yfa7stvbc1.jpeg",
     "timestamp": "2024-01-12 11:42:24 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/adbc69b12534a47bbc56d752cede05a97caa5d6deffb18366c0df2acc01f7d02.jpg",
     "jpg_tries": 1
   },
@@ -1040,7 +1040,7 @@
     "title": "New York City In Kodachrome - Color Photos Found In A Trashcan From the 1950s and 1960s - Flashbak",
     "timestamp": "2024-01-14 14:58:42 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/b80356666465a4be87b526774c395a1e366c2ad0eb348e5aa26527ee2febfef0.jpg",
     "jpg_tries": 2
   },
@@ -1459,8 +1459,8 @@
     "timestamp": "2024-01-21 20:40:21 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/52d03e560150729e7151b0bf4a0f14e2e3c1d55ace32986361e1b751ec51f9bf.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 134,
@@ -2132,5 +2132,27 @@
     "wbm_tries": 0,
     "jpg": "snapshots/6d46876cbd54c6e85d04316322997de50ed2a035f64012827001553516f0540c.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 195,
+    "digest": "9286e83602ab55b8cde6d96834b6ea151f9b575fae131077d8353768cea920be",
+    "url": "https://artvee.com/dl/beispiele-kunstlerischer-schrift-pl-073/",
+    "title": "Beispiele kunstlerischer Schrift Pl.073 by Rudolf von Larisch - Artvee",
+    "timestamp": "2024-02-09 09:21:58 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 196,
+    "digest": "d3c836504e89ceb259ddcc7500781d17cf59b86adbeb0d036cb770d457541679",
+    "url": "https://design-milk.com/8-year-old-alf-barbel-wit-proves-creative-talent-is-not-limited-by-age/?utm_source=rss&utm_medium=rss&utm_campaign=8-year-old-alf-barbel-wit-proves-creative-talent-is-not-limited-by-age",
+    "title": "Alf Barbel Wit Proves Creative Talent Is Not Limited To Age",
+    "timestamp": "2024-02-09 09:50:57 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
