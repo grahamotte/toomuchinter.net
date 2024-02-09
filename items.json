@@ -457,7 +457,7 @@
     "title": "Pulled 2 stops — jonography · Lomography",
     "timestamp": "2024-01-04 10:25:18 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/e9635a8849de85b568bb6e1c4b047713b85582de3038e6c35aa805b19fdd5b01.jpg",
     "jpg_tries": 1
   },
@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
   },
   {
     "id": 50,
@@ -974,7 +974,7 @@
     "title": "Reddit - https://i.redd.it/dy7yfa7stvbc1.jpeg",
     "timestamp": "2024-01-12 11:42:24 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/adbc69b12534a47bbc56d752cede05a97caa5d6deffb18366c0df2acc01f7d02.jpg",
     "jpg_tries": 1
   },
@@ -1162,8 +1162,8 @@
     "timestamp": "2024-01-14 23:28:20 -0800",
     "wbm": "http://web.archive.org/web/20230717095246/http://www.arpa.net/1000days.html",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/6b521caedeca29a0a2dc91431920a7a792986dfe1c7feeb17473732feb166fe5.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 107,
