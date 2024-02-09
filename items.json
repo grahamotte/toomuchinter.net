@@ -215,7 +215,7 @@
     "title": "My Favorite Photos from 2023 – Alexander S. Kunz Photography",
     "timestamp": "2024-01-01 14:47:48 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/41f93a8b809bfc9c1999fbb64f59efd62e7b7c0ea325206f84eb5c3a063b1d62.jpg",
     "jpg_tries": 1
   },
@@ -259,7 +259,7 @@
     "title": "Mining in Cornwall — stevejack0 · Lomography",
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.jpg",
     "jpg_tries": 1
   },
@@ -458,8 +458,8 @@
     "timestamp": "2024-01-04 10:25:18 -0800",
     "wbm": null,
     "wbm_tries": 5,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e9635a8849de85b568bb6e1c4b047713b85582de3038e6c35aa805b19fdd5b01.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 43,
@@ -1525,8 +1525,8 @@
     "timestamp": "2024-01-22 16:34:03 -0800",
     "wbm": "http://web.archive.org/web/20240202183221/https://www.youtube.com/watch?v=vrUWQ56GeyU",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9412c77be58f2ed7d1ae58de5c7ee452d67b7d88065b8820f027dabd5a9db039.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 140,
