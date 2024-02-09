@@ -468,7 +468,7 @@
     "title": "Knives – DC's",
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
     "jpg_tries": 1
   },
@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 50,
@@ -1260,7 +1260,7 @@
     "title": "#27033213 — stevejack0 · Lomography",
     "timestamp": "2024-01-15 23:25:56 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.jpg",
     "jpg_tries": 1
   },
@@ -2119,8 +2119,8 @@
     "timestamp": "2024-02-07 16:40:30 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0d411f93069ef8035c28c9d3638d10ccac0d44f873150a579d36457babb6a4a0.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 194,
