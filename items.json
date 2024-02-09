@@ -930,7 +930,7 @@
     "title": "Scifi Art — Art by Syd Mead 'Space Wreck' from The Flights of...",
     "timestamp": "2024-01-11 21:45:38 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.jpg",
     "jpg_tries": 1
   },
@@ -1514,8 +1514,8 @@
     "timestamp": "2024-01-22 16:21:13 -0800",
     "wbm": "http://web.archive.org/web/20231229023654/https://en.wikipedia.org/wiki/List_of_cryptids",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e824851a5820ddd6bc2e64e4f66b0bc6af27eb6c2b8b073bfdb244d1b90bb653.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 139,
@@ -2129,7 +2129,7 @@
     "title": "De kaap by Johannes Frederik Engelbert ten Klooster - Artvee",
     "timestamp": "2024-02-07 17:49:51 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/6d46876cbd54c6e85d04316322997de50ed2a035f64012827001553516f0540c.jpg",
     "jpg_tries": 1
   },
@@ -2141,8 +2141,8 @@
     "timestamp": "2024-02-09 09:21:58 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9286e83602ab55b8cde6d96834b6ea151f9b575fae131077d8353768cea920be.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 196,
