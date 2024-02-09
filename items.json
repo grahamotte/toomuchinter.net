@@ -1073,7 +1073,7 @@
     "title": "#27032265 — fotocinematica · Lomography",
     "timestamp": "2024-01-14 23:11:26 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/875b6036e84abac47c210d681844e1ccb35e3f7eaff0bfb04a9e1218b714b646.jpg",
     "jpg_tries": 1
   },
@@ -1260,7 +1260,7 @@
     "title": "#27033213 — stevejack0 · Lomography",
     "timestamp": "2024-01-15 23:25:56 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/df2f96be97a6dcf573ad5bc8b5b747859a0f83e69fff9a8158c2458ac4be208c.jpg",
     "jpg_tries": 1
   },
@@ -1536,8 +1536,8 @@
     "timestamp": "2024-01-22 16:34:15 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/14f761a40535b11fc2746e0971c6a03f43a367f67b664271e9bdf4f2bfc61427.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 141,
@@ -2086,8 +2086,8 @@
     "timestamp": "2024-02-06 12:18:31 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/eeef905880139bbefd159368416e3127d469c5a97087d03c82ce58d4fa5929e2.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 191,
