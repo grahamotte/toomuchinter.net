@@ -1083,8 +1083,8 @@
     "url": "https://map.simonsarris.com/p/the-most-precious-resource-is-agency",
     "title": "The Most Precious Resource is Agency - by Simon Sarris",
     "timestamp": "2024-01-14 23:13:55 -0800",
-    "wbm": null,
-    "wbm_tries": 1,
+    "wbm": "http://web.archive.org/web/20240127183312/https://map.simonsarris.com/p/the-most-precious-resource-is-agency",
+    "wbm_tries": 2,
     "jpg": "snapshots/1110e312074db6bf306be7806f1e1b2c5891858ebb9a538ac8bec0bc0effadb4.jpg",
     "jpg_tries": 1
   },
@@ -1414,7 +1414,7 @@
     "title": "Minéral — herbdolphy · Lomography",
     "timestamp": "2024-01-20 16:36:13 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/52c646a877fa5967c7027fa879dc6807703c7c415f779ce48a9c56ae0a800501.jpg",
     "jpg_tries": 1
   },
