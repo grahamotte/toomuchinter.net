@@ -215,7 +215,7 @@
     "title": "My Favorite Photos from 2023 – Alexander S. Kunz Photography",
     "timestamp": "2024-01-01 14:47:48 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/41f93a8b809bfc9c1999fbb64f59efd62e7b7c0ea325206f84eb5c3a063b1d62.jpg",
     "jpg_tries": 1
   },
@@ -435,7 +435,7 @@
     "title": "Reddit - https://i.redd.it/l0bbg2fmc3ac1.jpeg",
     "timestamp": "2024-01-02 23:36:58 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/d1319b52921d8a806f86e887086c714a2912d3a94d81b3ecab0d4b084170a735.jpg",
     "jpg_tries": 3
   },
@@ -634,8 +634,8 @@
     "timestamp": "2024-01-05 20:16:14 -0800",
     "wbm": "http://web.archive.org/web/20240125181424/https://papereditor.app/dev",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 7
+    "jpg": "snapshots/8a8a4b645b051cdaa68f5a5bdc4c3ad17f82a6a8542037b91fe236d865c03845.jpg",
+    "jpg_tries": 8
   },
   {
     "id": 59,
