@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/7456fb7745355199c160753a1ae4bb802172a3e72eb39372bffcd115cc6cb4e0.jpg",
     "jpg_tries": 1
   },
@@ -635,7 +635,7 @@
     "wbm": "http://web.archive.org/web/20240125181424/https://papereditor.app/dev",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 4
+    "jpg_tries": 5
   },
   {
     "id": 59,
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/15d2ea8e6301d9b4ecb1e3a0149f5e639b3c5953eb176689d7c399383c318a55.jpg",
     "jpg_tries": 1
   },
@@ -1646,8 +1646,8 @@
     "timestamp": "2024-01-24 12:00:42 -0800",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/70eb133bb3128ab7c40048d93274be3abd43ea2540b1ab9a18d17d7842bc7955.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 151,
