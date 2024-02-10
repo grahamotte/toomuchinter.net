@@ -381,8 +381,8 @@
     "timestamp": "2024-01-02 23:14:02 -0800",
     "wbm": "http://web.archive.org/web/20231222164731/https://www.youtube.com/watch?v=rEoc0YoALt0",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/97d64c502a482f8fde5a7aa177b922e1bb5595d95e1348a75709be986a7b1780.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 36,
@@ -601,8 +601,8 @@
     "timestamp": "2024-01-05 15:42:17 -0800",
     "wbm": "http://web.archive.org/web/20240124012513/https://www.youtube.com/watch?v=thMvN0DCsNc",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4d053ddd8225e83c0b40b267f26fe1897eb92bd35642ef9674de37ad867b6989.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 56,
@@ -1414,7 +1414,7 @@
     "title": "Minéral — herbdolphy · Lomography",
     "timestamp": "2024-01-20 16:36:13 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/52c646a877fa5967c7027fa879dc6807703c7c415f779ce48a9c56ae0a800501.jpg",
     "jpg_tries": 1
   },
@@ -2151,7 +2151,7 @@
     "title": "Alf Barbel Wit Proves Creative Talent Is Not Limited To Age",
     "timestamp": "2024-02-09 09:50:57 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/d3c836504e89ceb259ddcc7500781d17cf59b86adbeb0d036cb770d457541679.jpg",
     "jpg_tries": 1
   }
