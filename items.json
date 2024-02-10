@@ -514,7 +514,7 @@
     "wbm": null,
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 6
+    "jpg_tries": 7
   },
   {
     "id": 48,
@@ -632,10 +632,10 @@
     "url": "https://papereditor.app/dev",
     "title": "9 years of Apple text editor solo dev",
     "timestamp": "2024-01-05 20:16:14 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240125181424/https://papereditor.app/dev",
+    "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 3
+    "jpg_tries": 4
   },
   {
     "id": 59,
@@ -1887,7 +1887,7 @@
     "title": "3428 Roberts - Wikipedia",
     "timestamp": "2024-01-29 20:37:44 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/9a1fd17e7b64b546b46cadc652a84ee6e8e33b9296af314611ac4046ec4d39b4.jpg",
     "jpg_tries": 1
   },
