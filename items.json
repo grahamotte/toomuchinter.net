@@ -635,7 +635,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
   },
   {
     "id": 59,
@@ -677,7 +677,7 @@
     "title": "Reddit - https://i.redd.it/h77cswav15rb1.jpg",
     "timestamp": "2024-01-06 15:50:23 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/2ef1c5a78a3580d5bb6f0fa6c0b4746b265a1a05d03d5ecdf77b087a0e1554d1.jpg",
     "jpg_tries": 2
   },
@@ -1535,7 +1535,7 @@
     "title": "Reddit - https://i.redd.it/21e51swxvydc1.jpeg",
     "timestamp": "2024-01-22 16:34:15 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/14f761a40535b11fc2746e0971c6a03f43a367f67b664271e9bdf4f2bfc61427.jpg",
     "jpg_tries": 1
   },
@@ -2108,8 +2108,8 @@
     "timestamp": "2024-02-07 16:38:20 -0800",
     "wbm": "http://web.archive.org/web/20240205165259/https://www.youtube.com/watch?v=teZsA_ci-7E",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/f1d29d64e53f35b4463ebe96edbbcfe6eb415e7e468cb0c87335368b57e5a7ac.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 193,
