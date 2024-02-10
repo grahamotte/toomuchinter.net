@@ -326,8 +326,8 @@
     "timestamp": "2024-01-02 23:05:39 -0800",
     "wbm": "http://web.archive.org/web/20240127201900/https://www.youtube.com/watch?v=GuJ5UuknsHU",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/1c1bd48b1b3c2f8a37e2efd7a2dbdc5e99728b7ebbfba1817d743bae727c3770.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 31,
@@ -478,8 +478,8 @@
     "url": "https://www.thisiscolossal.com/2024/01/marija-tiurina-murals/",
     "title": "Marija Tiurina's Vibrant and Relatable Murals Foreground Community and Care — Colossal",
     "timestamp": "2024-01-04 10:57:22 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240201114206/https://www.thisiscolossal.com/2024/01/marija-tiurina-murals/",
+    "wbm_tries": 1,
     "jpg": "snapshots/77bd5e34133ef62c580cf7b434f1c44c6ce26b02644364a13aef1b7d98e89c74.jpg",
     "jpg_tries": 1
   },
@@ -536,7 +536,7 @@
     "wbm": "http://web.archive.org/web/20240124003515/https://www.nottoolateclimate.com/_files/ugd/c8ef46_ff209e95f1f94336b40c02ad2c78aee7.pdf",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 7
+    "jpg_tries": 8
   },
   {
     "id": 50,
@@ -1469,7 +1469,7 @@
     "title": "Reddit - https://i.redd.it/jxe99ijh7ycc1.jpeg",
     "timestamp": "2024-01-21 20:43:20 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/981992c9de39bed8c3056ddee9b1f1100bcd9e77bd95d8d0f2acaf4b2c6c5598.jpg",
     "jpg_tries": 1
   },
