@@ -1897,8 +1897,8 @@
     "url": "https://www.youtube.com/watch?v=h42QVfrUVFw",
     "title": "What's inside this crater in Madagascar? - YouTube",
     "timestamp": "2024-01-29 20:42:05 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240211072042/https://www.youtube.com/watch?v=h42QVfrUVFw",
+    "wbm_tries": 1,
     "jpg": "snapshots/a82d5fbbb5dcd4c0e25d9ad6f4af380ad89ffc644fdc6f5d1406c16b336e994d.jpg",
     "jpg_tries": 1
   },
@@ -2041,7 +2041,7 @@
     "title": "Flavio Nicoletti - Google Maps",
     "timestamp": "2024-02-03 10:50:23 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/8c3d0dec19c337909c14d834d11c61802f19739dc09dc9d2fbaba00360aaec55.jpg",
     "jpg_tries": 1
   },
