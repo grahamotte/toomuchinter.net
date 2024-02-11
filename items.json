@@ -292,7 +292,7 @@
     "title": "Infinite Market Cap",
     "timestamp": "2024-01-02 23:01:11 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/a16930259c1a88f46d27f8a731fa10840db768df21ff2bb6def1cf930336ba0e.jpg",
     "jpg_tries": 1
   },
@@ -2030,7 +2030,7 @@
     "title": "27 Vicolo Gran Cancelliere - Google Maps",
     "timestamp": "2024-02-03 10:39:38 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/eb8d78d62db57ec4d55827f82d5699ab337bc4ba8699bf161e8fc2088177def4.jpg",
     "jpg_tries": 1
   },
