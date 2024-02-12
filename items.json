@@ -1194,7 +1194,7 @@
     "title": "Narasimhanaickenpalayam - Wikipedia",
     "timestamp": "2024-01-14 23:33:58 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/34ee25638a347e9e7c8c3b2bfd8a5a91e49063aa9e8da3930af5d58b8d7e0c59.jpg",
     "jpg_tries": 1
   },
@@ -1798,8 +1798,8 @@
     "url": "https://time.fyi/timezones",
     "title": "time.fyi - all the time related tools in one place",
     "timestamp": "2024-01-27 00:29:03 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240209081955/https://time.fyi/timezones",
+    "wbm_tries": 1,
     "jpg": "snapshots/58a3b74cabaec0922997deb2865f6d62863e6dec34a25615cbcf42398a7c4784.jpg",
     "jpg_tries": 1
   },
