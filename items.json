@@ -831,7 +831,7 @@
     "title": "Forestry Mulcher mows down a tree : toolgifs",
     "timestamp": "2024-01-09 08:20:28 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/88a4632d04755fbde855062dd25f4c02a0b9411bd87171806e5fd1cd33cb74f6.jpg",
     "jpg_tries": 1
   },
@@ -1414,7 +1414,7 @@
     "title": "Minéral — herbdolphy · Lomography",
     "timestamp": "2024-01-20 16:36:13 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/52c646a877fa5967c7027fa879dc6807703c7c415f779ce48a9c56ae0a800501.jpg",
     "jpg_tries": 1
   },
@@ -2197,6 +2197,28 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/0d4c10e898cbc28699dcbf47f59e19653bee34bdb3848bd78c3cfb8f6a5231e3.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 201,
+    "digest": "1cedd036d0fef8d2fc5de5dc46429fc8d9a3ba46d261565dda3f12c677033725",
+    "url": "https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can",
+    "title": "How To Write Stuff No One Else Can – The Write to Roam",
+    "timestamp": "2024-02-12 17:01:35 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/1cedd036d0fef8d2fc5de5dc46429fc8d9a3ba46d261565dda3f12c677033725.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 202,
+    "digest": "19ff6eee9a855a4ecf3c55a92616aa95a038a98dbede2345ae4709002916bcf4",
+    "url": "http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html",
+    "title": "555 timer teardown: inside the world's most popular IC",
+    "timestamp": "2024-02-12 17:08:33 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/19ff6eee9a855a4ecf3c55a92616aa95a038a98dbede2345ae4709002916bcf4.jpg",
     "jpg_tries": 1
   }
 ]
