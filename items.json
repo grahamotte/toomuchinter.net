@@ -1457,8 +1457,8 @@
     "url": "https://www.booooooom.com/2024/01/15/faint-of-heart-by-artist-nicole-duennebier/",
     "title": "\"Faint of Heart\" by Artist Nicole Duennebier",
     "timestamp": "2024-01-21 20:40:21 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240205062354/https://www.booooooom.com/2024/01/15/faint-of-heart-by-artist-nicole-duennebier/",
+    "wbm_tries": 1,
     "jpg": "snapshots/52d03e560150729e7151b0bf4a0f14e2e3c1d55ace32986361e1b751ec51f9bf.jpg",
     "jpg_tries": 1
   },
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
