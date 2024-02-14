@@ -2151,7 +2151,7 @@
     "title": "Alf Barbel Wit Proves Creative Talent Is Not Limited To Age",
     "timestamp": "2024-02-09 09:50:57 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/d3c836504e89ceb259ddcc7500781d17cf59b86adbeb0d036cb770d457541679.jpg",
     "jpg_tries": 1
   },
@@ -2216,8 +2216,8 @@
     "url": "http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html",
     "title": "555 timer teardown: inside the world's most popular IC",
     "timestamp": "2024-02-12 17:08:33 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240213170106/http://www.righto.com/2016/02/555-timer-teardown-inside-worlds-most.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/19ff6eee9a855a4ecf3c55a92616aa95a038a98dbede2345ae4709002916bcf4.jpg",
     "jpg_tries": 1
   },
