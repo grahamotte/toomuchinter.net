@@ -303,7 +303,7 @@
     "title": "Reddit - https://preview.redd.it/xawu2uo9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=c7715d2c8c6d4674215510814494f2f3cb0a3e49",
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.jpg",
     "jpg_tries": 1
   },
@@ -1645,7 +1645,7 @@
     "title": "Reddit - https://i.redd.it/zkx032ssmaec1.jpeg",
     "timestamp": "2024-01-24 12:00:42 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/70eb133bb3128ab7c40048d93274be3abd43ea2540b1ab9a18d17d7842bc7955.jpg",
     "jpg_tries": 1
   },
