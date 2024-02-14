@@ -941,7 +941,7 @@
     "title": "#27025115 — shoao · Lomography",
     "timestamp": "2024-01-11 21:51:24 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/ef4359d24de0d9b68f70d555ed809023990fbd60fa8cd09bcfc5b45a0bb294db.jpg",
     "jpg_tries": 1
   },
@@ -2183,8 +2183,8 @@
     "url": "https://abduzeedo.com/exploring-particle-dynamics-motion-design-typography",
     "title": "Exploring Particle Dynamics in Motion Design & Typography",
     "timestamp": "2024-02-10 19:45:48 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240212022312/https://abduzeedo.com/exploring-particle-dynamics-motion-design-typography",
+    "wbm_tries": 1,
     "jpg": "snapshots/dada4b6de85b3c762342d8fccc80b14a6c2c187650a52eb188800f3a07ee9d48.jpg",
     "jpg_tries": 1
   },
