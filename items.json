@@ -171,7 +171,7 @@
     "title": "#27002292 — pentax_pimp · Lomography",
     "timestamp": "2024-01-01 14:34:49 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/84de11fcec445d030a09056044845e2e4140b1b5b22b9fcdc27ee9d4080b4caf.jpg",
     "jpg_tries": 1
   },
@@ -1623,7 +1623,7 @@
     "title": "Swayam Parekh reconnects with herself in heartwarming, whimsical picture book | Creative Boom",
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.jpg",
     "jpg_tries": 1
   },
@@ -2230,6 +2230,28 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/a59a281c258aab48b8c875cb2c0db7c3cd68ffcd4149837444a0dcba9cc5ca0f.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 204,
+    "digest": "2ae23e2d8d4526b40e915007ba2f9490649dba1e2fe7ebda4b781b6d7c7d7cfc",
+    "url": "https://old.reddit.com/r/AlAnon/comments/19drweh/my_husbands_alcoholism_killed_him/",
+    "title": "My husband’s alcoholism killed him : AlAnon",
+    "timestamp": "2024-02-13 20:34:58 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/2ae23e2d8d4526b40e915007ba2f9490649dba1e2fe7ebda4b781b6d7c7d7cfc.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 205,
+    "digest": "b1b8f2255415ecd4ea96c9846aaa8767f15d230596f3f0c6debe8c18aba92b02",
+    "url": "https://github.com/vitoplantamura/HackerNewsRemovals",
+    "title": "vitoplantamura/HackerNewsRemovals: List of stories removed from the Hacker News Front Page, updated in real time.",
+    "timestamp": "2024-02-13 21:10:06 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/b1b8f2255415ecd4ea96c9846aaa8767f15d230596f3f0c6debe8c18aba92b02.jpg",
     "jpg_tries": 1
   }
 ]
