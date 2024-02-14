@@ -1535,7 +1535,7 @@
     "title": "Reddit - https://i.redd.it/21e51swxvydc1.jpeg",
     "timestamp": "2024-01-22 16:34:15 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/14f761a40535b11fc2746e0971c6a03f43a367f67b664271e9bdf4f2bfc61427.jpg",
     "jpg_tries": 1
   },
@@ -1579,7 +1579,7 @@
     "title": "List of open questions",
     "timestamp": "2024-01-22 22:16:18 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/15d2ea8e6301d9b4ecb1e3a0149f5e639b3c5953eb176689d7c399383c318a55.jpg",
     "jpg_tries": 1
   },
@@ -2219,6 +2219,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/19ff6eee9a855a4ecf3c55a92616aa95a038a98dbede2345ae4709002916bcf4.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 203,
+    "digest": "a59a281c258aab48b8c875cb2c0db7c3cd68ffcd4149837444a0dcba9cc5ca0f",
+    "url": "https://mossandfog.com/this-modern-home-in-california-comes-with-a-world-class-astronomy-observatory/",
+    "title": "This Modern Home in California Comes with a World Class Astronomy Observatory – Moss and Fog",
+    "timestamp": "2024-02-13 15:56:00 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/a59a281c258aab48b8c875cb2c0db7c3cd68ffcd4149837444a0dcba9cc5ca0f.jpg",
     "jpg_tries": 1
   }
 ]
