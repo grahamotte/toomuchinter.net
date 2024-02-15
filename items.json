@@ -787,7 +787,7 @@
     "title": "Xenotrip (@xenotrip) on Threads",
     "timestamp": "2024-01-08 19:15:37 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/74f9d39b72921b44aa350caacdc3a537c58ab60f0cfe8ee3792682ff80276820.jpg",
     "jpg_tries": 1
   },
@@ -2084,8 +2084,8 @@
     "url": "https://pluralistic.net/2024/02/05/cyber-dunning-kruger/",
     "title": "Pluralistic: How I got scammed (05 Feb 2024) – Pluralistic: Daily links from Cory Doctorow",
     "timestamp": "2024-02-06 12:18:31 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240213175625/https://pluralistic.net/2024/02/05/cyber-dunning-kruger/",
+    "wbm_tries": 1,
     "jpg": "snapshots/eeef905880139bbefd159368416e3127d469c5a97087d03c82ce58d4fa5929e2.jpg",
     "jpg_tries": 1
   },
