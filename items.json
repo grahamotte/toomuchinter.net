@@ -292,7 +292,7 @@
     "title": "Infinite Market Cap",
     "timestamp": "2024-01-02 23:01:11 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/a16930259c1a88f46d27f8a731fa10840db768df21ff2bb6def1cf930336ba0e.jpg",
     "jpg_tries": 1
   },
@@ -1018,7 +1018,7 @@
     "title": "Reddit - https://i.redd.it/q2b3v7fcsacc1.jpeg",
     "timestamp": "2024-01-14 12:02:45 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/b1891ac2dfbcd0fef10a1cc9d522d072b3093a55986d7b240b421d5adba5b77a.jpg",
     "jpg_tries": 1
   },
