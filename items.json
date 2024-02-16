@@ -1436,7 +1436,7 @@
     "title": "Coolsingel - Wikipedia",
     "timestamp": "2024-01-20 21:40:46 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/68a1b4f1ad4f2ece0aff46cfb5501c3bbb205f1828b0e599bac82bc0cd39b464.jpg",
     "jpg_tries": 1
   },
@@ -2271,8 +2271,8 @@
     "url": "https://www.booooooom.com/2024/02/14/artist-spotlight-jon-fox-2/",
     "title": "Artist Spotlight: Jon Fox – BOOOOOOOM! – CREATE * INSPIRE * COMMUNITY * ART * DESIGN * MUSIC * FILM * PHOTO * PROJECTS",
     "timestamp": "2024-02-14 21:07:08 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240214203642/https://www.booooooom.com/2024/02/14/artist-spotlight-jon-fox-2/",
+    "wbm_tries": 1,
     "jpg": "snapshots/aedc5b8c5565a948df174d8739a9350b1f7c974724c8607d253f79fc2d6441e0.jpg",
     "jpg_tries": 1
   }
