@@ -500,8 +500,8 @@
     "url": "https://en.wikipedia.org/wiki/Spite_house",
     "title": "Spite house - Wikipedia",
     "timestamp": "2024-01-04 11:06:46 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240120185602/https://en.wikipedia.org/wiki/Spite_house",
+    "wbm_tries": 1,
     "jpg": "snapshots/994fa25bdf1bdf130270d24faf0aa6f7835c5bc6996396fdec0a639320a220ec.jpg",
     "jpg_tries": 1
   },
@@ -2195,7 +2195,7 @@
     "title": "Reddit - https://i.redd.it/sophoei5fthc1.jpeg",
     "timestamp": "2024-02-11 19:47:42 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/0d4c10e898cbc28699dcbf47f59e19653bee34bdb3848bd78c3cfb8f6a5231e3.jpg",
     "jpg_tries": 1
   },
