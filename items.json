@@ -314,7 +314,7 @@
     "title": "Reddit - https://preview.redd.it/mzimdno9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=2ac3ea3a1d133c6194c2acab7c52d5e194b644de",
     "timestamp": "2024-01-02 23:01:50 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.jpg",
     "jpg_tries": 1
   },
@@ -2052,7 +2052,7 @@
     "title": "546 5 - Google Maps",
     "timestamp": "2024-02-03 11:04:26 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/c158103c1ec2113c4b9644b5ac7ad6f48c629ca2e40feb4a51a1af56dd8a35b3.jpg",
     "jpg_tries": 1
   },
