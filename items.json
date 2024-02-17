@@ -2019,7 +2019,7 @@
     "title": "Wallpaper Search: #Zdzisław Beksiński - wallhaven.cc",
     "timestamp": "2024-02-02 22:08:05 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/10bee2cc5275c68ef10c3fd09a5f53218fb08999144fb7020ef2048534492ff6.jpg",
     "jpg_tries": 1
   },
@@ -2304,8 +2304,8 @@
     "url": "https://openai.com/sora",
     "title": "Sora",
     "timestamp": "2024-02-15 20:47:33 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240216221715/https://openai.com/sora",
+    "wbm_tries": 1,
     "jpg": "snapshots/3182b02b8073e217d9b1526d2d21b5ec645d96e466189f56117e74371521fdec.jpg",
     "jpg_tries": 1
   }
