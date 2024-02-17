@@ -270,7 +270,7 @@
     "title": "Opinion | The End of Snow - The New York Times",
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.jpg",
     "jpg_tries": 1
   },
@@ -2282,8 +2282,8 @@
     "url": "https://carlsfriends.net/source.html",
     "title": "Source",
     "timestamp": "2024-02-15 20:41:41 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240211011145/https://carlsfriends.net/source.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/2fab7322115f35f50e6e0e890dad633adf50e2c579d0f3bda38edc766db25685.jpg",
     "jpg_tries": 1
   },
