@@ -259,7 +259,7 @@
     "title": "Mining in Cornwall — stevejack0 · Lomography",
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.jpg",
     "jpg_tries": 1
   },
@@ -2249,8 +2249,8 @@
     "url": "https://github.com/vitoplantamura/HackerNewsRemovals",
     "title": "vitoplantamura/HackerNewsRemovals: List of stories removed from the Hacker News Front Page, updated in real time.",
     "timestamp": "2024-02-13 21:10:06 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240212124704/https://github.com/vitoplantamura/HackerNewsRemovals",
+    "wbm_tries": 1,
     "jpg": "snapshots/b1b8f2255415ecd4ea96c9846aaa8767f15d230596f3f0c6debe8c18aba92b02.jpg",
     "jpg_tries": 1
   },
@@ -2307,6 +2307,17 @@
     "wbm": "http://web.archive.org/web/20240216221715/https://openai.com/sora",
     "wbm_tries": 1,
     "jpg": "snapshots/3182b02b8073e217d9b1526d2d21b5ec645d96e466189f56117e74371521fdec.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 211,
+    "digest": "53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e",
+    "url": "https://chsi.harvard.edu/harvard-ibm-mark-1-language",
+    "title": "Harvard IBM Mark I - Language | The Collection of Historical Scientific Instruments",
+    "timestamp": "2024-02-17 11:46:21 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e.jpg",
     "jpg_tries": 1
   }
 ]
