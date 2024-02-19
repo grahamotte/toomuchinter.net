@@ -215,7 +215,7 @@
     "title": "My Favorite Photos from 2023 – Alexander S. Kunz Photography",
     "timestamp": "2024-01-01 14:47:48 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/41f93a8b809bfc9c1999fbb64f59efd62e7b7c0ea325206f84eb5c3a063b1d62.jpg",
     "jpg_tries": 1
   },
@@ -2315,8 +2315,8 @@
     "url": "https://chsi.harvard.edu/harvard-ibm-mark-1-language",
     "title": "Harvard IBM Mark I - Language | The Collection of Historical Scientific Instruments",
     "timestamp": "2024-02-17 11:46:21 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230106211952/https://chsi.harvard.edu/harvard-ibm-mark-1-language",
+    "wbm_tries": 1,
     "jpg": "snapshots/53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e.jpg",
     "jpg_tries": 1
   },
