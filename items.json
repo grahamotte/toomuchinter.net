@@ -1436,7 +1436,7 @@
     "title": "Coolsingel - Wikipedia",
     "timestamp": "2024-01-20 21:40:46 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/68a1b4f1ad4f2ece0aff46cfb5501c3bbb205f1828b0e599bac82bc0cd39b464.jpg",
     "jpg_tries": 1
   },
@@ -2348,8 +2348,8 @@
     "url": "http://www.holladaypaganism.com/goddesses/cyclopedia/index-cyc.html",
     "title": "Untitled Document",
     "timestamp": "2024-02-18 22:06:47 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230925104809/http://holladaypaganism.com/goddesses/cyclopedia/index-cyc.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/3345dc9e5fdbd71e4045911ac752b926ccbcb0b07a9197cdfac32db09517fe81.jpg",
     "jpg_tries": 1
   }
