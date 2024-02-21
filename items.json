@@ -1051,7 +1051,7 @@
     "title": "Scifi Art — Art by Ian Miller",
     "timestamp": "2024-01-14 23:03:51 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/e2a27d9d6efdd31d67479c7844cbf0ce0f944575b3e01ab6bcc101df219ea192.jpg",
     "jpg_tries": 1
   },
@@ -2370,8 +2370,8 @@
     "url": "https://www.theguardian.com/us-news/2024/feb/19/john-oliver-clarence-thomas-resign-1-million-offer",
     "title": "John Oliver offers to pay Clarence Thomas $1m a year if he resigns from supreme court | Clarence Thomas | The Guardian",
     "timestamp": "2024-02-20 18:53:59 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240220182431/https://www.theguardian.com/us-news/2024/feb/19/john-oliver-clarence-thomas-resign-1-million-offer",
+    "wbm_tries": 1,
     "jpg": "snapshots/c10748799a845280826f49a85d43b21623e03baf7a821a90fd65702e5d3a298c.jpg",
     "jpg_tries": 1
   }
