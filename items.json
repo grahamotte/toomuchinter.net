@@ -743,7 +743,7 @@
     "title": "Empuriabrava — edwi_na · Lomography",
     "timestamp": "2024-01-08 16:57:45 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/924ddaa9e2568d3eafe9ca6f708eb62753525516a43711ab109960836a672367.jpg",
     "jpg_tries": 2
   },
@@ -820,7 +820,7 @@
     "title": "#27019613 — hutancahaya · Lomography",
     "timestamp": "2024-01-09 08:20:19 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/eb7949d45e71b06dfb24d3b32666852b1b4dfb080ed89647bfacc83991870708.jpg",
     "jpg_tries": 1
   },
@@ -2362,6 +2362,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/491ea1257b49027d3357262196e9d98b03f4e0affe746ba56a5f230afcf872d6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 216,
+    "digest": "c10748799a845280826f49a85d43b21623e03baf7a821a90fd65702e5d3a298c",
+    "url": "https://www.theguardian.com/us-news/2024/feb/19/john-oliver-clarence-thomas-resign-1-million-offer",
+    "title": "John Oliver offers to pay Clarence Thomas $1m a year if he resigns from supreme court | Clarence Thomas | The Guardian",
+    "timestamp": "2024-02-20 18:53:59 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/c10748799a845280826f49a85d43b21623e03baf7a821a90fd65702e5d3a298c.jpg",
     "jpg_tries": 1
   }
 ]
