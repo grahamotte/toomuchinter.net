@@ -281,7 +281,7 @@
     "title": "#26961161 — ds2785 · Lomography",
     "timestamp": "2024-01-02 22:59:06 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/71ad4725ecf5ca3ee1de17573d94a64b3937ff3eaaa3c0da7f0f1bd9c0a9c3ae.jpg",
     "jpg_tries": 2
   },
@@ -1645,7 +1645,7 @@
     "title": "Reddit - https://i.redd.it/zkx032ssmaec1.jpeg",
     "timestamp": "2024-01-24 12:00:42 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/70eb133bb3128ab7c40048d93274be3abd43ea2540b1ab9a18d17d7842bc7955.jpg",
     "jpg_tries": 1
   },
@@ -2405,7 +2405,7 @@
     "timestamp": "2024-02-23 13:43:20 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04.jpg",
+    "jpg_tries": 1
   }
 ]
