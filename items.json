@@ -457,7 +457,7 @@
     "title": "Pulled 2 stops — jonography · Lomography",
     "timestamp": "2024-01-04 10:25:18 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/e9635a8849de85b568bb6e1c4b047713b85582de3038e6c35aa805b19fdd5b01.jpg",
     "jpg_tries": 1
   },
@@ -930,7 +930,7 @@
     "title": "Scifi Art — Art by Syd Mead 'Space Wreck' from The Flights of...",
     "timestamp": "2024-01-11 21:45:38 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/e2e22324c60381799930f68895941dd69ea77e50d004124e2ee82f1bc3c40987.jpg",
     "jpg_tries": 1
   },
@@ -2374,5 +2374,38 @@
     "wbm_tries": 1,
     "jpg": "snapshots/c10748799a845280826f49a85d43b21623e03baf7a821a90fd65702e5d3a298c.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 217,
+    "digest": "301cbdd5f9d46f80d2620e9486e0b48aa937ee4354ac698b1f4f2725933882ff",
+    "url": "https://www.behance.net/gallery/190473379/Compilation-15",
+    "title": "Compilation 15 :: Behance",
+    "timestamp": "2024-02-23 12:10:15 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/301cbdd5f9d46f80d2620e9486e0b48aa937ee4354ac698b1f4f2725933882ff.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 218,
+    "digest": "1fe8ed5ffb0a4aa41c5c73ab3e7c2dbd4f1200cc8f376f58cc32302a0a358fd6",
+    "url": "https://www.thisiscolossal.com/2024/02/moonassi-murmures/",
+    "title": "Dramatic Dualities and Emotional Entanglements Unfold in the Metaphysical Realm of Moonassi's 'Murmures' — Colossal",
+    "timestamp": "2024-02-23 12:12:29 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/1fe8ed5ffb0a4aa41c5c73ab3e7c2dbd4f1200cc8f376f58cc32302a0a358fd6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 219,
+    "digest": "187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04",
+    "url": "https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
+    "title": "Awards for Acting Categories That Don't Exist at the Oscars - The New York Times",
+    "timestamp": "2024-02-23 13:43:20 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
