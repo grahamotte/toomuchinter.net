@@ -2151,7 +2151,7 @@
     "title": "Alf Barbel Wit Proves Creative Talent Is Not Limited To Age",
     "timestamp": "2024-02-09 09:50:57 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/d3c836504e89ceb259ddcc7500781d17cf59b86adbeb0d036cb770d457541679.jpg",
     "jpg_tries": 1
   },
@@ -2403,8 +2403,8 @@
     "url": "https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
     "title": "Awards for Acting Categories That Don't Exist at the Oscars - The New York Times",
     "timestamp": "2024-02-23 13:43:20 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240223214932/https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
+    "wbm_tries": 1,
     "jpg": "snapshots/187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04.jpg",
     "jpg_tries": 1
   }
