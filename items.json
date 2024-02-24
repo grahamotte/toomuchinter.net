@@ -259,7 +259,7 @@
     "title": "Mining in Cornwall — stevejack0 · Lomography",
     "timestamp": "2024-01-02 22:54:25 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/1c85bc7e82c1c75c8bb3c9cde89216ff26e4a68aeaa26765c9fb74ae312d71cf.jpg",
     "jpg_tries": 1
   },
@@ -2205,8 +2205,8 @@
     "url": "https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can",
     "title": "How To Write Stuff No One Else Can – The Write to Roam",
     "timestamp": "2024-02-12 17:01:35 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240223194602/https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can",
+    "wbm_tries": 1,
     "jpg": "snapshots/1cedd036d0fef8d2fc5de5dc46429fc8d9a3ba46d261565dda3f12c677033725.jpg",
     "jpg_tries": 1
   },
