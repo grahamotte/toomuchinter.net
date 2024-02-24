@@ -292,7 +292,7 @@
     "title": "Infinite Market Cap",
     "timestamp": "2024-01-02 23:01:11 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/a16930259c1a88f46d27f8a731fa10840db768df21ff2bb6def1cf930336ba0e.jpg",
     "jpg_tries": 1
   },
@@ -2260,8 +2260,8 @@
     "url": "https://www.behance.net/gallery/191400785/England-Scotland-Ireland",
     "title": "England, Scotland & Ireland :: Behance",
     "timestamp": "2024-02-14 20:50:34 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240224001717/https://www.behance.net/gallery/191400785/England-Scotland-Ireland",
+    "wbm_tries": 1,
     "jpg": "snapshots/25e28d5a8817838dec4c834890857417c3fad9523dc4545e2916b87b78db5ee9.jpg",
     "jpg_tries": 1
   },
