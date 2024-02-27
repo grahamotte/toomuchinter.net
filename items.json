@@ -743,7 +743,7 @@
     "title": "Empuriabrava — edwi_na · Lomography",
     "timestamp": "2024-01-08 16:57:45 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/924ddaa9e2568d3eafe9ca6f708eb62753525516a43711ab109960836a672367.jpg",
     "jpg_tries": 2
   },
@@ -2381,8 +2381,8 @@
     "url": "https://www.behance.net/gallery/190473379/Compilation-15",
     "title": "Compilation 15 :: Behance",
     "timestamp": "2024-02-23 12:10:15 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240227041135/https://www.behance.net/gallery/190473379/Compilation-15",
+    "wbm_tries": 1,
     "jpg": "snapshots/301cbdd5f9d46f80d2620e9486e0b48aa937ee4354ac698b1f4f2725933882ff.jpg",
     "jpg_tries": 1
   },
