@@ -292,7 +292,7 @@
     "title": "Infinite Market Cap",
     "timestamp": "2024-01-02 23:01:11 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/a16930259c1a88f46d27f8a731fa10840db768df21ff2bb6def1cf930336ba0e.jpg",
     "jpg_tries": 1
   },
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
@@ -2406,6 +2406,17 @@
     "wbm": "http://web.archive.org/web/20240223214932/https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
     "wbm_tries": 1,
     "jpg": "snapshots/187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 220,
+    "digest": "6f0e53cbefffad7c2800d1e552711103eb8e00537e3e827d248075f444d1a185",
+    "url": "https://www.booooooom.com/2024/02/28/american-games-by-artist-john-brosio/",
+    "title": "\"American Games\" by Artist John Brosio",
+    "timestamp": "2024-02-28 09:00:43 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/6f0e53cbefffad7c2800d1e552711103eb8e00537e3e827d248075f444d1a185.jpg",
     "jpg_tries": 1
   }
 ]
