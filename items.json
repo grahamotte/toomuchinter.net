@@ -314,7 +314,7 @@
     "title": "Reddit - https://preview.redd.it/mzimdno9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=2ac3ea3a1d133c6194c2acab7c52d5e194b644de",
     "timestamp": "2024-01-02 23:01:50 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.jpg",
     "jpg_tries": 1
   },
@@ -2426,8 +2426,19 @@
     "title": "Sunflower field — ccaruso · Lomography",
     "timestamp": "2024-02-28 17:48:55 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/e44fd8f486dd504cd4ec8dff38b5ea40ceacced487c46ac259823a2e8aeeb3dd.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 222,
+    "digest": "d36cd939675aca8ab3290720b673cd150f8ac6615be45426d28ef4ec261e4513",
+    "url": "https://libmma.contentdm.oclc.org/digital/collection/p16028coll7/search/searchterm/unai%20no%20tomo",
+    "title": "Digital Collections from The Metropolitan Museum of Art Libraries - Digital Collections from The Metropolitan Museum of Art Libraries",
+    "timestamp": "2024-02-28 21:00:05 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/d36cd939675aca8ab3290720b673cd150f8ac6615be45426d28ef4ec261e4513.jpg",
     "jpg_tries": 1
   }
 ]
