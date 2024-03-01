@@ -754,7 +754,7 @@
     "title": "Dreaming in Color — Real Life",
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.jpg",
     "jpg_tries": 1
   },
@@ -2239,7 +2239,7 @@
     "title": "My husband’s alcoholism killed him : AlAnon",
     "timestamp": "2024-02-13 20:34:58 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/2ae23e2d8d4526b40e915007ba2f9490649dba1e2fe7ebda4b781b6d7c7d7cfc.jpg",
     "jpg_tries": 1
   },
@@ -2439,6 +2439,28 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/d36cd939675aca8ab3290720b673cd150f8ac6615be45426d28ef4ec261e4513.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 223,
+    "digest": "09c8ddc224b2064791bb04feac66f31eba09b8a1ec373700df5376fbf4cee49d",
+    "url": "https://en.wikipedia.org/w/index.php?title=Henry_Corbould&lol=2024-02-26-5",
+    "title": "Henry Corbould - Wikipedia",
+    "timestamp": "2024-02-29 19:43:54 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/09c8ddc224b2064791bb04feac66f31eba09b8a1ec373700df5376fbf4cee49d.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 224,
+    "digest": "89cbb654cd293e447da43f5df3ed4d93b8a3d53ac10450b7cc0454bb24549c75",
+    "url": "https://en.wikipedia.org/wiki/Minnesota_sushi",
+    "title": "Minnesota sushi - Wikipedia",
+    "timestamp": "2024-02-29 19:59:21 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/89cbb654cd293e447da43f5df3ed4d93b8a3d53ac10450b7cc0454bb24549c75.jpg",
     "jpg_tries": 1
   }
 ]
