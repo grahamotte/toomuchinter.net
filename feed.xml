@@ -4,11 +4,35 @@
     <title>toomuchinter.net</title>
     <description>toomuchinter.net</description>
     <link>https://toomuchinter.net</link>
-    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 -0800</lastBuildDate>
-    <pubDate>Thu, 29 Feb 2024 00:00:00 -0800</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 -0800</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2024 00:00:00 -0800</pubDate>
     <ttl>1800</ttl>
 
     <item>
+  <title><![CDATA[Kottke.org Redesigns With 2024 Vibes]]></title>
+  <description></description>
+  <link><![CDATA[https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes]]></link>
+  <pubDate>Fri, 01 Mar 2024 08:37:47 -0800</pubDate>
+  <guid>03b26503103682f239d9730b48f13441ad6140f424238bb5ac2e61107f09417a</guid>
+</item>
+
+<item>
+  <title><![CDATA[How video games use LUTs and how you can too]]></title>
+  <description></description>
+  <link><![CDATA[https://blog.frost.kiwi/WebGL-LUTS-made-simple/]]></link>
+  <pubDate>Fri, 01 Mar 2024 08:36:48 -0800</pubDate>
+  <guid>2e86cb6057d6b64258573ad76251f110cbd08c8f38f01110ae17fb50c7ce775a</guid>
+</item>
+
+<item>
+  <title><![CDATA[web.mit.edu/jemorris/humor/500-miles]]></title>
+  <description></description>
+  <link><![CDATA[http://web.mit.edu/jemorris/humor/500-miles]]></link>
+  <pubDate>Thu, 29 Feb 2024 21:48:26 -0800</pubDate>
+  <guid>d493a414b882288b4206554009ca22fbf0efe5086fd58be35913ea14bd2857ec</guid>
+</item>
+
+<item>
   <title><![CDATA[Minnesota sushi - Wikipedia]]></title>
   <description></description>
   <link><![CDATA[https://en.wikipedia.org/wiki/Minnesota_sushi]]></link>
