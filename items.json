@@ -303,7 +303,7 @@
     "title": "Reddit - https://preview.redd.it/xawu2uo9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=c7715d2c8c6d4674215510814494f2f3cb0a3e49",
     "timestamp": "2024-01-02 23:01:45 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/d5072d60311440f4dc76942f2329c19333e537989b349da85f1fd62f653c5381.jpg",
     "jpg_tries": 1
   },
@@ -2392,8 +2392,8 @@
     "url": "https://www.thisiscolossal.com/2024/02/moonassi-murmures/",
     "title": "Dramatic Dualities and Emotional Entanglements Unfold in the Metaphysical Realm of Moonassi's 'Murmures' — Colossal",
     "timestamp": "2024-02-23 12:12:29 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240225083502/https://www.thisiscolossal.com/2024/02/moonassi-murmures/",
+    "wbm_tries": 1,
     "jpg": "snapshots/1fe8ed5ffb0a4aa41c5c73ab3e7c2dbd4f1200cc8f376f58cc32302a0a358fd6.jpg",
     "jpg_tries": 1
   },
