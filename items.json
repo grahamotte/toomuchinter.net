@@ -1051,7 +1051,7 @@
     "title": "Scifi Art — Art by Ian Miller",
     "timestamp": "2024-01-14 23:03:51 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/e2a27d9d6efdd31d67479c7844cbf0ce0f944575b3e01ab6bcc101df219ea192.jpg",
     "jpg_tries": 1
   },
@@ -1073,7 +1073,7 @@
     "title": "#27032265 — fotocinematica · Lomography",
     "timestamp": "2024-01-14 23:11:26 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/875b6036e84abac47c210d681844e1ccb35e3f7eaff0bfb04a9e1218b714b646.jpg",
     "jpg_tries": 1
   },
@@ -2537,8 +2537,8 @@
     "timestamp": "2024-03-02 09:52:33 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9353f2e22f6c3d6a65be098eef2f4bba1516584f8b2135e20d760b3564185daa.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 232,
@@ -2550,5 +2550,38 @@
     "wbm_tries": 0,
     "jpg": "snapshots/9a0a435e0d93ed49a9962e2057a90e727c6139a1ac83aa45904b3a8adbb3bef0.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 233,
+    "digest": "c5419d18d8de9e8ea95d3b1d687f894296fe9eeda0eea1e0aeee714fc0aa205a",
+    "url": "https://www.behance.net/gallery/192607787/Exploration-in-texture-and-color",
+    "title": "Exploration in texture and color :: Behance",
+    "timestamp": "2024-03-02 10:27:48 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 234,
+    "digest": "c1f630d0990bbf87f72edb0e85f42ade5189d97205b057ec3d877a2fe128195d",
+    "url": "https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224",
+    "title": "Elizabeth Goodspeed on the importance of taste – and how to acquire it",
+    "timestamp": "2024-03-02 10:47:09 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/c1f630d0990bbf87f72edb0e85f42ade5189d97205b057ec3d877a2fe128195d.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 235,
+    "digest": "9e5b8a2eff4acc64d48c32fa4fd2677eef6591e8715576a8c41fba137846d1b6",
+    "url": "https://enkimute.github.io/LookMaNoMatrices/",
+    "title": "Look, Ma, No Matrices!",
+    "timestamp": "2024-03-02 10:47:17 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
