@@ -9,6 +9,22 @@
     <ttl>1800</ttl>
 
     <item>
+  <title><![CDATA[Calendar]]></title>
+  <description></description>
+  <link><![CDATA[https://neatnik.net/calendar/]]></link>
+  <pubDate>Fri, 01 Mar 2024 17:45:00 -0800</pubDate>
+  <guid>5fd28a0816bd35f0a416d8333bd7dc555b09b00676989f2b9031c17cc128a70d</guid>
+</item>
+
+<item>
+  <title><![CDATA[GifCities]]></title>
+  <description></description>
+  <link><![CDATA[https://gifcities.org/]]></link>
+  <pubDate>Fri, 01 Mar 2024 17:43:47 -0800</pubDate>
+  <guid>45785de078ed53534b8a978d9e18cd49066fe8205ca1af2bc97f436805148268</guid>
+</item>
+
+<item>
   <title><![CDATA[Kottke.org Redesigns With 2024 Vibes]]></title>
   <description></description>
   <link><![CDATA[https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes]]></link>
