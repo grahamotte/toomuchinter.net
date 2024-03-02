@@ -556,7 +556,7 @@
     "title": "Reddit - https://i.redd.it/dhhy1f9o4gac1.jpeg",
     "timestamp": "2024-01-05 10:55:32 -0800",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/ddedfbe126b6e3d4e1673a466114b2520d647894fa2ec89ab010a3233404e40f.jpg",
     "jpg_tries": 1
   },
@@ -1326,7 +1326,7 @@
     "title": "This girl is my new wakey wakey! I mean, who wouldn't want to start their day with this? : UNBGBBIIVCHIDCTIICBG",
     "timestamp": "2024-01-19 18:22:04 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/c662ab66de3acdf85a5c48bded7afe1f0a90034fce09a174d5800397fd21f576.jpg",
     "jpg_tries": 1
   },
@@ -2559,8 +2559,8 @@
     "timestamp": "2024-03-02 10:27:48 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c5419d18d8de9e8ea95d3b1d687f894296fe9eeda0eea1e0aeee714fc0aa205a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 234,
@@ -2581,7 +2581,7 @@
     "timestamp": "2024-03-02 10:47:17 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9e5b8a2eff4acc64d48c32fa4fd2677eef6591e8715576a8c41fba137846d1b6.jpg",
+    "jpg_tries": 1
   }
 ]
