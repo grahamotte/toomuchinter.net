@@ -270,7 +270,7 @@
     "title": "Opinion | The End of Snow - The New York Times",
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.jpg",
     "jpg_tries": 1
   },
@@ -1623,7 +1623,7 @@
     "title": "Swayam Parekh reconnects with herself in heartwarming, whimsical picture book | Creative Boom",
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.jpg",
     "jpg_tries": 1
   },
@@ -2516,6 +2516,39 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/5fd28a0816bd35f0a416d8333bd7dc555b09b00676989f2b9031c17cc128a70d.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 230,
+    "digest": "845460ee1538534cdfb975918ec2ac996671eb47905f9c64546a776732e74f7a",
+    "url": "https://en.wikipedia.org/wiki/Jury_nullification",
+    "title": "Jury nullification - Wikipedia",
+    "timestamp": "2024-03-02 09:51:49 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/845460ee1538534cdfb975918ec2ac996671eb47905f9c64546a776732e74f7a.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 231,
+    "digest": "9353f2e22f6c3d6a65be098eef2f4bba1516584f8b2135e20d760b3564185daa",
+    "url": "https://bsky.app/profile/nocontexttrek1.bsky.social/post/3kmonrocxue2e",
+    "title": "Star Trek Minus Context: \"It's the weekend, baby\" — Bluesky",
+    "timestamp": "2024-03-02 09:52:33 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 232,
+    "digest": "9a0a435e0d93ed49a9962e2057a90e727c6139a1ac83aa45904b3a8adbb3bef0",
+    "url": "https://flashbak.com/new-york-city-in-color-garry-winogrands-street-shots-466438/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-city-in-color-garry-winogrands-street-shots",
+    "title": "New York City In Color - Garry Winogrand's Street Shots - Flashbak",
+    "timestamp": "2024-03-02 09:54:05 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/9a0a435e0d93ed49a9962e2057a90e727c6139a1ac83aa45904b3a8adbb3bef0.jpg",
     "jpg_tries": 1
   }
 ]
