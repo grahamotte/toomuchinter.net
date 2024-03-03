@@ -2195,7 +2195,7 @@
     "title": "Reddit - https://i.redd.it/sophoei5fthc1.jpeg",
     "timestamp": "2024-02-11 19:47:42 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/0d4c10e898cbc28699dcbf47f59e19653bee34bdb3848bd78c3cfb8f6a5231e3.jpg",
     "jpg_tries": 1
   },
@@ -2469,8 +2469,8 @@
     "url": "http://web.mit.edu/jemorris/humor/500-miles",
     "title": "web.mit.edu/jemorris/humor/500-miles",
     "timestamp": "2024-02-29 21:48:26 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240228180547/http://web.mit.edu/jemorris/humor/500-miles",
+    "wbm_tries": 1,
     "jpg": "snapshots/d493a414b882288b4206554009ca22fbf0efe5086fd58be35913ea14bd2857ec.jpg",
     "jpg_tries": 1
   },
