@@ -556,7 +556,7 @@
     "title": "Reddit - https://i.redd.it/dhhy1f9o4gac1.jpeg",
     "timestamp": "2024-01-05 10:55:32 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/ddedfbe126b6e3d4e1673a466114b2520d647894fa2ec89ab010a3233404e40f.jpg",
     "jpg_tries": 1
   },
@@ -2524,8 +2524,8 @@
     "url": "https://en.wikipedia.org/wiki/Jury_nullification",
     "title": "Jury nullification - Wikipedia",
     "timestamp": "2024-03-02 09:51:49 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240213230309/https://en.wikipedia.org/wiki/Jury_nullification",
+    "wbm_tries": 1,
     "jpg": "snapshots/845460ee1538534cdfb975918ec2ac996671eb47905f9c64546a776732e74f7a.jpg",
     "jpg_tries": 1
   },
