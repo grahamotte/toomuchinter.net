@@ -1051,7 +1051,7 @@
     "title": "Scifi Art — Art by Ian Miller",
     "timestamp": "2024-01-14 23:03:51 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/e2a27d9d6efdd31d67479c7844cbf0ce0f944575b3e01ab6bcc101df219ea192.jpg",
     "jpg_tries": 1
   },
@@ -1326,7 +1326,7 @@
     "title": "This girl is my new wakey wakey! I mean, who wouldn't want to start their day with this? : UNBGBBIIVCHIDCTIICBG",
     "timestamp": "2024-01-19 18:22:04 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/c662ab66de3acdf85a5c48bded7afe1f0a90034fce09a174d5800397fd21f576.jpg",
     "jpg_tries": 1
   },
@@ -2603,8 +2603,8 @@
     "timestamp": "2024-03-03 09:52:22 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/be5e4d76a9f2d1e601d3e4f8bf8b70e66abde6f4704a60b01d3acd5801fbd751.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 238,
@@ -2658,7 +2658,7 @@
     "timestamp": "2024-03-03 09:57:54 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3fbc2b796d5335bf6a4db9ca6d84223e416eec5b4423bb3d432fb360d43fe70b.jpg",
+    "jpg_tries": 1
   }
 ]
