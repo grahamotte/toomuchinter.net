@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/7456fb7745355199c160753a1ae4bb802172a3e72eb39372bffcd115cc6cb4e0.jpg",
     "jpg_tries": 1
   },
@@ -2019,7 +2019,7 @@
     "title": "Wallpaper Search: #Zdzisław Beksiński - wallhaven.cc",
     "timestamp": "2024-02-02 22:08:05 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/10bee2cc5275c68ef10c3fd09a5f53218fb08999144fb7020ef2048534492ff6.jpg",
     "jpg_tries": 1
   },
@@ -2625,8 +2625,8 @@
     "timestamp": "2024-03-03 09:55:21 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/95ac2e518a745c21082cd1d3427c79ec95769cdb8b79b51c44b344bb4372b521.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 240,
@@ -2636,8 +2636,8 @@
     "timestamp": "2024-03-03 09:56:18 -0800",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c7d234614719d6efe2def589138a3bc4c3fa3880d81ad98c3f705abb9aad0605.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 241,
