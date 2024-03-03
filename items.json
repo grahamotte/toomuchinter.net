@@ -314,7 +314,7 @@
     "title": "Reddit - https://preview.redd.it/mzimdno9o2ac1.jpg?width=2048&format=pjpg&auto=webp&s=2ac3ea3a1d133c6194c2acab7c52d5e194b644de",
     "timestamp": "2024-01-02 23:01:50 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/e5188b1594b2915b0ce0c741b452615bde6856c73dce361a8bfcdb8357004cc7.jpg",
     "jpg_tries": 1
   },
@@ -1623,7 +1623,7 @@
     "title": "Swayam Parekh reconnects with herself in heartwarming, whimsical picture book | Creative Boom",
     "timestamp": "2024-01-23 16:02:18 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/103ef993f68173dfbefc7bb7f4deb9dd04290e5181572907739825cee1a94ee7.jpg",
     "jpg_tries": 1
   },
@@ -2582,6 +2582,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/9e5b8a2eff4acc64d48c32fa4fd2677eef6591e8715576a8c41fba137846d1b6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 236,
+    "digest": "374e663bf309db6537ad320d3a9e67737e69b3a5238197a4fceb3c2bd5d54a5f",
+    "url": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjmf9w0qr10mc1.png",
+    "title": "Reddit - https://i.redd.it/jmf9w0qr10mc1.png",
+    "timestamp": "2024-03-03 09:09:25 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/374e663bf309db6537ad320d3a9e67737e69b3a5238197a4fceb3c2bd5d54a5f.jpg",
     "jpg_tries": 1
   }
 ]
