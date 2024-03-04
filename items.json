@@ -127,7 +127,7 @@
     "title": "Luciano Cian's Expressive Colorblock Portraits | Moss and Fog",
     "timestamp": "2024-01-01 10:37:08 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/636407b01faebe6cdd72e685a2cd3db7d56f309807ee940db5cb415b93dda23c.jpg",
     "jpg_tries": 1
   },
@@ -2557,8 +2557,8 @@
     "url": "https://www.behance.net/gallery/192607787/Exploration-in-texture-and-color",
     "title": "Exploration in texture and color :: Behance",
     "timestamp": "2024-03-02 10:27:48 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240302043213/https://www.behance.net/gallery/192607787/Exploration-in-texture-and-color",
+    "wbm_tries": 1,
     "jpg": "snapshots/c5419d18d8de9e8ea95d3b1d687f894296fe9eeda0eea1e0aeee714fc0aa205a.jpg",
     "jpg_tries": 1
   },
