@@ -1414,7 +1414,7 @@
     "title": "Minéral — herbdolphy · Lomography",
     "timestamp": "2024-01-20 16:36:13 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/52c646a877fa5967c7027fa879dc6807703c7c415f779ce48a9c56ae0a800501.jpg",
     "jpg_tries": 1
   },
@@ -2601,8 +2601,8 @@
     "url": "https://www.youtube.com/watch?v=qw4DseiPu7E",
     "title": "Varda Capsule Reentry - Five Minutes from LEO to Earth - YouTube",
     "timestamp": "2024-03-03 09:52:22 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240303121841/https://www.youtube.com/watch?v=qw4DseiPu7E",
+    "wbm_tries": 1,
     "jpg": "snapshots/be5e4d76a9f2d1e601d3e4f8bf8b70e66abde6f4704a60b01d3acd5801fbd751.jpg",
     "jpg_tries": 1
   },
