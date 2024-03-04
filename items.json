@@ -1337,7 +1337,7 @@
     "title": "Reddit - https://i.redd.it/gydc7fxcuucc1.jpeg",
     "timestamp": "2024-01-19 20:50:01 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/9ce861c0a94144af6d9b05fa2b799f5bffdb0fcbea9c96acac06fe405cd2cba7.jpg",
     "jpg_tries": 1
   },
@@ -2645,8 +2645,8 @@
     "url": "https://sohl-dickstein.github.io/2024/02/12/fractal.html",
     "title": "Neural network training makes beautiful fractals | Jascha’s blog",
     "timestamp": "2024-03-03 09:56:44 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240219221329/https://sohl-dickstein.github.io/2024/02/12/fractal.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/a8f9c82d119b2a4571c5c6319fa385922093b9fe456c0c61b7d0c5e6d409aedc.jpg",
     "jpg_tries": 1
   },
