@@ -754,7 +754,7 @@
     "title": "Dreaming in Color — Real Life",
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.jpg",
     "jpg_tries": 1
   },
@@ -2327,7 +2327,7 @@
     "title": "John Graham-Cumming's blog: The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?",
     "timestamp": "2024-02-17 16:48:43 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/12c7d4271e9fd461829268e7377db5020a44e179176bd627ddc4fe2364daafd8.jpg",
     "jpg_tries": 1
   },
@@ -2659,6 +2659,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/3fbc2b796d5335bf6a4db9ca6d84223e416eec5b4423bb3d432fb360d43fe70b.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 243,
+    "digest": "931abc79d5e85714183ce6e777cf96dba1593b0f7ed24b5e9e9ea5934856e6e5",
+    "url": "https://mossandfog.com/indigenous-portraits-are-stunning-and-controversial/",
+    "title": "Indigenous Portraits are Stunning and Controversial | Moss and Fog",
+    "timestamp": "2024-03-03 21:39:49 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/931abc79d5e85714183ce6e777cf96dba1593b0f7ed24b5e9e9ea5934856e6e5.jpg",
     "jpg_tries": 1
   }
 ]
