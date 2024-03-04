@@ -204,7 +204,7 @@
     "title": "#27002272 — tlath · Lomography",
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/0cfb74e8d4f9d15c68aa9b869f30b0158f769e18580239fdd075bfefa50e018e.jpg",
     "jpg_tries": 1
   },
@@ -1480,7 +1480,7 @@
     "title": "Feature #20182: Rewrite Array#each in Ruby - Ruby master - Ruby Issue Tracking System",
     "timestamp": "2024-01-21 20:46:39 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/3981794f3f1ca698a41d893de2833ad46e22472e6a81d577b81824904745bd57.jpg",
     "jpg_tries": 1
   },
