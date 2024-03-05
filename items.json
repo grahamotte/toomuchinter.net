@@ -754,7 +754,7 @@
     "title": "Dreaming in Color — Real Life",
     "timestamp": "2024-01-08 17:23:17 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/3567940327e6b72c1b0e20e2659953a271934a50aa9c1c7d79878665e8d3b5a0.jpg",
     "jpg_tries": 1
   },
@@ -2195,7 +2195,7 @@
     "title": "Reddit - https://i.redd.it/sophoei5fthc1.jpeg",
     "timestamp": "2024-02-11 19:47:42 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/0d4c10e898cbc28699dcbf47f59e19653bee34bdb3848bd78c3cfb8f6a5231e3.jpg",
     "jpg_tries": 1
   },
@@ -2458,8 +2458,8 @@
     "url": "https://en.wikipedia.org/wiki/Minnesota_sushi",
     "title": "Minnesota sushi - Wikipedia",
     "timestamp": "2024-02-29 19:59:21 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240226190859/https://en.wikipedia.org/wiki/Minnesota_sushi",
+    "wbm_tries": 1,
     "jpg": "snapshots/89cbb654cd293e447da43f5df3ed4d93b8a3d53ac10450b7cc0454bb24549c75.jpg",
     "jpg_tries": 1
   },
@@ -2579,8 +2579,8 @@
     "url": "https://enkimute.github.io/LookMaNoMatrices/",
     "title": "Look, Ma, No Matrices!",
     "timestamp": "2024-03-02 10:47:17 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240302005507/https://enkimute.github.io/LookMaNoMatrices/",
+    "wbm_tries": 1,
     "jpg": "snapshots/9e5b8a2eff4acc64d48c32fa4fd2677eef6591e8715576a8c41fba137846d1b6.jpg",
     "jpg_tries": 1
   },
@@ -2692,6 +2692,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 246,
+    "digest": "9b2fb90784855fffd14cda585e3fe3c2fb8ae544fce38d16f02f08f94c846841",
+    "url": "https://www.theparisreview.org/blog/2024/03/04/the-institute-for-illegal-images/",
+    "title": "The Paris Review - The Institute for Illegal Images - The Paris Review",
+    "timestamp": "2024-03-04 15:27:42 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/9b2fb90784855fffd14cda585e3fe3c2fb8ae544fce38d16f02f08f94c846841.jpg",
     "jpg_tries": 1
   }
 ]
