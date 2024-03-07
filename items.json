@@ -1315,7 +1315,7 @@
     "title": "#27038028 — stevejack0 · Lomography",
     "timestamp": "2024-01-19 18:17:35 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/1acbc3476d104bd2e50c637a2d90b35b3abae4e80094479068d0d414f29ea56f.jpg",
     "jpg_tries": 1
   },
@@ -2359,8 +2359,8 @@
     "url": "https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/",
     "title": "Things Unexpectedly Named After People · Notes",
     "timestamp": "2024-02-19 18:35:41 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240223011710/https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/",
+    "wbm_tries": 1,
     "jpg": "snapshots/491ea1257b49027d3357262196e9d98b03f4e0affe746ba56a5f230afcf872d6.jpg",
     "jpg_tries": 1
   },
