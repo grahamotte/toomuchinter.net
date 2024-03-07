@@ -1975,7 +1975,7 @@
     "title": "Scifi Art — Art by Brom 'The Ghoul Princess' for Dungeon...",
     "timestamp": "2024-02-01 18:38:24 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/9fc221797489d307db7775dd369c23118669f393741770ed63d0bea944cd5573.jpg",
     "jpg_tries": 1
   },
@@ -2678,8 +2678,8 @@
     "url": "https://voussoir.net/writing/css_for_printing",
     "title": "CSS for printing to paper",
     "timestamp": "2024-03-04 12:51:56 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240304213854/https://voussoir.net/writing/css_for_printing",
+    "wbm_tries": 1,
     "jpg": "snapshots/0f3c9a274e31601bb168a781f336dfdd258fb13ea83fd3364017016a69dee9a1.jpg",
     "jpg_tries": 1
   },
