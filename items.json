@@ -1018,7 +1018,7 @@
     "title": "Reddit - https://i.redd.it/q2b3v7fcsacc1.jpeg",
     "timestamp": "2024-01-14 12:02:45 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/b1891ac2dfbcd0fef10a1cc9d522d072b3093a55986d7b240b421d5adba5b77a.jpg",
     "jpg_tries": 1
   },
@@ -2613,7 +2613,7 @@
     "title": "Wikimap: A map of Wikipedia",
     "timestamp": "2024-03-03 09:54:20 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/2aaf8ce7e9ec329c3402ba47e826a06852e07bf5b38146be2bdec73237dc3ffa.jpg",
     "jpg_tries": 1
   },
