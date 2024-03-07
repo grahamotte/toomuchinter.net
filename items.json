@@ -2448,7 +2448,7 @@
     "title": "Henry Corbould - Wikipedia",
     "timestamp": "2024-02-29 19:43:54 -0800",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/09c8ddc224b2064791bb04feac66f31eba09b8a1ec373700df5376fbf4cee49d.jpg",
     "jpg_tries": 1
   },
@@ -2536,7 +2536,7 @@
     "title": "Star Trek Minus Context: \"It's the weekend, baby\" — Bluesky",
     "timestamp": "2024-03-02 09:52:33 -0800",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/9353f2e22f6c3d6a65be098eef2f4bba1516584f8b2135e20d760b3564185daa.jpg",
     "jpg_tries": 1
   },
@@ -2736,6 +2736,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/1d6c9af6df803f0a0f149e218f4b158dcefd5fac2053a27fc80c42341c5bda5b.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 250,
+    "digest": "05a3500891ba0dbf184281ba770807f38643bd5645225c29139d2047f013f78d",
+    "url": "https://www.booooooom.com/2024/03/07/illustrators-true-grit-texture-supply/",
+    "title": "10 of Our Fav Illustrators Using True Grit",
+    "timestamp": "2024-03-07 13:03:13 -0800",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/05a3500891ba0dbf184281ba770807f38643bd5645225c29139d2047f013f78d.jpg",
     "jpg_tries": 1
   }
 ]
