@@ -2436,8 +2436,8 @@
     "url": "https://libmma.contentdm.oclc.org/digital/collection/p16028coll7/search/searchterm/unai%20no%20tomo",
     "title": "Digital Collections from The Metropolitan Museum of Art Libraries - Digital Collections from The Metropolitan Museum of Art Libraries",
     "timestamp": "2024-02-28 21:00:05 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20230414063351/https://libmma.contentdm.oclc.org/digital/collection/p16028coll7/search/searchterm/unai%20no%20tomo",
+    "wbm_tries": 1,
     "jpg": "snapshots/d36cd939675aca8ab3290720b673cd150f8ac6615be45426d28ef4ec261e4513.jpg",
     "jpg_tries": 1
   },
@@ -2514,7 +2514,7 @@
     "title": "Calendar",
     "timestamp": "2024-03-01 17:45:00 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/5fd28a0816bd35f0a416d8333bd7dc555b09b00676989f2b9031c17cc128a70d.jpg",
     "jpg_tries": 1
   },
