@@ -611,7 +611,7 @@
     "title": "Windy: Wind map & weather forecast",
     "timestamp": "2024-01-05 15:50:35 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/7456fb7745355199c160753a1ae4bb802172a3e72eb39372bffcd115cc6cb4e0.jpg",
     "jpg_tries": 1
   },
@@ -2448,7 +2448,7 @@
     "title": "Henry Corbould - Wikipedia",
     "timestamp": "2024-02-29 19:43:54 -0800",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/09c8ddc224b2064791bb04feac66f31eba09b8a1ec373700df5376fbf4cee49d.jpg",
     "jpg_tries": 1
   },
