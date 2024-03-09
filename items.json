@@ -2140,7 +2140,7 @@
     "title": "Beispiele kunstlerischer Schrift Pl.073 by Rudolf von Larisch - Artvee",
     "timestamp": "2024-02-09 09:21:58 -0800",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/9286e83602ab55b8cde6d96834b6ea151f9b575fae131077d8353768cea920be.jpg",
     "jpg_tries": 1
   },
@@ -2480,8 +2480,8 @@
     "url": "https://blog.frost.kiwi/WebGL-LUTS-made-simple/",
     "title": "How video games use LUTs and how you can too",
     "timestamp": "2024-03-01 08:36:48 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240308113658/https://blog.frost.kiwi/WebGL-LUTS-made-simple/",
+    "wbm_tries": 1,
     "jpg": "snapshots/2e86cb6057d6b64258573ad76251f110cbd08c8f38f01110ae17fb50c7ce775a.jpg",
     "jpg_tries": 1
   },
