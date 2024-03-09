@@ -468,7 +468,7 @@
     "title": "Knives – DC's",
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
     "jpg_tries": 1
   },
@@ -2502,8 +2502,8 @@
     "url": "https://gifcities.org/",
     "title": "GifCities",
     "timestamp": "2024-03-01 17:43:47 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240304144433/https://gifcities.org/",
+    "wbm_tries": 1,
     "jpg": "snapshots/45785de078ed53534b8a978d9e18cd49066fe8205ca1af2bc97f436805148268.jpg",
     "jpg_tries": 1
   },
