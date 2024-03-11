@@ -204,7 +204,7 @@
     "title": "#27002272 — tlath · Lomography",
     "timestamp": "2024-01-01 14:46:49 -0800",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/0cfb74e8d4f9d15c68aa9b869f30b0158f769e18580239fdd075bfefa50e018e.jpg",
     "jpg_tries": 1
   },
@@ -2733,8 +2733,8 @@
     "url": "https://harriorrihar.myportfolio.com/trip",
     "title": "Jon Juarez - Trip",
     "timestamp": "2024-03-05 08:02:33 -0800",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20220819005943/https://harriorrihar.myportfolio.com/trip",
+    "wbm_tries": 1,
     "jpg": "snapshots/1d6c9af6df803f0a0f149e218f4b158dcefd5fac2053a27fc80c42341c5bda5b.jpg",
     "jpg_tries": 1
   },
