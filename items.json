@@ -2547,7 +2547,7 @@
     "title": "New York City In Color - Garry Winogrand's Street Shots - Flashbak",
     "timestamp": "2024-03-02 09:54:05 -0800",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/9a0a435e0d93ed49a9962e2057a90e727c6139a1ac83aa45904b3a8adbb3bef0.jpg",
     "jpg_tries": 1
   },
@@ -2777,8 +2777,8 @@
     "url": "http://spiff.rit.edu/classes/phys235/no_moon/no_moon.html",
     "title": "What if the Earth had no Moon?",
     "timestamp": "2024-03-11 21:03:51 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240126232929/http://spiff.rit.edu/classes/phys235/no_moon/no_moon.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/2131563a0ce1e4e2e6b95f36f823eda6c85dad62963d7f6052cbbaa007008749.jpg",
     "jpg_tries": 1
   },
