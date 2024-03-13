@@ -2755,8 +2755,8 @@
     "url": "https://www.behance.net/gallery/193328989/art-block",
     "title": "art block :: Behance",
     "timestamp": "2024-03-11 20:59:16 -0700",
-    "wbm": null,
-    "wbm_tries": 3,
+    "wbm": "http://web.archive.org/web/20240312122306/https://www.behance.net/gallery/193328989/art-block",
+    "wbm_tries": 4,
     "jpg": "snapshots/3c08b40184a23712d6870e24b23c92ef85f4f9396e81d5cf0948a2d1ef9af8e9.jpg",
     "jpg_tries": 1
   },
@@ -2767,7 +2767,7 @@
     "title": "no more shame — nikitagross · Lomography",
     "timestamp": "2024-03-11 21:00:32 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/6759fdcdff8e5c181107730f8d77766c0e93ce1e279d9131751a3d20d8cbf5fc.jpg",
     "jpg_tries": 1
   },
