@@ -2803,5 +2803,16 @@
     "wbm_tries": 8,
     "jpg": "snapshots/0a971aa58088b05192d89bbf4c9ebb1881d280252574d621be57c67de9a5bb37.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 256,
+    "digest": "3e66a0df4fd49cb378212a215d1389a0c84fd4307131e793e3e227aa1625f68b",
+    "url": "https://www.itsnicethat.com/articles/rush-jackson-graphic-design-discover-130324",
+    "title": "From a Shikeith monograph to the In the Black Fantastic book, Rush Jackson amplifies the culture at every turn",
+    "timestamp": "2024-03-14 13:59:53 -0700",
+    "wbm": "http://web.archive.org/web/20240313190744/https://www.itsnicethat.com/articles/rush-jackson-graphic-design-discover-130324",
+    "wbm_tries": 1,
+    "jpg": "snapshots/3e66a0df4fd49cb378212a215d1389a0c84fd4307131e793e3e227aa1625f68b.jpg",
+    "jpg_tries": 1
   }
 ]
