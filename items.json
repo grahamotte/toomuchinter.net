@@ -2814,5 +2814,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/3e66a0df4fd49cb378212a215d1389a0c84fd4307131e793e3e227aa1625f68b.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 257,
+    "digest": "9951948b11449f317217e341acdfc259c65c046867de3a0891bc107d0991b371",
+    "url": "https://www.nordicnames.de/wiki/List_of_rejected_Icelandic_female_names",
+    "title": "List of rejected Icelandic female names - Nordic Names",
+    "timestamp": "2024-03-14 16:39:01 -0700",
+    "wbm": "http://web.archive.org/web/20240310204407/https://www.nordicnames.de/wiki/List_of_rejected_Icelandic_female_names",
+    "wbm_tries": 1,
+    "jpg": "snapshots/9951948b11449f317217e341acdfc259c65c046867de3a0891bc107d0991b371.jpg",
+    "jpg_tries": 1
   }
 ]
