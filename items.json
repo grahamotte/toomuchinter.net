@@ -2847,5 +2847,38 @@
     "wbm_tries": 1,
     "jpg": "snapshots/7848889fc9e8f386f28a3b1a91f7012e052e4fe93da6b89945070e356240261c.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 260,
+    "digest": "aca73a5a2d99a5a56e6ed9d067fc5fdef1aac4d3cc892d012369eae10b6a07c7",
+    "url": "https://www.thisiscolossal.com/2024/03/trung-dong-fruit-ladies/",
+    "title": "Trung Dong's Aerial Street Photos Highlight the Fruit Merchants of Hanoi — Colossal",
+    "timestamp": "2024-03-16 11:10:21 -0700",
+    "wbm": "http://web.archive.org/web/20240313172145/https://www.thisiscolossal.com/2024/03/trung-dong-fruit-ladies/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/aca73a5a2d99a5a56e6ed9d067fc5fdef1aac4d3cc892d012369eae10b6a07c7.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 261,
+    "digest": "f7134949955055f41eac6733891239289a2f5d9dfe5e268610b20612a7cc4fe6",
+    "url": "https://design-milk.com/minimalist-leica-m-reimagined-concept/?utm_source=rss&utm_medium=rss&utm_campaign=minimalist-leica-m-reimagined-concept",
+    "title": "Leica M Reimagined Concept Focuses Upon Minimalist Simplicity",
+    "timestamp": "2024-03-16 11:12:22 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/f7134949955055f41eac6733891239289a2f5d9dfe5e268610b20612a7cc4fe6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 262,
+    "digest": "dfc18cbc28b47df781677a14f70caa952036dbcf18049f28d0d07634f9fcb7ef",
+    "url": "https://en.wikipedia.org/w/index.php?title=Bonded_Vault_heist&lol=2024-03-15-3",
+    "title": "Bonded Vault heist - Wikipedia",
+    "timestamp": "2024-03-16 11:19:02 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
