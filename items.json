@@ -2899,7 +2899,7 @@
     "title": "nemfrog - Megareptiles and volcanoes. Les Belles images....",
     "timestamp": "2024-03-16 18:37:34 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/a9ad315f23fc7ea44f760e7a7c7fd10f7be9b7214d634ed93e2b190dab6ababf.jpg",
     "jpg_tries": 1
   },
@@ -2953,8 +2953,8 @@
     "url": "https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/",
     "title": "Superiority by Arthur C. Clarke (Full Text) – Metallicman",
     "timestamp": "2024-03-17 14:01:42 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240317210608/https://metallicman.com/laoban4site/superiority-by-arthur-c-clarke-full-text/",
+    "wbm_tries": 1,
     "jpg": "snapshots/7531beca7d9c799bcae6cc5585190fa79690a2f74b735b0fec6714aac82e4d57.jpg",
     "jpg_tries": 1
   }
