@@ -2877,8 +2877,30 @@
     "title": "Bonded Vault heist - Wikipedia",
     "timestamp": "2024-03-16 11:19:02 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/dfc18cbc28b47df781677a14f70caa952036dbcf18049f28d0d07634f9fcb7ef.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 263,
+    "digest": "6c371bc1185d1f795270e2551c337f54bf972732f840548f5f03c72f30854031",
+    "url": "https://www.itsnicethat.com/articles/zsofia-gyorfi-art-illustration-discover-140324",
+    "title": "Cats juggle and bees shelter inside Zsófia Győrfi’s eclectic and dizzying world of illustration",
+    "timestamp": "2024-03-16 18:20:38 -0700",
+    "wbm": "http://web.archive.org/web/20240314133726/https://www.itsnicethat.com/articles/zsofia-gyorfi-art-illustration-discover-140324",
+    "wbm_tries": 1,
+    "jpg": "snapshots/6c371bc1185d1f795270e2551c337f54bf972732f840548f5f03c72f30854031.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 264,
+    "digest": "a9ad315f23fc7ea44f760e7a7c7fd10f7be9b7214d634ed93e2b190dab6ababf",
+    "url": "https://nemfrog.tumblr.com/post/744855832199561216/megareptiles-and-volcanoes-les-belles-images",
+    "title": "nemfrog - Megareptiles and volcanoes. Les Belles images....",
+    "timestamp": "2024-03-16 18:37:34 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/a9ad315f23fc7ea44f760e7a7c7fd10f7be9b7214d634ed93e2b190dab6ababf.jpg",
     "jpg_tries": 1
   }
 ]
