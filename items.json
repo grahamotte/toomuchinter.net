@@ -2877,7 +2877,7 @@
     "title": "Bonded Vault heist - Wikipedia",
     "timestamp": "2024-03-16 11:19:02 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/dfc18cbc28b47df781677a14f70caa952036dbcf18049f28d0d07634f9fcb7ef.jpg",
     "jpg_tries": 1
   },
@@ -2921,8 +2921,30 @@
     "title": "COULEURS",
     "timestamp": "2024-03-16 22:43:37 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/f6149ace8e4e0dcadda7a76e1d7189aee0aeb69e0588b16b7058885ac045e1b1.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 267,
+    "digest": "74cbac24d717b173552799fe72307874d0f87e44298a5949c9d173f67f0268e8",
+    "url": "https://en.wikipedia.org/w/index.php?title=Microsoft_v._MikeRoweSoft&lol=2024-03-17-2",
+    "title": "Microsoft v. MikeRoweSoft - Wikipedia",
+    "timestamp": "2024-03-17 10:32:34 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/74cbac24d717b173552799fe72307874d0f87e44298a5949c9d173f67f0268e8.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 268,
+    "digest": "ed3ade1779049aa11c9c1471530a0c687bc90c1f9545ae0d5184afad6c552dd2",
+    "url": "https://yama-bato.tumblr.com/post/745185188651368448/2017-bettina-krieg",
+    "title": "COULEURS",
+    "timestamp": "2024-03-17 10:33:07 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/ed3ade1779049aa11c9c1471530a0c687bc90c1f9545ae0d5184afad6c552dd2.jpg",
     "jpg_tries": 1
   }
 ]
