@@ -2976,9 +2976,9 @@
     "title": "COULEURS",
     "timestamp": "2024-03-23 17:04:21 -0700",
     "wbm": null,
-    "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 2,
+    "jpg": "snapshots/a45944fa62bdb4454b344fe3d8231ab150ce3c186fb7bcf6e14a31bc93bab1b8.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 272,
@@ -2986,8 +2986,8 @@
     "url": "https://oimo.io/works/life/",
     "title": "Life Universe",
     "timestamp": "2024-03-23 17:09:31 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240318052632/https://oimo.io/works/life/",
+    "wbm_tries": 1,
     "jpg": "snapshots/ec28d6a691091e2e331bbd13e39694bae25b1468193c0667dee7865c99a14177.jpg",
     "jpg_tries": 1
   }
