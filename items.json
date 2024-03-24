@@ -2957,5 +2957,38 @@
     "wbm_tries": 1,
     "jpg": "snapshots/7531beca7d9c799bcae6cc5585190fa79690a2f74b735b0fec6714aac82e4d57.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 270,
+    "digest": "a8bc60ac5da5ac49c52b3f3eece7a6c24ce3730ae72c6961d9bfa2c9f4316d40",
+    "url": "https://archive.org/details/delightfulstori00pelt/page/30/mode/2up",
+    "title": "Delightful stories; or, Home talks out of the Wonderful book.. : Peltz, George A. (George Alexander) : Free Download, Borrow, and Streaming : Internet Archive",
+    "timestamp": "2024-03-23 17:02:35 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/a8bc60ac5da5ac49c52b3f3eece7a6c24ce3730ae72c6961d9bfa2c9f4316d40.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 271,
+    "digest": "a45944fa62bdb4454b344fe3d8231ab150ce3c186fb7bcf6e14a31bc93bab1b8",
+    "url": "https://yama-bato.tumblr.com/post/745545540631150592/yoshiyuki-someya-border-87",
+    "title": "COULEURS",
+    "timestamp": "2024-03-23 17:04:21 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 272,
+    "digest": "ec28d6a691091e2e331bbd13e39694bae25b1468193c0667dee7865c99a14177",
+    "url": "https://oimo.io/works/life/",
+    "title": "Life Universe",
+    "timestamp": "2024-03-23 17:09:31 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/ec28d6a691091e2e331bbd13e39694bae25b1468193c0667dee7865c99a14177.jpg",
+    "jpg_tries": 1
   }
 ]
