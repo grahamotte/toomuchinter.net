@@ -2976,7 +2976,7 @@
     "title": "COULEURS",
     "timestamp": "2024-03-23 17:04:21 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/a45944fa62bdb4454b344fe3d8231ab150ce3c186fb7bcf6e14a31bc93bab1b8.jpg",
     "jpg_tries": 1
   },
@@ -2997,8 +2997,8 @@
     "url": "https://arun.is/blog/healthy-computing/",
     "title": "Why we crave healthier computing",
     "timestamp": "2024-03-23 22:44:47 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240321050322/https://arun.is/blog/healthy-computing/",
+    "wbm_tries": 1,
     "jpg": "snapshots/6e35e66c6c856a87e3e0f0246006db31297fed76026621b1a25f3a2469567b81.jpg",
     "jpg_tries": 1
   }
