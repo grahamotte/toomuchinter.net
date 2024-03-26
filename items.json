@@ -2976,7 +2976,7 @@
     "title": "COULEURS",
     "timestamp": "2024-03-23 17:04:21 -0700",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/a45944fa62bdb4454b344fe3d8231ab150ce3c186fb7bcf6e14a31bc93bab1b8.jpg",
     "jpg_tries": 1
   },
@@ -3033,6 +3033,28 @@
     "wbm": null,
     "wbm_tries": 6,
     "jpg": "snapshots/9625207318d63ed22a9654410536b1e8eef7234e2c34e14a1015e38964955c58.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 277,
+    "digest": "ac29bfb9a0cd63c449fe516fdb2c4d52ea379503d349cca93f3bfb8711a34887",
+    "url": "https://www.thisiscolossal.com/2024/03/lee-hyun-joung-ridge-lines/",
+    "title": "Densely Heaving Lines Meet at Mountainous Junctures in Lee Hyun Joung's Paintings — Colossal",
+    "timestamp": "2024-03-25 17:17:58 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/ac29bfb9a0cd63c449fe516fdb2c4d52ea379503d349cca93f3bfb8711a34887.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 278,
+    "digest": "d8294d9b3580775c2fd5552771e61f543cd488f6d18663bebc16c8d7fe30fc01",
+    "url": "https://en.wikipedia.org/wiki/Radicle",
+    "title": "Radicle - Wikipedia",
+    "timestamp": "2024-03-25 18:32:49 -0700",
+    "wbm": "http://web.archive.org/web/20240105191816/https://en.wikipedia.org/wiki/Radicle",
+    "wbm_tries": 1,
+    "jpg": "snapshots/d8294d9b3580775c2fd5552771e61f543cd488f6d18663bebc16c8d7fe30fc01.jpg",
     "jpg_tries": 1
   }
 ]
