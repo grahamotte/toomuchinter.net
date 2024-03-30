@@ -3098,8 +3098,8 @@
     "timestamp": "2024-03-29 17:26:32 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/1d0db71d213e1d6769b99af1720e6fa372c78307bbd845ed7aa96ef244ccbda2.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 283,
@@ -3185,7 +3185,7 @@
     "title": "Wah Cantonment - Wikipedia",
     "timestamp": "2024-03-29 18:50:52 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e.jpg",
     "jpg_tries": 1
   },
@@ -3195,8 +3195,8 @@
     "url": "https://visdeurbel.nl/en/the-fish-doorbell/",
     "title": "The fish doorbell",
     "timestamp": "2024-03-29 18:54:06 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240329201826/https://visdeurbel.nl/en/the-fish-doorbell/",
+    "wbm_tries": 1,
     "jpg": "snapshots/239a0d55c317690f6bb8c0a2c6edfa215385d1f569aca9aaaf52f40a9410838c.jpg",
     "jpg_tries": 1
   },
