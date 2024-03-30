@@ -3064,7 +3064,7 @@
     "title": "A history of caricature & grotesque in literature and art : Wright, Thomas, 1810-1877 : Free Download, Borrow, and Streaming : Internet Archive",
     "timestamp": "2024-03-29 12:34:03 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/b715967ceee03c3d5e8481456efa45b7d13097532aa2e2f7ee74defa663d2ae4.jpg",
     "jpg_tries": 1
   },
@@ -3075,7 +3075,7 @@
     "title": "Compilation 17 :: Behance",
     "timestamp": "2024-03-29 16:59:34 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/5167b389b27656c6e9a37fedf1db9c3acf49fa95a0787f6159485978f57fbcce.jpg",
     "jpg_tries": 1
   },
@@ -3142,8 +3142,8 @@
     "timestamp": "2024-03-29 17:31:35 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/8ae9f5e3e6e421544226b29519ffa5c38a970cf72bf1cbc7d285dac60e3581d9.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 287,
@@ -3151,6 +3151,50 @@
     "url": "https://en.wikipedia.org/w/index.php?title=Gwenddydd&lol=2024-03-26-1",
     "title": "Gwenddydd - Wikipedia",
     "timestamp": "2024-03-29 17:32:16 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 288,
+    "digest": "e933929d91fb5779154b918503ed34032a02dcb0db6bfd99ae732b6034ba2b60",
+    "url": "https://en.wikipedia.org/w/index.php?title=Vehicle_registration_plates_of_Michigan&lol=2024-03-27-0",
+    "title": "Vehicle registration plates of Michigan - Wikipedia",
+    "timestamp": "2024-03-29 18:28:48 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/e933929d91fb5779154b918503ed34032a02dcb0db6bfd99ae732b6034ba2b60.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 289,
+    "digest": "a1bc0c89e7fd417c967834b300f45cf8269dd19d735b0021d4985127683b1a87",
+    "url": "https://mossandfog.com/cringe-worthy-eastern-bunny-photos-are-hilarious/",
+    "title": "Cringe-Worthy Eastern Bunny Photos are Hilarious | Moss and Fog",
+    "timestamp": "2024-03-29 18:38:02 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 290,
+    "digest": "c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e",
+    "url": "https://en.wikipedia.org/w/index.php?title=Wah_Cantonment&lol=2024-03-30-5",
+    "title": "Wah Cantonment - Wikipedia",
+    "timestamp": "2024-03-29 18:50:52 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 291,
+    "digest": "239a0d55c317690f6bb8c0a2c6edfa215385d1f569aca9aaaf52f40a9410838c",
+    "url": "https://visdeurbel.nl/en/the-fish-doorbell/",
+    "title": "The fish doorbell",
+    "timestamp": "2024-03-29 18:54:06 -0700",
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
