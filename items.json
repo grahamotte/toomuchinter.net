@@ -3152,7 +3152,7 @@
     "title": "Gwenddydd - Wikipedia",
     "timestamp": "2024-03-29 17:32:16 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3163,7 +3163,7 @@
     "title": "Vehicle registration plates of Michigan - Wikipedia",
     "timestamp": "2024-03-29 18:28:48 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/e933929d91fb5779154b918503ed34032a02dcb0db6bfd99ae732b6034ba2b60.jpg",
     "jpg_tries": 1
   },
@@ -3186,8 +3186,8 @@
     "timestamp": "2024-03-29 18:50:52 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 291,
@@ -3197,7 +3197,7 @@
     "timestamp": "2024-03-29 18:54:06 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/239a0d55c317690f6bb8c0a2c6edfa215385d1f569aca9aaaf52f40a9410838c.jpg",
+    "jpg_tries": 1
   }
 ]
