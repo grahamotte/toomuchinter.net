@@ -3185,7 +3185,7 @@
     "title": "Wah Cantonment - Wikipedia",
     "timestamp": "2024-03-29 18:50:52 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e.jpg",
     "jpg_tries": 1
   },
@@ -3243,5 +3243,82 @@
     "wbm_tries": 0,
     "jpg": "snapshots/e7e3927111da1d8ad4c77cc346f85ac0deb9c92fbcb37ad1b2e2984ec13dfe4c.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 296,
+    "digest": "0b790c058ac9dd96f9c17a6c8ef96f5c5e1693ce13bf8ccbeeaf4b2ec3eb300a",
+    "url": "https://vivirenremoto.github.io/doomcaptcha/",
+    "title": "DOOM Captcha - Captchas don't have to be boring",
+    "timestamp": "2024-03-31 11:28:51 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/0b790c058ac9dd96f9c17a6c8ef96f5c5e1693ce13bf8ccbeeaf4b2ec3eb300a.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 297,
+    "digest": "3a462f73d392ecfc9cf712362a7d3bb894897e8ca1090da45a5b4ea440d7bad4",
+    "url": "https://heated.world/p/plastic-recycling-is-a-scam",
+    "title": "Plastic recycling is a scam - by Arielle Samuelson - HEATED",
+    "timestamp": "2024-03-31 11:29:54 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 298,
+    "digest": "10430fb454da53d20e192146a926e366d329c2c4516ec1808bb288e8746dab2b",
+    "url": "https://downpour.games/~terry/a-proper-cup-of-tea",
+    "title": "a proper cup of tea - Terry | Downpour",
+    "timestamp": "2024-03-31 11:40:25 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 299,
+    "digest": "41b6541cf1dbd55e3ebb60c97903df65a235a9cb9c2da4a517114bf8ecedd684",
+    "url": "https://mossandfog.com/historical-collection-of-found-paper-airplanes/",
+    "title": "Historical Collection of Found Paper Airplanes | Moss and Fog",
+    "timestamp": "2024-03-31 11:40:56 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 300,
+    "digest": "3c4d6ccfeb2fb3ef9f70e97a573228d2a296b314aa3cd5d5957947eb7deee1e9",
+    "url": "https://www.behance.net/gallery/194767797/ICE-BUBBLES-Iceland",
+    "title": "ICE BUBBLES — Iceland :: Behance",
+    "timestamp": "2024-03-31 11:47:36 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/3c4d6ccfeb2fb3ef9f70e97a573228d2a296b314aa3cd5d5957947eb7deee1e9.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 301,
+    "digest": "070da5c1e87a527b5d422948a3003efcb6f4fd50d0bc2a8a234bfa8f35e58fdd",
+    "url": "https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/",
+    "title": "The Roller Ship Was Not An Effective Way To Cross The High Seas | Hackaday",
+    "timestamp": "2024-03-31 11:58:34 -0700",
+    "wbm": "http://web.archive.org/web/20240331183245/https://hackaday.com/2024/03/27/the-roller-ship-was-not-an-effective-way-to-cross-the-high-seas/",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 302,
+    "digest": "990813be6ee0685fb0a5682af24abe48ce51f1fa43e549f374bee3bc232701c8",
+    "url": "https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/edit?ref=thebrowser.com",
+    "title": "The Mongolian Meta - Google Docs",
+    "timestamp": "2024-03-31 11:58:41 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
