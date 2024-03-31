@@ -3118,8 +3118,8 @@
     "url": "https://apod.nasa.gov/apod/ap240328.html",
     "title": "APOD: 2024 March 28 - Millions of Stars in Omega Centauri",
     "timestamp": "2024-03-29 17:29:56 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240330030519/https://apod.nasa.gov/apod/ap240328.html",
+    "wbm_tries": 1,
     "jpg": "snapshots/08aa3dea4ad546917b8979ac338528afd849cd9ef3d1c9e8161107931c7293bf.jpg",
     "jpg_tries": 1
   },
@@ -3163,7 +3163,7 @@
     "title": "Vehicle registration plates of Michigan - Wikipedia",
     "timestamp": "2024-03-29 18:28:48 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/e933929d91fb5779154b918503ed34032a02dcb0db6bfd99ae732b6034ba2b60.jpg",
     "jpg_tries": 1
   },
@@ -3230,8 +3230,8 @@
     "timestamp": "2024-03-30 21:32:29 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/16d08d5333737602d162a52e1f8d2be833a78107d09820cc5570f3723cc160f0.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 295,
