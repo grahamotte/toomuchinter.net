@@ -3152,7 +3152,7 @@
     "title": "Gwenddydd - Wikipedia",
     "timestamp": "2024-03-29 17:32:16 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/f6ddaee48b2d075cf2c236e2b018e5f66b910b86be4d1d2e13ebc120e7af1814.jpg",
     "jpg_tries": 1
   },
@@ -3185,7 +3185,7 @@
     "title": "Wah Cantonment - Wikipedia",
     "timestamp": "2024-03-29 18:50:52 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e.jpg",
     "jpg_tries": 1
   },
@@ -3263,8 +3263,8 @@
     "timestamp": "2024-03-31 11:29:54 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3a462f73d392ecfc9cf712362a7d3bb894897e8ca1090da45a5b4ea440d7bad4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 298,
@@ -3274,8 +3274,8 @@
     "timestamp": "2024-03-31 11:40:25 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/10430fb454da53d20e192146a926e366d329c2c4516ec1808bb288e8746dab2b.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 299,
