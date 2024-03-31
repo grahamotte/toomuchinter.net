@@ -3250,8 +3250,8 @@
     "url": "https://vivirenremoto.github.io/doomcaptcha/",
     "title": "DOOM Captcha - Captchas don't have to be boring",
     "timestamp": "2024-03-31 11:28:51 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240330021755/https://vivirenremoto.github.io/doomcaptcha/",
+    "wbm_tries": 1,
     "jpg": "snapshots/0b790c058ac9dd96f9c17a6c8ef96f5c5e1693ce13bf8ccbeeaf4b2ec3eb300a.jpg",
     "jpg_tries": 1
   },
@@ -3261,8 +3261,8 @@
     "url": "https://heated.world/p/plastic-recycling-is-a-scam",
     "title": "Plastic recycling is a scam - by Arielle Samuelson - HEATED",
     "timestamp": "2024-03-31 11:29:54 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240313144040/https://heated.world/p/plastic-recycling-is-a-scam",
+    "wbm_tries": 1,
     "jpg": "snapshots/3a462f73d392ecfc9cf712362a7d3bb894897e8ca1090da45a5b4ea440d7bad4.jpg",
     "jpg_tries": 1
   },
@@ -3285,8 +3285,8 @@
     "timestamp": "2024-03-31 11:40:56 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/41b6541cf1dbd55e3ebb60c97903df65a235a9cb9c2da4a517114bf8ecedd684.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 300,
@@ -3318,7 +3318,7 @@
     "timestamp": "2024-03-31 11:58:41 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/990813be6ee0685fb0a5682af24abe48ce51f1fa43e549f374bee3bc232701c8.jpg",
+    "jpg_tries": 1
   }
 ]
