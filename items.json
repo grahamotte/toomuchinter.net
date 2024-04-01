@@ -3141,7 +3141,7 @@
     "title": "Still Searching — snapbackpretty · Lomography",
     "timestamp": "2024-03-29 17:31:35 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/8ae9f5e3e6e421544226b29519ffa5c38a970cf72bf1cbc7d285dac60e3581d9.jpg",
     "jpg_tries": 1
   },
@@ -3272,8 +3272,8 @@
     "url": "https://downpour.games/~terry/a-proper-cup-of-tea",
     "title": "a proper cup of tea - Terry | Downpour",
     "timestamp": "2024-03-31 11:40:25 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240331020347/https://downpour.games/~terry/a-proper-cup-of-tea",
+    "wbm_tries": 1,
     "jpg": "snapshots/10430fb454da53d20e192146a926e366d329c2c4516ec1808bb288e8746dab2b.jpg",
     "jpg_tries": 1
   },
