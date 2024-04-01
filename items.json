@@ -3064,7 +3064,7 @@
     "title": "A history of caricature & grotesque in literature and art : Wright, Thomas, 1810-1877 : Free Download, Borrow, and Streaming : Internet Archive",
     "timestamp": "2024-03-29 12:34:03 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/b715967ceee03c3d5e8481456efa45b7d13097532aa2e2f7ee74defa663d2ae4.jpg",
     "jpg_tries": 1
   },
@@ -3319,6 +3319,17 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": "snapshots/990813be6ee0685fb0a5682af24abe48ce51f1fa43e549f374bee3bc232701c8.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 303,
+    "digest": "7681026d19d1bd0f513d2906db31af9042b11ead387487746add22ed85096711",
+    "url": "https://www.annahavron.com/blog/blog-post-on-getting-over-it",
+    "title": "On Getting Over It — Anna Havron",
+    "timestamp": "2024-03-31 21:46:26 -0700",
+    "wbm": "http://web.archive.org/web/20240223073628/https://www.annahavron.com/blog/blog-post-on-getting-over-it",
+    "wbm_tries": 1,
+    "jpg": "snapshots/7681026d19d1bd0f513d2906db31af9042b11ead387487746add22ed85096711.jpg",
     "jpg_tries": 1
   }
 ]
