@@ -3141,7 +3141,7 @@
     "title": "Still Searching — snapbackpretty · Lomography",
     "timestamp": "2024-03-29 17:31:35 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/8ae9f5e3e6e421544226b29519ffa5c38a970cf72bf1cbc7d285dac60e3581d9.jpg",
     "jpg_tries": 1
   },
@@ -3294,8 +3294,8 @@
     "url": "https://www.behance.net/gallery/194767797/ICE-BUBBLES-Iceland",
     "title": "ICE BUBBLES — Iceland :: Behance",
     "timestamp": "2024-03-31 11:47:36 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240401064731/https://www.behance.net/gallery/194767797/ICE-BUBBLES-Iceland",
+    "wbm_tries": 1,
     "jpg": "snapshots/3c4d6ccfeb2fb3ef9f70e97a573228d2a296b314aa3cd5d5957947eb7deee1e9.jpg",
     "jpg_tries": 1
   },
