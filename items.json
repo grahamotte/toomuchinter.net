@@ -3064,7 +3064,7 @@
     "title": "A history of caricature & grotesque in literature and art : Wright, Thomas, 1810-1877 : Free Download, Borrow, and Streaming : Internet Archive",
     "timestamp": "2024-03-29 12:34:03 -0700",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": "snapshots/b715967ceee03c3d5e8481456efa45b7d13097532aa2e2f7ee74defa663d2ae4.jpg",
     "jpg_tries": 1
   },
@@ -3141,7 +3141,7 @@
     "title": "Still Searching — snapbackpretty · Lomography",
     "timestamp": "2024-03-29 17:31:35 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/8ae9f5e3e6e421544226b29519ffa5c38a970cf72bf1cbc7d285dac60e3581d9.jpg",
     "jpg_tries": 1
   },
@@ -3152,7 +3152,7 @@
     "title": "Gwenddydd - Wikipedia",
     "timestamp": "2024-03-29 17:32:16 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/f6ddaee48b2d075cf2c236e2b018e5f66b910b86be4d1d2e13ebc120e7af1814.jpg",
     "jpg_tries": 1
   },
@@ -3174,7 +3174,7 @@
     "title": "Cringe-Worthy Eastern Bunny Photos are Hilarious | Moss and Fog",
     "timestamp": "2024-03-29 18:38:02 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/a1bc0c89e7fd417c967834b300f45cf8269dd19d735b0021d4985127683b1a87.jpg",
     "jpg_tries": 1
   },
@@ -3185,7 +3185,7 @@
     "title": "Wah Cantonment - Wikipedia",
     "timestamp": "2024-03-29 18:50:52 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 8,
     "jpg": "snapshots/c3387a8ec6b72d90cfdff2935a0ce5adea01251b766400ebedf6246d59229f1e.jpg",
     "jpg_tries": 1
   },
@@ -3207,7 +3207,7 @@
     "title": "Dave Willems (@davewillemsphotography) • Instagram photos and videos",
     "timestamp": "2024-03-30 12:46:44 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/d108bb37ab407d0ea8dd6f5194434f01f0396a2b4b5757b3e46e8f5659584424.jpg",
     "jpg_tries": 1
   },
@@ -3284,7 +3284,7 @@
     "title": "Historical Collection of Found Paper Airplanes | Moss and Fog",
     "timestamp": "2024-03-31 11:40:56 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/41b6541cf1dbd55e3ebb60c97903df65a235a9cb9c2da4a517114bf8ecedd684.jpg",
     "jpg_tries": 1
   },
@@ -3330,6 +3330,17 @@
     "wbm": "http://web.archive.org/web/20240223073628/https://www.annahavron.com/blog/blog-post-on-getting-over-it",
     "wbm_tries": 1,
     "jpg": "snapshots/7681026d19d1bd0f513d2906db31af9042b11ead387487746add22ed85096711.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 304,
+    "digest": "b0c606a2f85775fbcc77ae3f90fbf1a8cc37259d23fe45729fe798fd8e69ba8c",
+    "url": "https://apod.nasa.gov/apod/ap240402.html",
+    "title": "APOD: 2024 April 2 – Detailed View of a Solar Eclipse Corona",
+    "timestamp": "2024-04-02 20:27:02 -0700",
+    "wbm": "http://web.archive.org/web/20240403032951/https://apod.nasa.gov/apod/ap240402.html",
+    "wbm_tries": 1,
+    "jpg": "snapshots/b0c606a2f85775fbcc77ae3f90fbf1a8cc37259d23fe45729fe798fd8e69ba8c.jpg",
     "jpg_tries": 1
   }
 ]
