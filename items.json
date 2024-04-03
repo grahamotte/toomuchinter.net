@@ -3141,7 +3141,7 @@
     "title": "Still Searching — snapbackpretty · Lomography",
     "timestamp": "2024-03-29 17:31:35 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/8ae9f5e3e6e421544226b29519ffa5c38a970cf72bf1cbc7d285dac60e3581d9.jpg",
     "jpg_tries": 1
   },
@@ -3229,7 +3229,7 @@
     "title": "Eunpyeong Hanok, Seoul — themightyjane · Lomography",
     "timestamp": "2024-03-30 21:32:29 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/16d08d5333737602d162a52e1f8d2be833a78107d09820cc5570f3723cc160f0.jpg",
     "jpg_tries": 1
   },
@@ -3341,6 +3341,17 @@
     "wbm": "http://web.archive.org/web/20240403032951/https://apod.nasa.gov/apod/ap240402.html",
     "wbm_tries": 1,
     "jpg": "snapshots/b0c606a2f85775fbcc77ae3f90fbf1a8cc37259d23fe45729fe798fd8e69ba8c.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 305,
+    "digest": "fd2aac4982435e3186fe32bd36049ccb434fb74e9ed2627835dd6f7076a6e4bb",
+    "url": "https://www.presentandcorrect.com/blogs/blog/the-function-of-colour-in-schools-hospitals-1930",
+    "title": "The Function of Colour in Schools & Hospitals, 1930. – Present & Correct",
+    "timestamp": "2024-04-03 13:34:00 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/fd2aac4982435e3186fe32bd36049ccb434fb74e9ed2627835dd6f7076a6e4bb.jpg",
     "jpg_tries": 1
   }
 ]
