@@ -3229,7 +3229,7 @@
     "title": "Eunpyeong Hanok, Seoul — themightyjane · Lomography",
     "timestamp": "2024-03-30 21:32:29 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/16d08d5333737602d162a52e1f8d2be833a78107d09820cc5570f3723cc160f0.jpg",
     "jpg_tries": 1
   },
@@ -3371,8 +3371,8 @@
     "url": "https://www.behance.net/gallery/195223671/Mars-2024",
     "title": "Mars 2024 :: Behance",
     "timestamp": "2024-04-04 11:46:42 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240404082502/https://www.behance.net/gallery/195223671/Mars-2024",
+    "wbm_tries": 1,
     "jpg": "snapshots/673f483f41a53a21a535e692cb1b5326643dca0f7e4ccff98d7288095c510695.jpg",
     "jpg_tries": 1
   }
