@@ -3097,7 +3097,7 @@
     "title": "The Allston Mall - Wikipedia",
     "timestamp": "2024-03-29 17:26:32 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/1d0db71d213e1d6769b99af1720e6fa372c78307bbd845ed7aa96ef244ccbda2.jpg",
     "jpg_tries": 1
   },
@@ -3174,7 +3174,7 @@
     "title": "Cringe-Worthy Eastern Bunny Photos are Hilarious | Moss and Fog",
     "timestamp": "2024-03-29 18:38:02 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/a1bc0c89e7fd417c967834b300f45cf8269dd19d735b0021d4985127683b1a87.jpg",
     "jpg_tries": 1
   },
@@ -3374,6 +3374,28 @@
     "wbm": "http://web.archive.org/web/20240404082502/https://www.behance.net/gallery/195223671/Mars-2024",
     "wbm_tries": 1,
     "jpg": "snapshots/673f483f41a53a21a535e692cb1b5326643dca0f7e4ccff98d7288095c510695.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 308,
+    "digest": "10d364e56579f5ea615eebca1f33151d0c7604b886c206d5cf18ad3f4acefdb9",
+    "url": "https://www.lomography.com/homes/wanderpup/photos/27214810",
+    "title": "#27214810 — wanderpup · Lomography",
+    "timestamp": "2024-04-06 09:40:41 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/10d364e56579f5ea615eebca1f33151d0c7604b886c206d5cf18ad3f4acefdb9.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 309,
+    "digest": "e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e",
+    "url": "https://rarehistoricalphotos.com/american-bison-extinction-photos/",
+    "title": "Haunting Photos of the Bison Extermination in 19th Century America - Rare Historical Photos",
+    "timestamp": "2024-04-06 09:46:05 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
     "jpg_tries": 1
   }
 ]
