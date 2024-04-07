@@ -3394,7 +3394,7 @@
     "title": "Haunting Photos of the Bison Extermination in 19th Century America - Rare Historical Photos",
     "timestamp": "2024-04-06 09:46:05 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
     "jpg_tries": 1
   },
@@ -3404,8 +3404,8 @@
     "url": "https://www.mathesonfoodcompany.com/",
     "title": "MATHESON FOOD COMPANY - BBQ SAUCES, SALAD DRESSINGS, MAC & CHEESE. FOLLOW AND FIND OUT WHAT’S NEXT FOR YOUR PANTRY",
     "timestamp": "2024-04-06 18:17:04 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240405020819/https://www.mathesonfoodcompany.com/",
+    "wbm_tries": 1,
     "jpg": "snapshots/d48381f1b2eaac509a343889b83b7333b76c571d40dcbeaae2f47f3b71453cfe.jpg",
     "jpg_tries": 1
   }
