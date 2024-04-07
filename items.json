@@ -3097,7 +3097,7 @@
     "title": "The Allston Mall - Wikipedia",
     "timestamp": "2024-03-29 17:26:32 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/1d0db71d213e1d6769b99af1720e6fa372c78307bbd845ed7aa96ef244ccbda2.jpg",
     "jpg_tries": 1
   },
@@ -3361,7 +3361,7 @@
     "title": "COULEURS",
     "timestamp": "2024-04-04 10:00:53 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/8f49e97f09367c7e5a5e10e82cd1009d1fbcc52187fd05f56b02ee683bc09f05.jpg",
     "jpg_tries": 1
   },
@@ -3396,6 +3396,17 @@
     "wbm": null,
     "wbm_tries": 1,
     "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 310,
+    "digest": "d48381f1b2eaac509a343889b83b7333b76c571d40dcbeaae2f47f3b71453cfe",
+    "url": "https://www.mathesonfoodcompany.com/",
+    "title": "MATHESON FOOD COMPANY - BBQ SAUCES, SALAD DRESSINGS, MAC & CHEESE. FOLLOW AND FIND OUT WHAT’S NEXT FOR YOUR PANTRY",
+    "timestamp": "2024-04-06 18:17:04 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/d48381f1b2eaac509a343889b83b7333b76c571d40dcbeaae2f47f3b71453cfe.jpg",
     "jpg_tries": 1
   }
 ]
