@@ -3416,7 +3416,7 @@
     "title": "the best data visualization is a grid of faces | maya.land",
     "timestamp": "2024-04-09 12:30:40 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/84cc034798b5d52bbcf1ed9bc378b3dd0c2ded9f8e6a543ffb4eb8c5837c7906.jpg",
     "jpg_tries": 1
   },
@@ -3427,8 +3427,19 @@
     "title": "Oatmeal | 📸 Photo",
     "timestamp": "2024-04-09 17:26:46 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/c30eb3306827bf90367ec490f4b5fccd95691d8c9238415fa5c9f7be6ced3b7e.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 313,
+    "digest": "4ac079b676d3e46e545af6994e3152fdbd1dcec62d4e2339eb0b017dfdf64bb4",
+    "url": "https://design-milk.com/sidewinder-is-a-kinder-knife-under-the-guise-of-a-kinetic-sculpture/?utm_source=rss&utm_medium=rss&utm_campaign=sidewinder-is-a-kinder-knife-under-the-guise-of-a-kinetic-sculpture",
+    "title": "The Sidewinder Is a \"Kinder Knife\" Under the Guise of a Kinetic Sculpture",
+    "timestamp": "2024-04-10 01:15:57 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/4ac079b676d3e46e545af6994e3152fdbd1dcec62d4e2339eb0b017dfdf64bb4.jpg",
     "jpg_tries": 1
   }
 ]
