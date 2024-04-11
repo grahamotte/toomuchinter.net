@@ -3441,5 +3441,16 @@
     "wbm_tries": 8,
     "jpg": "snapshots/4ac079b676d3e46e545af6994e3152fdbd1dcec62d4e2339eb0b017dfdf64bb4.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 314,
+    "digest": "4cc1c9740dfc18785ecbb2ab3eea44a3eb15518e04a22648d91e30f680314a03",
+    "url": "https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist",
+    "title": "The Pyramids of Giza, Shrouded in Mist",
+    "timestamp": "2024-04-11 15:09:41 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/4cc1c9740dfc18785ecbb2ab3eea44a3eb15518e04a22648d91e30f680314a03.jpg",
+    "jpg_tries": 1
   }
 ]
