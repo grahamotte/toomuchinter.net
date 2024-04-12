@@ -3449,8 +3449,41 @@
     "title": "The Pyramids of Giza, Shrouded in Mist",
     "timestamp": "2024-04-11 15:09:41 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/4cc1c9740dfc18785ecbb2ab3eea44a3eb15518e04a22648d91e30f680314a03.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 315,
+    "digest": "38cc54a6813b5e1ec05332b3e549e296c1c1f71b2851063c1d898ab33de98079",
+    "url": "https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html",
+    "title": "A nostalgic look back at when the Internet still felt joyful | CNN",
+    "timestamp": "2024-04-11 19:07:07 -0700",
+    "wbm": "http://web.archive.org/web/20240404020639/https://www.cnn.com/2024/03/14/style/lan-party-online-gamers-photos/index.html",
+    "wbm_tries": 1,
+    "jpg": "snapshots/38cc54a6813b5e1ec05332b3e549e296c1c1f71b2851063c1d898ab33de98079.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 316,
+    "digest": "cf613d705e552f712449d2b7ccc1e3e8c01f2e2c53a5502d283b66fecb12fb86",
+    "url": "https://aftermath.site/lan-party-merritt-k-book-read-only-memory-rom",
+    "title": "The Rise And Fall Of The LAN Party - Aftermath",
+    "timestamp": "2024-04-11 19:07:16 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 317,
+    "digest": "e8741faa66e851d0c4e973997309485cec10336803c66db0bb4b49c768c81be3",
+    "url": "https://www.youtube.com/watch?v=BuEziDm9gQw&t=1s",
+    "title": "Making a Macintosh Studio - YouTube",
+    "timestamp": "2024-04-11 19:10:38 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/e8741faa66e851d0c4e973997309485cec10336803c66db0bb4b49c768c81be3.jpg",
     "jpg_tries": 1
   }
 ]
