@@ -3518,5 +3518,49 @@
     "wbm_tries": 1,
     "jpg": "snapshots/32fb3c2b0d8346c1b7e5144a3a62652ace3ee08d3d541dc66b90a163913b97ab.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 321,
+    "digest": "13cd0ae7076762dddd90431ab33c13cea178bb0a8f2feea04c2c8a7476750e36",
+    "url": "https://web.archive.org/web/20240413123133/https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/",
+    "title": "A Disgruntled Federal Employee’s 1980s Desk Calendar | IT",
+    "timestamp": "2024-04-13 08:18:42 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 322,
+    "digest": "2a3fa0e6b7bb907bde1559be2af1a28017e75fb2b3e2bed51a57efcb5a7958be",
+    "url": "https://www.hillelwayne.com/post/tale-of-daniel/",
+    "title": "The Tale of Daniel",
+    "timestamp": "2024-04-13 09:07:44 -0700",
+    "wbm": "http://web.archive.org/web/20240406185418/https://www.hillelwayne.com/post/tale-of-daniel/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/2a3fa0e6b7bb907bde1559be2af1a28017e75fb2b3e2bed51a57efcb5a7958be.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 323,
+    "digest": "8b61fd563bfaa7775cbda5ba7a0cb1afd6ea069b9c3a24bb411ea069f4de5561",
+    "url": "https://www.youtube.com/watch?v=JheGL6uSF-4",
+    "title": "I Made a Graph of Wikipedia... This Is What I Found - YouTube",
+    "timestamp": "2024-04-13 09:08:04 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 324,
+    "digest": "4ba12b400a97c45e412dd9548564a61b3855d5dfde5df23db621ecec10cb4bea",
+    "url": "https://afterthebeep.tel/#PAkB",
+    "title": "Oh, wait, I already said that | After the Beep",
+    "timestamp": "2024-04-13 09:08:48 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
