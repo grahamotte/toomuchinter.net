@@ -3526,7 +3526,7 @@
     "title": "A Disgruntled Federal Employee’s 1980s Desk Calendar | IT",
     "timestamp": "2024-04-13 08:18:42 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/13cd0ae7076762dddd90431ab33c13cea178bb0a8f2feea04c2c8a7476750e36.jpg",
     "jpg_tries": 1
   },
@@ -3549,8 +3549,8 @@
     "timestamp": "2024-04-13 09:08:04 -0700",
     "wbm": "http://web.archive.org/web/20240413072554/https://www.youtube.com/watch?v=JheGL6uSF-4",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/8b61fd563bfaa7775cbda5ba7a0cb1afd6ea069b9c3a24bb411ea069f4de5561.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 324,
