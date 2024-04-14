@@ -3527,8 +3527,8 @@
     "timestamp": "2024-04-13 08:18:42 -0700",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/13cd0ae7076762dddd90431ab33c13cea178bb0a8f2feea04c2c8a7476750e36.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 322,
@@ -3547,8 +3547,8 @@
     "url": "https://www.youtube.com/watch?v=JheGL6uSF-4",
     "title": "I Made a Graph of Wikipedia... This Is What I Found - YouTube",
     "timestamp": "2024-04-13 09:08:04 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240413072554/https://www.youtube.com/watch?v=JheGL6uSF-4",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3558,9 +3558,9 @@
     "url": "https://afterthebeep.tel/#PAkB",
     "title": "Oh, wait, I already said that | After the Beep",
     "timestamp": "2024-04-13 09:08:48 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "wbm": "http://web.archive.org/web/20240413115435/https://afterthebeep.tel/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/4ba12b400a97c45e412dd9548564a61b3855d5dfde5df23db621ecec10cb4bea.jpg",
+    "jpg_tries": 2
   }
 ]
