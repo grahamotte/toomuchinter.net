@@ -3584,5 +3584,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/28e209d72bcf7d444d06475301c448cd1a05f07a21487bc153935062628058bd.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 327,
+    "digest": "0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2",
+    "url": "https://graphicstudiodublin.com/artist/akino-yoko/",
+    "title": "Akino, Yoko – Graphic Studio Gallery",
+    "timestamp": "2024-04-17 15:06:13 -0700",
+    "wbm": "http://web.archive.org/web/20230924071552/https://graphicstudiodublin.com/artist/akino-yoko/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
+    "jpg_tries": 1
   }
 ]
