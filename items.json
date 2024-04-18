@@ -3625,7 +3625,7 @@
     "title": "Dinghuis - Wikipedia",
     "timestamp": "2024-04-17 18:04:00 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/3fd135766fce3693bd8dd1fd3ebe377fee2d21bbbdd36deee2b2c1d502850df6.jpg",
     "jpg_tries": 1
   },
@@ -3636,7 +3636,7 @@
     "title": "\"Cobalt Blues\" by Artist Karen Ösp Pálsdóttir",
     "timestamp": "2024-04-17 22:05:09 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/54722cb510840fc7c5a0e90532774041216ea4035ca75056328e3e297f9c456c.jpg",
     "jpg_tries": 1
   },
@@ -3660,6 +3660,28 @@
     "wbm": "http://web.archive.org/web/20240417021723/https://pudding.cool/2024/03/teenagers/",
     "wbm_tries": 1,
     "jpg": "snapshots/193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 334,
+    "digest": "ca8450df4e82222ce48c53bb7496816bac57e6f857f5e8724f5f4e13540860cc",
+    "url": "https://www.termtyper.com/",
+    "title": "Term Typer - Improve typing and vocabulary",
+    "timestamp": "2024-04-18 09:02:11 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/ca8450df4e82222ce48c53bb7496816bac57e6f857f5e8724f5f4e13540860cc.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 335,
+    "digest": "784ebdf892ec950ec1270386c457947fb32059f9fc1337a2aa2be69725beac72",
+    "url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/CassetteFuturism",
+    "title": "Cassette Futurism - TV Tropes",
+    "timestamp": "2024-04-18 09:02:36 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/784ebdf892ec950ec1270386c457947fb32059f9fc1337a2aa2be69725beac72.jpg",
     "jpg_tries": 1
   }
 ]
