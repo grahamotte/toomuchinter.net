@@ -3595,5 +3595,38 @@
     "wbm_tries": 1,
     "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 328,
+    "digest": "29a29d5c58eb95035c6d567395c35ff0fc49bcd6d78dc664520ba004cd9c1a10",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario meets Pareto",
+    "timestamp": "2024-04-17 15:12:07 -0700",
+    "wbm": "http://web.archive.org/web/20240415222523/https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "wbm_tries": 1,
+    "jpg": "snapshots/29a29d5c58eb95035c6d567395c35ff0fc49bcd6d78dc664520ba004cd9c1a10.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 329,
+    "digest": "88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f",
+    "url": "https://tonsky.me/blog/centering/",
+    "title": "Hardest Problem in Computer Science: Centering Things @ tonsky.me",
+    "timestamp": "2024-04-17 15:22:16 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 330,
+    "digest": "3fd135766fce3693bd8dd1fd3ebe377fee2d21bbbdd36deee2b2c1d502850df6",
+    "url": "https://en.wikipedia.org/w/index.php?title=Dinghuis&lol=2024-04-13-2",
+    "title": "Dinghuis - Wikipedia",
+    "timestamp": "2024-04-17 18:04:00 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/3fd135766fce3693bd8dd1fd3ebe377fee2d21bbbdd36deee2b2c1d502850df6.jpg",
+    "jpg_tries": 1
   }
 ]
