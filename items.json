@@ -3636,7 +3636,7 @@
     "title": "\"Cobalt Blues\" by Artist Karen Ösp Pálsdóttir",
     "timestamp": "2024-04-17 22:05:09 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/54722cb510840fc7c5a0e90532774041216ea4035ca75056328e3e297f9c456c.jpg",
     "jpg_tries": 1
   },
@@ -3649,6 +3649,17 @@
     "wbm": "http://web.archive.org/web/20240416205140/https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life",
     "wbm_tries": 1,
     "jpg": "snapshots/8c8db639730e67812deab9ce7b76c522eae29e98bdd5e16c64f8f4c40da790da.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 333,
+    "digest": "193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781",
+    "url": "https://pudding.cool/2024/03/teenagers/",
+    "title": "This is a teenager",
+    "timestamp": "2024-04-17 23:36:37 -0700",
+    "wbm": "http://web.archive.org/web/20240417021723/https://pudding.cool/2024/03/teenagers/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781.jpg",
     "jpg_tries": 1
   }
 ]
