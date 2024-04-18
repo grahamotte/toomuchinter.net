@@ -3613,10 +3613,10 @@
     "url": "https://tonsky.me/blog/centering/",
     "title": "Hardest Problem in Computer Science: Centering Things @ tonsky.me",
     "timestamp": "2024-04-17 15:22:16 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 330,
@@ -3625,7 +3625,7 @@
     "title": "Dinghuis - Wikipedia",
     "timestamp": "2024-04-17 18:04:00 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/3fd135766fce3693bd8dd1fd3ebe377fee2d21bbbdd36deee2b2c1d502850df6.jpg",
     "jpg_tries": 1
   }
