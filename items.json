@@ -3625,8 +3625,30 @@
     "title": "Dinghuis - Wikipedia",
     "timestamp": "2024-04-17 18:04:00 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/3fd135766fce3693bd8dd1fd3ebe377fee2d21bbbdd36deee2b2c1d502850df6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 331,
+    "digest": "54722cb510840fc7c5a0e90532774041216ea4035ca75056328e3e297f9c456c",
+    "url": "https://www.booooooom.com/2024/04/17/cobalt-blues-by-artist-karen-osp-palsdottir/",
+    "title": "\"Cobalt Blues\" by Artist Karen Ösp Pálsdóttir",
+    "timestamp": "2024-04-17 22:05:09 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/54722cb510840fc7c5a0e90532774041216ea4035ca75056328e3e297f9c456c.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 332,
+    "digest": "8c8db639730e67812deab9ce7b76c522eae29e98bdd5e16c64f8f4c40da790da",
+    "url": "https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life",
+    "title": "Obituary for a Quiet Life — THE BITTER SOUTHERNER",
+    "timestamp": "2024-04-17 22:08:06 -0700",
+    "wbm": "http://web.archive.org/web/20240416205140/https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life",
+    "wbm_tries": 1,
+    "jpg": "snapshots/8c8db639730e67812deab9ce7b76c522eae29e98bdd5e16c64f8f4c40da790da.jpg",
     "jpg_tries": 1
   }
 ]
