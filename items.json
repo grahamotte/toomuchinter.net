@@ -3683,5 +3683,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/784ebdf892ec950ec1270386c457947fb32059f9fc1337a2aa2be69725beac72.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 336,
+    "digest": "a27ea8906ca32a2380c7fc58f3882b1c4e76aae5d7dc5de1ebd2735b158b9a7a",
+    "url": "https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/",
+    "title": "Why Feathers Are One of Evolution’s Cleverest Inventions | Scientific American",
+    "timestamp": "2024-04-19 15:41:25 -0700",
+    "wbm": "http://web.archive.org/web/20240419204305/https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/a27ea8906ca32a2380c7fc58f3882b1c4e76aae5d7dc5de1ebd2735b158b9a7a.jpg",
+    "jpg_tries": 1
   }
 ]
