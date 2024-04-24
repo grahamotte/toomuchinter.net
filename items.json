@@ -271,8 +271,8 @@
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 26,
@@ -3593,8 +3593,8 @@
     "timestamp": "2024-04-17 15:06:13 -0700",
     "wbm": "http://web.archive.org/web/20230924071552/https://graphicstudiodublin.com/artist/akino-yoko/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 328,

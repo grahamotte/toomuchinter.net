@@ -264,7 +264,7 @@ index_html = <<~HTML
       <a class="secondary" href="mailto:hey@toomuchinter.net">send me cool stuff</a>
       <br />
       <ol reversed>
-        #{items.first(256).map { |x| item_html(x) }.join("\n")}
+        #{items.map { |x| item_html(x) }.join("\n")}
       </ol>
     </body>
   </html>
@@ -299,7 +299,7 @@ feed_xml = <<~XML
       <pubDate>#{Date.today.to_time.rfc2822}</pubDate>
       <ttl>1800</ttl>
 
-      #{items.first(256).map { |x| feet_item_xml(x) }.join("\n")}
+      #{items.map { |x| feet_item_xml(x) }.join("\n")}
 
     </channel>
   </rss>
