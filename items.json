@@ -1492,8 +1492,8 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 137,
@@ -1646,8 +1646,8 @@
     "timestamp": "2024-01-24 12:00:42 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/70eb133bb3128ab7c40048d93274be3abd43ea2540b1ab9a18d17d7842bc7955.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 151,
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3745,8 +3745,8 @@
     "url": "https://dynomight.net/seed-oil/",
     "title": "Thoughts on seed oil",
     "timestamp": "2024-04-24 14:51:23 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240424042939/https://dynomight.net/seed-oil/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
