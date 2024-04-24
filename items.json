@@ -271,7 +271,7 @@
     "timestamp": "2024-01-02 22:55:11 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/3090b16ef45af0e9646daa5f03b72dc43f9e5bba0a585a254f52bfb8301f3d37.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -414,7 +414,7 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -469,7 +469,7 @@
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -634,7 +634,7 @@
     "timestamp": "2024-01-05 20:16:14 -0800",
     "wbm": "http://web.archive.org/web/20240125181424/https://papereditor.app/dev",
     "wbm_tries": 1,
-    "jpg": "snapshots/8a8a4b645b051cdaa68f5a5bdc4c3ad17f82a6a8542037b91fe236d865c03845.jpg",
+    "jpg": null,
     "jpg_tries": 8
   },
   {
@@ -656,7 +656,7 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
     "wbm_tries": 2,
-    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg": null,
     "jpg_tries": 2
   },
   {
@@ -689,7 +689,7 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg": null,
     "jpg_tries": 3
   },
   {
@@ -777,7 +777,7 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
-    "jpg": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.jpg",
+    "jpg": null,
     "jpg_tries": 2
   },
   {
@@ -843,7 +843,7 @@
     "timestamp": "2024-01-09 11:04:14 -0800",
     "wbm": "http://web.archive.org/web/20240121182924/https://twitter.com/ryanjreilly/status/1743656421562970545",
     "wbm_tries": 2,
-    "jpg": "snapshots/9e4f9fe524571ee8de8558a1837dcd9080bfc54fc00949abf9b9ffaa05eddacd.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1030,7 +1030,7 @@
     "timestamp": "2024-01-14 12:03:06 -0800",
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
-    "jpg": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.jpg",
+    "jpg": null,
     "jpg_tries": 2
   },
   {
@@ -1206,7 +1206,7 @@
     "timestamp": "2024-01-14 23:35:08 -0800",
     "wbm": "http://web.archive.org/web/20240129122632/https://maggieappleton.com/garden-history",
     "wbm_tries": 1,
-    "jpg": "snapshots/73371750322c72c45f6240247629806e83cf3903226ece02844d338e1db02d15.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1239,7 +1239,7 @@
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/c913b48484bb35445ea5a78c9a452673d224183acf44cd8d00fd968dbb99be33.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1272,7 +1272,7 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1426,7 +1426,7 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "jpg": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1492,7 +1492,7 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1646,7 +1646,7 @@
     "timestamp": "2024-01-24 12:00:42 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/70eb133bb3128ab7c40048d93274be3abd43ea2540b1ab9a18d17d7842bc7955.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -1921,7 +1921,7 @@
     "timestamp": "2024-01-30 15:38:40 -0800",
     "wbm": "http://web.archive.org/web/20231203075554/https://www.justonecookbook.com/temaki-sushi-hand-roll/",
     "wbm_tries": 1,
-    "jpg": "snapshots/e223d611915e12e3fabe4235753b65b149861a5be8e4473808955377d9c6902c.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -2317,7 +2317,7 @@
     "timestamp": "2024-02-17 11:46:21 -0800",
     "wbm": "http://web.archive.org/web/20230106211952/https://chsi.harvard.edu/harvard-ibm-mark-1-language",
     "wbm_tries": 1,
-    "jpg": "snapshots/53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -2405,7 +2405,7 @@
     "timestamp": "2024-02-23 13:43:20 -0800",
     "wbm": "http://web.archive.org/web/20240223214932/https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
     "wbm_tries": 1,
-    "jpg": "snapshots/187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -2482,7 +2482,7 @@
     "timestamp": "2024-03-01 08:36:48 -0800",
     "wbm": "http://web.archive.org/web/20240308113658/https://blog.frost.kiwi/WebGL-LUTS-made-simple/",
     "wbm_tries": 1,
-    "jpg": "snapshots/2e86cb6057d6b64258573ad76251f110cbd08c8f38f01110ae17fb50c7ce775a.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -2691,7 +2691,7 @@
     "timestamp": "2024-03-04 12:53:08 -0800",
     "wbm": "http://web.archive.org/web/20220811122617/https://www.theartofdoingstuff.com/25-things-you-didnt-know-you-can-freeze/",
     "wbm_tries": 1,
-    "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -2845,7 +2845,7 @@
     "timestamp": "2024-03-16 10:57:55 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/7848889fc9e8f386f28a3b1a91f7012e052e4fe93da6b89945070e356240261c.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -3395,7 +3395,7 @@
     "timestamp": "2024-04-06 09:46:05 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -3593,7 +3593,7 @@
     "timestamp": "2024-04-17 15:06:13 -0700",
     "wbm": "http://web.archive.org/web/20230924071552/https://graphicstudiodublin.com/artist/akino-yoko/",
     "wbm_tries": 1,
-    "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -3615,7 +3615,7 @@
     "timestamp": "2024-04-17 15:22:16 -0700",
     "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
     "wbm_tries": 1,
-    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {
@@ -3659,7 +3659,7 @@
     "timestamp": "2024-04-17 23:36:37 -0700",
     "wbm": "http://web.archive.org/web/20240417021723/https://pudding.cool/2024/03/teenagers/",
     "wbm_tries": 1,
-    "jpg": "snapshots/193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781.jpg",
+    "jpg": null,
     "jpg_tries": 1
   },
   {

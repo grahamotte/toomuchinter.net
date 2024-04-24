@@ -259,13 +259,13 @@ index_html = <<~HTML
     <body>
       <header>i took too much inter.net</header>
       <br />
-      <ol reversed>
-        #{items.first(256).map { |x| item_html(x) }.join("\n")}
-      </ol>
-      <br />
       <a class="secondary" href="https://toomuchinter.net/feed.xml">feed</a>
       <br />
       <a class="secondary" href="mailto:hey@toomuchinter.net">send me cool stuff</a>
+      <br />
+      <ol reversed>
+        #{items.first(256).map { |x| item_html(x) }.join("\n")}
+      </ol>
     </body>
   </html>
 HTML
