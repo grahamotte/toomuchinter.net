@@ -1206,8 +1206,8 @@
     "timestamp": "2024-01-14 23:35:08 -0800",
     "wbm": "http://web.archive.org/web/20240129122632/https://maggieappleton.com/garden-history",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/73371750322c72c45f6240247629806e83cf3903226ece02844d338e1db02d15.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 111,
@@ -1921,8 +1921,8 @@
     "timestamp": "2024-01-30 15:38:40 -0800",
     "wbm": "http://web.archive.org/web/20231203075554/https://www.justonecookbook.com/temaki-sushi-hand-roll/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/e223d611915e12e3fabe4235753b65b149861a5be8e4473808955377d9c6902c.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 176,
@@ -3716,5 +3716,49 @@
     "wbm_tries": 1,
     "jpg": "snapshots/bf337c5e0f97bd193b3cd88a84f882669df5364bfd776dcf9d08db54df5b9a0f.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 339,
+    "digest": "8d9714617c8619b2a04a5be992b153b213751945adef6bb037fdfad29b98095c",
+    "url": "https://asteriskmag.com/issues/06/california-forever-jan-sramek",
+    "title": "When Was the Last Time We Built a New City?—Asterisk",
+    "timestamp": "2024-04-24 14:45:44 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 340,
+    "digest": "70a9e305334865b10fbd0872d9714824f76ce558354c39c5bfe9ebc7f445303d",
+    "url": "https://denniscooperblog.com/77-planetariums/",
+    "title": "77 planetariums – DC's",
+    "timestamp": "2024-04-24 14:46:52 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 341,
+    "digest": "43dd703745dc2ffebb8a2aabea8ce0d458e116d3ef969ce6341ac99d9d1ce10f",
+    "url": "https://dynomight.net/seed-oil/",
+    "title": "Thoughts on seed oil",
+    "timestamp": "2024-04-24 14:51:23 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 342,
+    "digest": "60f40df24566faeb28d5d613ff6e97b4fe7b3cf1a1bda97b11f6a4323bb050d5",
+    "url": "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/",
+    "title": "Help us invent CSS Grid Level 3, aka “Masonry” layout | WebKit",
+    "timestamp": "2024-04-24 15:07:34 -0700",
+    "wbm": "http://web.archive.org/web/20240423233250/https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
