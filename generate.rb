@@ -263,6 +263,7 @@ index_html = <<~HTML
       <br />
       <a class="secondary" href="mailto:hey@toomuchinter.net">send me cool stuff</a>
       <br />
+      <br />
       <ol reversed>
         #{items.map { |x| item_html(x) }.join("\n")}
       </ol>

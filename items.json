@@ -843,8 +843,8 @@
     "timestamp": "2024-01-09 11:04:14 -0800",
     "wbm": "http://web.archive.org/web/20240121182924/https://twitter.com/ryanjreilly/status/1743656421562970545",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/9e4f9fe524571ee8de8558a1837dcd9080bfc54fc00949abf9b9ffaa05eddacd.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 78,
@@ -2482,8 +2482,8 @@
     "timestamp": "2024-03-01 08:36:48 -0800",
     "wbm": "http://web.archive.org/web/20240308113658/https://blog.frost.kiwi/WebGL-LUTS-made-simple/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/2e86cb6057d6b64258573ad76251f110cbd08c8f38f01110ae17fb50c7ce775a.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 227,
