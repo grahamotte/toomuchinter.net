@@ -3694,5 +3694,27 @@
     "wbm_tries": 1,
     "jpg": "snapshots/a27ea8906ca32a2380c7fc58f3882b1c4e76aae5d7dc5de1ebd2735b158b9a7a.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 337,
+    "digest": "7cfba17c896f90a8eebc06d0e4092abd6911285817862fbcfce2eccb0bc51ccf",
+    "url": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fyuhkbq3wpipa1.jpg",
+    "title": "Reddit - https://i.redd.it/yuhkbq3wpipa1.jpg",
+    "timestamp": "2024-04-23 18:20:44 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/7cfba17c896f90a8eebc06d0e4092abd6911285817862fbcfce2eccb0bc51ccf.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 338,
+    "digest": "bf337c5e0f97bd193b3cd88a84f882669df5364bfd776dcf9d08db54df5b9a0f",
+    "url": "https://matthewstrom.com/writing/generating-color-palettes",
+    "title": "How to generate color palettes for design systems || Matthew Ström, designer-leader",
+    "timestamp": "2024-04-23 18:40:39 -0700",
+    "wbm": "http://web.archive.org/web/20240421212041/https://matthewstrom.com/writing/generating-color-palettes/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/bf337c5e0f97bd193b3cd88a84f882669df5364bfd776dcf9d08db54df5b9a0f.jpg",
+    "jpg_tries": 1
   }
 ]
