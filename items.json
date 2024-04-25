@@ -469,8 +469,8 @@
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 44,
@@ -2845,8 +2845,8 @@
     "timestamp": "2024-03-16 10:57:55 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/7848889fc9e8f386f28a3b1a91f7012e052e4fe93da6b89945070e356240261c.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 260,
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": null,
     "jpg_tries": 0
   },
