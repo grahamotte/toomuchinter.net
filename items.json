@@ -1272,8 +1272,8 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 117,
@@ -1426,8 +1426,8 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 131,
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": null,
     "jpg_tries": 0
   },
