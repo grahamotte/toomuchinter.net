@@ -777,8 +777,8 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 72,
@@ -2691,8 +2691,8 @@
     "timestamp": "2024-03-04 12:53:08 -0800",
     "wbm": "http://web.archive.org/web/20220811122617/https://www.theartofdoingstuff.com/25-things-you-didnt-know-you-can-freeze/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 246,
@@ -3723,8 +3723,8 @@
     "url": "https://asteriskmag.com/issues/06/california-forever-jan-sramek",
     "title": "When Was the Last Time We Built a New City?—Asterisk",
     "timestamp": "2024-04-24 14:45:44 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240424064502/https://asteriskmag.com/issues/06/california-forever-jan-sramek",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
