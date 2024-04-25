@@ -414,8 +414,8 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 39,
@@ -3725,8 +3725,8 @@
     "timestamp": "2024-04-24 14:45:44 -0700",
     "wbm": "http://web.archive.org/web/20240424064502/https://asteriskmag.com/issues/06/california-forever-jan-sramek",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/8d9714617c8619b2a04a5be992b153b213751945adef6bb037fdfad29b98095c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 340,
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
