@@ -3659,8 +3659,8 @@
     "timestamp": "2024-04-17 23:36:37 -0700",
     "wbm": "http://web.archive.org/web/20240417021723/https://pudding.cool/2024/03/teenagers/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 334,
@@ -3758,8 +3758,8 @@
     "timestamp": "2024-04-24 15:07:34 -0700",
     "wbm": "http://web.archive.org/web/20240423233250/https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/60f40df24566faeb28d5d613ff6e97b4fe7b3cf1a1bda97b11f6a4323bb050d5.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 343,
@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3778,8 +3778,8 @@
     "url": "https://www.youtube.com/watch?v=VoisGvQrSIo",
     "title": "A Day in TOKYO in 1968 | 昭和東京 - YouTube",
     "timestamp": "2024-04-25 08:25:56 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240425214205/https://www.youtube.com/watch?v=VoisGvQrSIo",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
