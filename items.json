@@ -1030,8 +1030,8 @@
     "timestamp": "2024-01-14 12:03:06 -0800",
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 95,
@@ -1239,8 +1239,8 @@
     "timestamp": "2024-01-15 23:06:41 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/c913b48484bb35445ea5a78c9a452673d224183acf44cd8d00fd968dbb99be33.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 114,
@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": null,
     "jpg_tries": 0
   },
