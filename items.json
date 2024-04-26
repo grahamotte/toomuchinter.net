@@ -689,8 +689,8 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 64,
@@ -2317,8 +2317,8 @@
     "timestamp": "2024-02-17 11:46:21 -0800",
     "wbm": "http://web.archive.org/web/20230106211952/https://chsi.harvard.edu/harvard-ibm-mark-1-language",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 212,
@@ -3735,7 +3735,7 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3758,6 +3758,39 @@
     "timestamp": "2024-04-24 15:07:34 -0700",
     "wbm": "http://web.archive.org/web/20240423233250/https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/",
     "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 343,
+    "digest": "9890537864257cbf0231aefc45f7dd4012a5a125aaa92162b1d5e5ec26aa4a3a",
+    "url": "https://retroscifiart.tumblr.com/post/748686804265353216/retroscifiart-computer-art-by-jim-hoffman",
+    "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
+    "timestamp": "2024-04-25 08:15:24 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 344,
+    "digest": "9116361a7a1b455748bf3e5f692a63aee0e07215c189759237781f45c78f908f",
+    "url": "https://www.youtube.com/watch?v=VoisGvQrSIo",
+    "title": "A Day in TOKYO in 1968 | 昭和東京 - YouTube",
+    "timestamp": "2024-04-25 08:25:56 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 345,
+    "digest": "10268e6d241429629638d59c83c079dba78d9c02df2efdcbec1b9cc96efe7542",
+    "url": "https://www.itsnicethat.com/articles/enle-li-animation-illustration-discover-240424",
+    "title": "Do you see what he sees? Enle Li’s animations show how subjective our experience of nature really is",
+    "timestamp": "2024-04-25 23:03:59 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
     "jpg": null,
     "jpg_tries": 0
   }
