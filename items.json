@@ -656,8 +656,8 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 61,
@@ -3395,8 +3395,8 @@
     "timestamp": "2024-04-06 09:46:05 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 310,
@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": null,
     "jpg_tries": 0
   },
