@@ -2405,8 +2405,8 @@
     "timestamp": "2024-02-23 13:43:20 -0800",
     "wbm": "http://web.archive.org/web/20240223214932/https://www.nytimes.com/interactive/2024/02/18/magazine/oscars-2024-great-performances.html?unlocked_article_code=1.Wk0.BA1Z.Dmi8VsC8FRIT",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/187dfc8010b14916e564c9c4209ec24f7f1cc3706f18580e99b59c6f0f236c04.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 220,
@@ -3735,9 +3735,9 @@
     "title": "77 planetariums – DC's",
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
-    "wbm_tries": 7,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 8,
+    "jpg": "snapshots/70a9e305334865b10fbd0872d9714824f76ce558354c39c5bfe9ebc7f445303d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 341,
@@ -3791,6 +3791,17 @@
     "timestamp": "2024-04-25 23:03:59 -0700",
     "wbm": null,
     "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 346,
+    "digest": "9130afaf91c071de838d0239d5492549ee144963017e4ad09b70f9461830d99f",
+    "url": "https://www.youtube.com/watch?v=SqhXQUzVMlQ&t=2s",
+    "title": "Bizarre travelling flame discovery - YouTube",
+    "timestamp": "2024-04-25 23:19:34 -0700",
+    "wbm": "http://web.archive.org/web/20240425224620/https://www.youtube.com/watch?v=SqhXQUzVMlQ",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   }
