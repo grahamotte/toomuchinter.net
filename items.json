@@ -3769,8 +3769,8 @@
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9890537864257cbf0231aefc45f7dd4012a5a125aaa92162b1d5e5ec26aa4a3a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 344,
@@ -3814,7 +3814,7 @@
     "wbm": "http://web.archive.org/web/20240425203542/https://www.fcc.gov/document/fcc-restores-net-neutrality",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
   },
   {
     "id": 348,
@@ -3823,7 +3823,7 @@
     "title": "tMs8jeC.jpeg (JPEG Image, 1600 × 1120 pixels) — Scaled (99%)",
     "timestamp": "2024-04-26 09:40:36 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/f451dcfc5c31d9618acca656e2aadc8e568696fdd548d3d9dd9beaf9bbf78715.jpg",
     "jpg_tries": 1
   }
