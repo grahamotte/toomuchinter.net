@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3780,8 +3780,8 @@
     "timestamp": "2024-04-25 08:25:56 -0700",
     "wbm": "http://web.archive.org/web/20240425214205/https://www.youtube.com/watch?v=VoisGvQrSIo",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9116361a7a1b455748bf3e5f692a63aee0e07215c189759237781f45c78f908f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 345,
@@ -3789,10 +3789,10 @@
     "url": "https://www.itsnicethat.com/articles/enle-li-animation-illustration-discover-240424",
     "title": "Do you see what he sees? Enle Li’s animations show how subjective our experience of nature really is",
     "timestamp": "2024-04-25 23:03:59 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm": "http://web.archive.org/web/20240424103653/https://www.itsnicethat.com/articles/enle-li-animation-illustration-discover-240424",
+    "wbm_tries": 1,
+    "jpg": "snapshots/10268e6d241429629638d59c83c079dba78d9c02df2efdcbec1b9cc96efe7542.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 346,
