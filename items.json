@@ -3814,7 +3814,7 @@
     "wbm": "http://web.archive.org/web/20240425203542/https://www.fcc.gov/document/fcc-restores-net-neutrality",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 3
+    "jpg_tries": 4
   },
   {
     "id": 348,
@@ -3823,8 +3823,19 @@
     "title": "tMs8jeC.jpeg (JPEG Image, 1600 × 1120 pixels) — Scaled (99%)",
     "timestamp": "2024-04-26 09:40:36 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/f451dcfc5c31d9618acca656e2aadc8e568696fdd548d3d9dd9beaf9bbf78715.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 349,
+    "digest": "c018d9879f3a502dc0a4fa223545cea55d8cb2601094d9b573fd3679344c8e5b",
+    "url": "https://en.wikipedia.org/wiki/IceCube_Neutrino_Observatory",
+    "title": "IceCube Neutrino Observatory - Wikipedia",
+    "timestamp": "2024-04-26 13:17:15 -0700",
+    "wbm": "http://web.archive.org/web/20240328144633/https://en.wikipedia.org/wiki/IceCube_Neutrino_Observatory",
+    "wbm_tries": 1,
+    "jpg": "snapshots/c018d9879f3a502dc0a4fa223545cea55d8cb2601094d9b573fd3679344c8e5b.jpg",
     "jpg_tries": 1
   }
 ]
