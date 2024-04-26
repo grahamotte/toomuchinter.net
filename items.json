@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3804,5 +3804,27 @@
     "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
+  },
+  {
+    "id": 347,
+    "digest": "7f682189e242e9dc0c8f070e356f7d257f6484793d59689eeafab2e001a5871e",
+    "url": "https://www.fcc.gov/document/fcc-restores-net-neutrality",
+    "title": "FCC Restores Net Neutrality | Federal Communications Commission",
+    "timestamp": "2024-04-26 09:36:04 -0700",
+    "wbm": "http://web.archive.org/web/20240425203542/https://www.fcc.gov/document/fcc-restores-net-neutrality",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
+  },
+  {
+    "id": 348,
+    "digest": "f451dcfc5c31d9618acca656e2aadc8e568696fdd548d3d9dd9beaf9bbf78715",
+    "url": "https://i.imgur.com/tMs8jeC.jpeg",
+    "title": "tMs8jeC.jpeg (JPEG Image, 1600 × 1120 pixels) — Scaled (99%)",
+    "timestamp": "2024-04-26 09:40:36 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/f451dcfc5c31d9618acca656e2aadc8e568696fdd548d3d9dd9beaf9bbf78715.jpg",
+    "jpg_tries": 1
   }
 ]
