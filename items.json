@@ -3615,8 +3615,8 @@
     "timestamp": "2024-04-17 15:22:16 -0700",
     "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 330,
@@ -3768,7 +3768,7 @@
     "title": "Scifi Art — retroscifiart: Computer art by Jim Hoffman...",
     "timestamp": "2024-04-25 08:15:24 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -3802,8 +3802,8 @@
     "timestamp": "2024-04-25 23:19:34 -0700",
     "wbm": "http://web.archive.org/web/20240425224620/https://www.youtube.com/watch?v=SqhXQUzVMlQ",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/9130afaf91c071de838d0239d5492549ee144963017e4ad09b70f9461830d99f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 347,
@@ -3823,7 +3823,7 @@
     "title": "tMs8jeC.jpeg (JPEG Image, 1600 × 1120 pixels) — Scaled (99%)",
     "timestamp": "2024-04-26 09:40:36 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/f451dcfc5c31d9618acca656e2aadc8e568696fdd548d3d9dd9beaf9bbf78715.jpg",
     "jpg_tries": 1
   }
