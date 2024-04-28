@@ -469,8 +469,8 @@
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 44,
@@ -1206,8 +1206,8 @@
     "timestamp": "2024-01-14 23:35:08 -0800",
     "wbm": "http://web.archive.org/web/20240129122632/https://maggieappleton.com/garden-history",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/73371750322c72c45f6240247629806e83cf3903226ece02844d338e1db02d15.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 111,
@@ -3911,7 +3911,7 @@
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   }
