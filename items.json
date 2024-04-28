@@ -1272,8 +1272,8 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 117,
@@ -3593,8 +3593,8 @@
     "timestamp": "2024-04-17 15:06:13 -0700",
     "wbm": "http://web.archive.org/web/20230924071552/https://graphicstudiodublin.com/artist/akino-yoko/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 328,
