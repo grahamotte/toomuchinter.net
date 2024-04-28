@@ -3856,8 +3856,41 @@
     "title": "List of palindromic places - Wikipedia",
     "timestamp": "2024-04-27 10:37:25 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/5fe5f75950a283db74aef8a4e916ed2e300f260521c737c53919028f917a08e2.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 352,
+    "digest": "07dcd5d62f40c0f32bdc8721a34a455915278a186880a1c53813c8f1528398d6",
+    "url": "https://aesopfables.com/cgi/aesop1.cgi?4&TheSaltMerchantandHisAss",
+    "title": "AesopFables.com - The Salt Merchant and His Ass - General Fable collection",
+    "timestamp": "2024-04-27 16:25:31 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/07dcd5d62f40c0f32bdc8721a34a455915278a186880a1c53813c8f1528398d6.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 353,
+    "digest": "6ce26260ca1840ac1d669d462b72fc4f06ad107703a0c254275a64c604714bc4",
+    "url": "https://emildziewanowski.com/flowfields/",
+    "title": "Flowfields | Emil Dziewanowski - Technical Artist",
+    "timestamp": "2024-04-27 16:55:24 -0700",
+    "wbm": "http://web.archive.org/web/20240426145631/https://emildziewanowski.com/flowfields/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/6ce26260ca1840ac1d669d462b72fc4f06ad107703a0c254275a64c604714bc4.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 354,
+    "digest": "c6f7b6af75a5910a27fdb5136ca84ce6b43ae914821f7bb4af5c2d531fe9c20a",
+    "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/tipped#foot1",
+    "title": "Minimum Wages for Tipped Employees | U.S. Department of Labor",
+    "timestamp": "2024-04-27 17:04:11 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
