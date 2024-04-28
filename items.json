@@ -1492,8 +1492,8 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 137,
@@ -3736,8 +3736,8 @@
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/70a9e305334865b10fbd0872d9714824f76ce558354c39c5bfe9ebc7f445303d.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 341,
@@ -3911,7 +3911,7 @@
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   }
