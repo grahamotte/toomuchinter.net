@@ -3659,8 +3659,8 @@
     "timestamp": "2024-04-17 23:36:37 -0700",
     "wbm": "http://web.archive.org/web/20240417021723/https://pudding.cool/2024/03/teenagers/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/193fba5c6ba3d8837f391cf79c66abbe51ad12a26bb0a730e85cafa736746781.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 334,
@@ -3892,5 +3892,27 @@
     "wbm_tries": 1,
     "jpg": "snapshots/aa84992a014950a84cc98a9c1749a3d42bcdd461818dbd09d79a4b0798e0bf82.jpg",
     "jpg_tries": 2
+  },
+  {
+    "id": 355,
+    "digest": "b9283447da40735617a481b48b91eae262da31d1434a722e58893b6700e0cae9",
+    "url": "https://rednuht.org/genetic_cars_2/",
+    "title": "HTML5 Genetic Algorithm 2D Car Thingy - Chrome recommended",
+    "timestamp": "2024-04-28 12:26:50 -0700",
+    "wbm": "http://web.archive.org/web/20240428165130/https://rednuht.org/genetic_cars_2/",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 356,
+    "digest": "762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89",
+    "url": "https://rarehistoricalphotos.com/victorian-london-color-photos/",
+    "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
+    "timestamp": "2024-04-28 12:39:36 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
+    "jpg_tries": 1
   }
 ]
