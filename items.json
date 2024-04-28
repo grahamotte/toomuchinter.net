@@ -1030,8 +1030,8 @@
     "timestamp": "2024-01-14 12:03:06 -0800",
     "wbm": "http://web.archive.org/web/20240114202406/https://news.ycombinator.com/item?id=38983067",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/fdb5d4af9e7dc88c143096e683c9d60fd95af15d13b9ba07c6f9bf9f82259615.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 95,
@@ -1426,8 +1426,8 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 131,
