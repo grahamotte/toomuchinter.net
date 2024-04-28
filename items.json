@@ -3395,8 +3395,8 @@
     "timestamp": "2024-04-06 09:46:05 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 310,
@@ -3615,8 +3615,8 @@
     "timestamp": "2024-04-17 15:22:16 -0700",
     "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 330,
