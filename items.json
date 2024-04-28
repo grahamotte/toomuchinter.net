@@ -3888,9 +3888,9 @@
     "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/tipped",
     "title": "Minimum Wages for Tipped Employees | U.S. Department of Labor",
     "timestamp": "2024-04-27 17:04:11 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 1
+    "wbm": "http://web.archive.org/web/20240423205053/https://www.dol.gov/agencies/whd/state/minimum-wage/tipped",
+    "wbm_tries": 1,
+    "jpg": "snapshots/aa84992a014950a84cc98a9c1749a3d42bcdd461818dbd09d79a4b0798e0bf82.jpg",
+    "jpg_tries": 2
   }
 ]
