@@ -414,8 +414,8 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 39,
@@ -689,8 +689,8 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 64,
@@ -3911,7 +3911,7 @@
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   }
