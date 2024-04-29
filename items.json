@@ -656,8 +656,8 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 61,
@@ -2691,8 +2691,8 @@
     "timestamp": "2024-03-04 12:53:08 -0800",
     "wbm": "http://web.archive.org/web/20220811122617/https://www.theartofdoingstuff.com/25-things-you-didnt-know-you-can-freeze/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 246,
@@ -3911,7 +3911,7 @@
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   }
