@@ -1921,8 +1921,8 @@
     "timestamp": "2024-01-30 15:38:40 -0800",
     "wbm": "http://web.archive.org/web/20231203075554/https://www.justonecookbook.com/temaki-sushi-hand-roll/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/e223d611915e12e3fabe4235753b65b149861a5be8e4473808955377d9c6902c.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 176,
@@ -3901,8 +3901,8 @@
     "timestamp": "2024-04-28 12:26:50 -0700",
     "wbm": "http://web.archive.org/web/20240428165130/https://rednuht.org/genetic_cars_2/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b9283447da40735617a481b48b91eae262da31d1434a722e58893b6700e0cae9.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 356,
@@ -3911,7 +3911,7 @@
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   }
