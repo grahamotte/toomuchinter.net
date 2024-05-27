@@ -4000,8 +4000,8 @@
     "timestamp": "2024-05-13 13:30:31 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4bc43e82e7c900d984b349ee8457423b96d825517cbc5ecfe7ddafaf09736614.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 365,
@@ -4130,8 +4130,8 @@
     "url": "https://floor796.com/#t2r0,151,465",
     "title": "Floor796",
     "timestamp": "2024-05-19 14:12:18 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240525162308/https://floor796.com/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4220,8 +4220,8 @@
     "timestamp": "2024-05-25 20:32:17 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c39fbd5ad920102e4a4b326d13553522e44ab7d1dcdd566c26bd6333700ea999.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 385,
@@ -4251,8 +4251,8 @@
     "url": "https://www.northlandscapes.com/",
     "title": "Fine Art Landscape Photography by Jan Erik Waider | Northlandscapes",
     "timestamp": "2024-05-25 20:39:21 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240514114009/https://www.northlandscapes.com/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
