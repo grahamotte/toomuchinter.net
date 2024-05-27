@@ -3910,8 +3910,8 @@
     "url": "https://rarehistoricalphotos.com/victorian-london-color-photos/",
     "title": "Victorian London in Color Photos: Bringing the Late 19th Century to Life - Rare Historical Photos",
     "timestamp": "2024-04-28 12:39:36 -0700",
-    "wbm": null,
-    "wbm_tries": 6,
+    "wbm": "http://web.archive.org/web/20240428201101/https://rarehistoricalphotos.com/victorian-london-color-photos/",
+    "wbm_tries": 7,
     "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
     "jpg_tries": 1
   },
@@ -3934,8 +3934,8 @@
     "timestamp": "2024-04-30 16:01:24 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/6a6309a69d20ecbcaf7c904ad4a67b3423123cdfa827103ff9e7fcb6d041b1cb.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 359,
@@ -4075,8 +4075,8 @@
     "url": "https://simonwillison.net/2024/May/8/slop/",
     "title": "Slop is the new name for unwanted AI-generated content",
     "timestamp": "2024-05-13 23:12:02 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240525040913/https://simonwillison.net/2024/May/8/slop/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4286,8 +4286,8 @@
     "timestamp": "2024-05-25 20:41:07 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/6241de9d1272e65d2117a966dbb9e3a05cfe0ca450036f7e78b6a761e0e93150.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 391,
