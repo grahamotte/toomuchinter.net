@@ -3987,8 +3987,8 @@
     "url": "https://www.youtube.com/watch?v=l36UkYtq6m0&t=5s",
     "title": "Visualization: A Black Hole Accretion Disk - YouTube",
     "timestamp": "2024-05-10 21:47:29 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240522060711/https://www.youtube.com/watch?v=l36UkYtq6m0",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4097,8 +4097,8 @@
     "url": "https://www.thisman.org/oldsite/",
     "title": "Ever Dream This Man?",
     "timestamp": "2024-05-13 23:13:09 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240511083121/https://www.thisman.org/oldsite/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4143,8 +4143,8 @@
     "timestamp": "2024-05-19 14:14:50 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/afc2aa1d49709c081445153b5a3a73ea1b14b3db20e3f0c9c70262fb8163c062.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 378,
@@ -4176,8 +4176,8 @@
     "timestamp": "2024-05-19 14:23:14 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d6a4cecbf9b962bd1a7466a1e5a8b861655be8c3d0c77f7d3e6fbdcaecca8224.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 381,
