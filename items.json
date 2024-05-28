@@ -3978,8 +3978,8 @@
     "timestamp": "2024-05-04 08:15:54 -0700",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/3566ee97aeee51d68819f5fb77892206475a46048dac2d8c5761416401bbb6ea.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 363,
@@ -3998,8 +3998,8 @@
     "url": "https://www.behance.net/gallery/158861255/DARK-LIGHT-TALES-Ocean-of-Memories",
     "title": "DARK LIGHT TALES: Ocean of Memories :: Behance",
     "timestamp": "2024-05-13 13:30:31 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240120083319/https://www.behance.net/gallery/158861255/DARK-LIGHT-TALES-Ocean-of-Memories",
+    "wbm_tries": 1,
     "jpg": "snapshots/4bc43e82e7c900d984b349ee8457423b96d825517cbc5ecfe7ddafaf09736614.jpg",
     "jpg_tries": 1
   },
@@ -4121,8 +4121,8 @@
     "timestamp": "2024-05-18 14:12:32 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b80cc21ab4be3dfb919e5ba50f7bd14abfcba0f9a3c01972737e6ff03eacd146.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 376,
@@ -4229,8 +4229,8 @@
     "url": "http://www.digital-brilliance.com/necron/necron.htm#What",
     "title": "The Necronomicon Anti-FAQ",
     "timestamp": "2024-05-25 20:34:11 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240204172822/http://www.digital-brilliance.com/necron/necron.htm",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
