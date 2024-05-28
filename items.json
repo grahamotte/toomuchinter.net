@@ -3945,8 +3945,8 @@
     "timestamp": "2024-04-30 17:27:23 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/563eea72c93d4bd551a6d29e1a959c5ee642309a5c5a8455e98930fcc70237d8.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 360,
@@ -3967,8 +3967,8 @@
     "timestamp": "2024-05-02 16:07:59 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/195acffce647054480f416f8b4a84397b3a74c3aa1d84f6eb0e3a814460f1d10.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 362,
@@ -3977,7 +3977,7 @@
     "title": "Degenerate music - Wikipedia",
     "timestamp": "2024-05-04 08:15:54 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4274,7 +4274,7 @@
     "title": "▶︎ Yes Please | Antonio Barret | Nice Guys",
     "timestamp": "2024-05-25 20:40:24 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
