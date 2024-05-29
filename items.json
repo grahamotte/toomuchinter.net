@@ -4099,8 +4099,8 @@
     "timestamp": "2024-05-13 23:13:09 -0700",
     "wbm": "http://web.archive.org/web/20240511083121/https://www.thisman.org/oldsite/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b20c4afd5fb8e9308e83f35628db2edd0e9ba418344bf6096dbf8dfe9ac17a76.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 374,
@@ -4108,8 +4108,8 @@
     "url": "https://www.behance.net/gallery/198013327/Plywood-Paradise",
     "title": "Plywood Paradise :: Behance",
     "timestamp": "2024-05-16 15:20:33 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240528004120/https://www.behance.net/gallery/198013327/Plywood-Paradise",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4218,8 +4218,8 @@
     "url": "https://github.com/lydiahallie/javascript-questions",
     "title": "lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations",
     "timestamp": "2024-05-25 20:32:17 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240521085101/https://github.com/lydiahallie/javascript-questions",
+    "wbm_tries": 1,
     "jpg": "snapshots/c39fbd5ad920102e4a4b326d13553522e44ab7d1dcdd566c26bd6333700ea999.jpg",
     "jpg_tries": 1
   },
@@ -4264,8 +4264,8 @@
     "timestamp": "2024-05-25 20:40:12 -0700",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d62e26ec6c8f6afe769f34ad03dccc8fec7a1d1e971af02e94162d25fbb04bb3.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 389,
