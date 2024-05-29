@@ -4011,8 +4011,8 @@
     "timestamp": "2024-05-13 20:13:09 -0700",
     "wbm": "http://web.archive.org/web/20240524153312/https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/661d1e6a90e79182f5ff25ede1053c3fd2c2cebfaec8e905d4bf3523de6f869b.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 366,
@@ -4086,10 +4086,10 @@
     "url": "https://www.thisiscolossal.com/2024/05/brutalist-plants/",
     "title": "Photos from 41 Countries Juxtapose Blocky Architecture and Verdant Gardens in 'Brutalist Plants' — Colossal",
     "timestamp": "2024-05-13 23:12:12 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm": "http://web.archive.org/web/20240528114707/https://www.thisiscolossal.com/2024/05/brutalist-plants/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/cf81277b62cab3837383469be152645261df35e5c8f9e78c47d6fbddd11f7d50.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 373,
@@ -4285,7 +4285,7 @@
     "title": "Gosee: Mahsa :: Behance",
     "timestamp": "2024-05-25 20:41:07 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/6241de9d1272e65d2117a966dbb9e3a05cfe0ca450036f7e78b6a761e0e93150.jpg",
     "jpg_tries": 1
   },
