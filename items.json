@@ -4044,8 +4044,8 @@
     "timestamp": "2024-05-13 20:30:57 -0700",
     "wbm": "http://web.archive.org/web/20240525054000/http://toastytech.com/evil/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/acd9cc0c018a8c4512d6444a2300a92b820ad8cf64403792177221bed4c357ac.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 369,
@@ -4077,8 +4077,8 @@
     "timestamp": "2024-05-13 23:12:02 -0700",
     "wbm": "http://web.archive.org/web/20240525040913/https://simonwillison.net/2024/May/8/slop/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d02fd470b44f9826a92c766adca05ea2e2e7275feffbd0abb88a22700c37d03f.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 372,
@@ -4119,8 +4119,8 @@
     "url": "https://cdaringe.com/peanut-butter-spinner/",
     "title": "// cdaringe - blog",
     "timestamp": "2024-05-18 14:12:32 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240524230151/https://cdaringe.com/peanut-butter-spinner/",
+    "wbm_tries": 1,
     "jpg": "snapshots/b80cc21ab4be3dfb919e5ba50f7bd14abfcba0f9a3c01972737e6ff03eacd146.jpg",
     "jpg_tries": 1
   },
@@ -4186,7 +4186,7 @@
     "title": "Aroura (Pentax Z70, Takumar 28-80mm F3.5, UltraMax 400 @ 10s) : analog",
     "timestamp": "2024-05-19 14:32:40 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/ad57285721c1aaef38495cbc40e061fdc1875956231457f8a96bde281620f76a.jpg",
     "jpg_tries": 1
   },
