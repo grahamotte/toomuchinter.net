@@ -3956,8 +3956,8 @@
     "timestamp": "2024-05-01 22:38:36 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b3cfa8f4b698d88c006a6e2c4d5a797ee7f5f93176ba05d03a9981152680927a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 361,
@@ -4055,8 +4055,8 @@
     "timestamp": "2024-05-13 23:06:47 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/4d8684a109224b1f6eacefb59658e183675affd20d134d6387c417fe10412c8e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 370,
@@ -4152,8 +4152,8 @@
     "url": "https://www.youtube.com/watch?v=tUSRyAha37w",
     "title": "MONTBLANC | '100 Years of MEISTERSTÜCK' - YouTube",
     "timestamp": "2024-05-19 14:21:48 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240528195509/https://www.youtube.com/watch?v=tUSRyAha37w",
+    "wbm_tries": 1,
     "jpg": "snapshots/b2d952670a920476326a7fc80881b4f0fb09296a2c6301ec1fb9172eb2b6f62b.jpg",
     "jpg_tries": 1
   },
@@ -4285,7 +4285,7 @@
     "title": "Gosee: Mahsa :: Behance",
     "timestamp": "2024-05-25 20:41:07 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/6241de9d1272e65d2117a966dbb9e3a05cfe0ca450036f7e78b6a761e0e93150.jpg",
     "jpg_tries": 1
   },
