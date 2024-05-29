@@ -3989,8 +3989,8 @@
     "timestamp": "2024-05-10 21:47:29 -0700",
     "wbm": "http://web.archive.org/web/20240522060711/https://www.youtube.com/watch?v=l36UkYtq6m0",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b3ea3db6be3b205b104ebfa722433fe64ac55e296239fbc2d18bf6593d96e265.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 364,
@@ -4020,10 +4020,10 @@
     "url": "https://nightfall.org/",
     "title": "Nightfall: Mudding since 1990",
     "timestamp": "2024-05-13 20:22:01 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm": "http://web.archive.org/web/20240517130929/https://nightfall.org/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/4f32ced7dffddcc4342a857c803459530b7af8e8ba62c7f861202a03cf5b8e2a.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 367,
@@ -4295,8 +4295,8 @@
     "url": "https://rekall.me/",
     "title": "rekall",
     "timestamp": "2024-05-25 20:43:53 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240511005033/https://rekall.me/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   }
