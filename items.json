@@ -3965,8 +3965,8 @@
     "url": "https://www.youtube.com/watch?v=dqTYg6vnQvw",
     "title": "Youtube's Legal Team sent me a letter! 😃 - YouTube",
     "timestamp": "2024-05-02 16:07:59 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240527194820/https://www.youtube.com/watch?v=dqTYg6vnQvw",
+    "wbm_tries": 1,
     "jpg": "snapshots/195acffce647054480f416f8b4a84397b3a74c3aa1d84f6eb0e3a814460f1d10.jpg",
     "jpg_tries": 1
   },
@@ -4042,8 +4042,8 @@
     "url": "http://toastytech.com/evil/",
     "title": "Internet Explorer is EVIL!",
     "timestamp": "2024-05-13 20:30:57 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240525054000/http://toastytech.com/evil/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4165,8 +4165,8 @@
     "timestamp": "2024-05-19 14:22:02 -0700",
     "wbm": null,
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d48ed854121fd7d21c6dc830c81b955cef6ee9925994618ecdd345885c7b5385.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 380,
@@ -4231,8 +4231,8 @@
     "timestamp": "2024-05-25 20:34:11 -0700",
     "wbm": "http://web.archive.org/web/20240204172822/http://www.digital-brilliance.com/necron/necron.htm",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b1d787bbdfd429d76ca8655f5a1e385287c21ab71877ba4475ed6904ea6b460d.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 386,
