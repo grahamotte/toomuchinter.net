@@ -3977,7 +3977,7 @@
     "title": "Degenerate music - Wikipedia",
     "timestamp": "2024-05-04 08:15:54 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/3566ee97aeee51d68819f5fb77892206475a46048dac2d8c5761416401bbb6ea.jpg",
     "jpg_tries": 1
   },
@@ -4111,7 +4111,7 @@
     "wbm": "http://web.archive.org/web/20240528004120/https://www.behance.net/gallery/198013327/Plywood-Paradise",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 375,
@@ -4207,8 +4207,8 @@
     "url": "https://docs.likejazz.com/llama3.np/",
     "title": "Llama 3 implemented in pure NumPy · The Missing Papers",
     "timestamp": "2024-05-25 20:32:04 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240526063505/https://docs.likejazz.com/llama3.np/",
+    "wbm_tries": 1,
     "jpg": "snapshots/faddbbfca37c354b3087a53f40dc0f0a6110d9c021eac60b6b7d4a09139994a4.jpg",
     "jpg_tries": 1
   },
@@ -4253,8 +4253,8 @@
     "timestamp": "2024-05-25 20:39:21 -0700",
     "wbm": "http://web.archive.org/web/20240514114009/https://www.northlandscapes.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0cbb80077f5d04facb6630e8bec8e418ff827edec983903f47bd41d59d79aba6.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 388,
@@ -4297,6 +4297,17 @@
     "timestamp": "2024-05-25 20:43:53 -0700",
     "wbm": "http://web.archive.org/web/20240511005033/https://rekall.me/",
     "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 392,
+    "digest": "7879e60139b1656163f6013ebde2c4d250a39945f9e204f29b582c703081a709",
+    "url": "https://www.sassnow.ski/rigid-body-collisions/1",
+    "title": "What is a collision? — On Error Resume Next",
+    "timestamp": "2024-05-29 12:30:00 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
     "jpg": null,
     "jpg_tries": 0
   }
