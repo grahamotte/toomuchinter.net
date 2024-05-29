@@ -3943,8 +3943,8 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail",
     "title": "ESA - Webb captures iconic Horsehead Nebula in unprecedented detail",
     "timestamp": "2024-04-30 17:27:23 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240506185857/https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail",
+    "wbm_tries": 1,
     "jpg": "snapshots/563eea72c93d4bd551a6d29e1a959c5ee642309a5c5a8455e98930fcc70237d8.jpg",
     "jpg_tries": 1
   },
@@ -4009,8 +4009,8 @@
     "url": "https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md",
     "title": "githublog/2024/5/10/cordic.md at main · francisrstokes/githublog",
     "timestamp": "2024-05-13 20:13:09 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240524153312/https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4132,8 +4132,8 @@
     "timestamp": "2024-05-19 14:12:18 -0700",
     "wbm": "http://web.archive.org/web/20240525162308/https://floor796.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/c6023a41c281c343491a9f2339fbf862dd81e571cae157ac60ca596aff6bf724.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 377,
@@ -4275,8 +4275,8 @@
     "timestamp": "2024-05-25 20:40:24 -0700",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/a1310bed075c1a48a48d13f286cc7dbc191578a44961636e0397b20a63586afe.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 390,
