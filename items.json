@@ -4141,8 +4141,8 @@
     "url": "https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis",
     "title": "Hockney–Falco thesis - Wikipedia",
     "timestamp": "2024-05-19 14:14:50 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240417225119/https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis",
+    "wbm_tries": 1,
     "jpg": "snapshots/afc2aa1d49709c081445153b5a3a73ea1b14b3db20e3f0c9c70262fb8163c062.jpg",
     "jpg_tries": 1
   },
@@ -4175,7 +4175,7 @@
     "title": "COULEURS",
     "timestamp": "2024-05-19 14:23:14 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/d6a4cecbf9b962bd1a7466a1e5a8b861655be8c3d0c77f7d3e6fbdcaecca8224.jpg",
     "jpg_tries": 1
   },
