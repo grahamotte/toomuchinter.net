@@ -4033,8 +4033,8 @@
     "timestamp": "2024-05-13 20:26:43 -0700",
     "wbm": "http://web.archive.org/web/20240524000704/https://stratechery.com/2024/the-great-flattening/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/0b6461421e9de58a8c5a5c4cd72cd1f411dfd29bda17374cd187754f162b342c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 368,
@@ -4175,7 +4175,7 @@
     "title": "COULEURS",
     "timestamp": "2024-05-19 14:23:14 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/d6a4cecbf9b962bd1a7466a1e5a8b861655be8c3d0c77f7d3e6fbdcaecca8224.jpg",
     "jpg_tries": 1
   },
@@ -4274,7 +4274,7 @@
     "title": "▶︎ Yes Please | Antonio Barret | Nice Guys",
     "timestamp": "2024-05-25 20:40:24 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/a1310bed075c1a48a48d13f286cc7dbc191578a44961636e0397b20a63586afe.jpg",
     "jpg_tries": 1
   },
@@ -4297,8 +4297,8 @@
     "timestamp": "2024-05-25 20:43:53 -0700",
     "wbm": "http://web.archive.org/web/20240511005033/https://rekall.me/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/e63c395dac5e428bed05623c8ad9638324d3c1d5b969034d216a9a4152219ce9.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 392,
