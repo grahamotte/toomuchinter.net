@@ -4065,9 +4065,9 @@
     "title": "Heat Death of the Internet - takahē",
     "timestamp": "2024-05-13 23:11:58 -0700",
     "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 1,
+    "jpg": "snapshots/55f4ac6f45d3404a4c467ad3fde82e989d1159075a15e8492fb4cbee59108fc8.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 371,
@@ -4110,8 +4110,8 @@
     "timestamp": "2024-05-16 15:20:33 -0700",
     "wbm": "http://web.archive.org/web/20240528004120/https://www.behance.net/gallery/198013327/Plywood-Paradise",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/4d7f4643588e4fbdb25a7c076bfabce35da481dfd94a751773310d945429c2c9.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 375,
@@ -4186,7 +4186,7 @@
     "title": "Aroura (Pentax Z70, Takumar 28-80mm F3.5, UltraMax 400 @ 10s) : analog",
     "timestamp": "2024-05-19 14:32:40 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/ad57285721c1aaef38495cbc40e061fdc1875956231457f8a96bde281620f76a.jpg",
     "jpg_tries": 1
   },
