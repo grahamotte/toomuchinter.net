@@ -4065,7 +4065,7 @@
     "title": "Heat Death of the Internet - takahē",
     "timestamp": "2024-05-13 23:11:58 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/55f4ac6f45d3404a4c467ad3fde82e989d1159075a15e8492fb4cbee59108fc8.jpg",
     "jpg_tries": 1
   },
@@ -4163,8 +4163,8 @@
     "url": "https://www.youtube.com/watch?v=mOJlg8g8_yw",
     "title": "The History of Tetris World Records - YouTube",
     "timestamp": "2024-05-19 14:22:02 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240529094717/https://www.youtube.com/watch?v=mOJlg8g8_yw",
+    "wbm_tries": 1,
     "jpg": "snapshots/d48ed854121fd7d21c6dc830c81b955cef6ee9925994618ecdd345885c7b5385.jpg",
     "jpg_tries": 1
   },
