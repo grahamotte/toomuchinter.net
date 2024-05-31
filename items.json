@@ -4175,7 +4175,7 @@
     "title": "COULEURS",
     "timestamp": "2024-05-19 14:23:14 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/d6a4cecbf9b962bd1a7466a1e5a8b861655be8c3d0c77f7d3e6fbdcaecca8224.jpg",
     "jpg_tries": 1
   },
@@ -4309,6 +4309,17 @@
     "wbm": "http://web.archive.org/web/20240526042510/https://www.sassnow.ski/rigid-body-collisions/1",
     "wbm_tries": 1,
     "jpg": "snapshots/7879e60139b1656163f6013ebde2c4d250a39945f9e204f29b582c703081a709.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 393,
+    "digest": "71b8a13cccc007ffa30dcf890cdd1e0e4286a423b90751a98d2409bc2aa5b97d",
+    "url": "https://www.itsnicethat.com/articles/benjamin-artola-art-discover-200524",
+    "title": "Benjamin Artola’s paintings present a world without humans",
+    "timestamp": "2024-05-31 12:56:43 -0700",
+    "wbm": "http://web.archive.org/web/20240529160541/https://www.itsnicethat.com/articles/benjamin-artola-art-discover-200524",
+    "wbm_tries": 1,
+    "jpg": "snapshots/71b8a13cccc007ffa30dcf890cdd1e0e4286a423b90751a98d2409bc2aa5b97d.jpg",
     "jpg_tries": 1
   }
 ]
