@@ -4175,7 +4175,7 @@
     "title": "COULEURS",
     "timestamp": "2024-05-19 14:23:14 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/d6a4cecbf9b962bd1a7466a1e5a8b861655be8c3d0c77f7d3e6fbdcaecca8224.jpg",
     "jpg_tries": 1
   },
@@ -4320,6 +4320,17 @@
     "wbm": "http://web.archive.org/web/20240529160541/https://www.itsnicethat.com/articles/benjamin-artola-art-discover-200524",
     "wbm_tries": 1,
     "jpg": "snapshots/71b8a13cccc007ffa30dcf890cdd1e0e4286a423b90751a98d2409bc2aa5b97d.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 394,
+    "digest": "3f70a789a7662c917f74348f67dabdf0397f86c920debcb473245ced94ce469f",
+    "url": "https://slashpages.net/",
+    "title": "slash pages",
+    "timestamp": "2024-06-01 10:31:08 -0700",
+    "wbm": "http://web.archive.org/web/20240529031056/https://slashpages.net/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/3f70a789a7662c917f74348f67dabdf0397f86c920debcb473245ced94ce469f.jpg",
     "jpg_tries": 1
   }
 ]
