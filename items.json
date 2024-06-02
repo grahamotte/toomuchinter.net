@@ -4339,10 +4339,10 @@
     "url": "https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md",
     "title": "githublog/2024/5/29/fast-inverse-sqrt.md at main · francisrstokes/githublog",
     "timestamp": "2024-06-02 13:12:07 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm": "http://web.archive.org/web/20240602204256/https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md",
+    "wbm_tries": 1,
+    "jpg": "snapshots/bc0ca569440241b7e704be14cc1d57c4de1d04ca3997458bc798d8f6b2e644a7.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 396,
@@ -4362,8 +4362,19 @@
     "title": "‘A prison of his own making’, nicksirotich/ me, pen and ink with digital color, 2022 : Art",
     "timestamp": "2024-06-02 13:41:11 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/6373397869ee3e2424bd376da052a4cc88d03c63d781c9982793cfda38622379.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 398,
+    "digest": "284640c3b0d5f12466f0d08df6343e29ec49235fb2e57b54666d2543d16c6819",
+    "url": "https://retroscifiart.tumblr.com/post/751978133638496256/john-byrne-from-the-last-galactus-story-1985",
+    "title": "Scifi Art — John Byrne - from The Last Galactus Story (1985,...",
+    "timestamp": "2024-06-02 16:03:45 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/284640c3b0d5f12466f0d08df6343e29ec49235fb2e57b54666d2543d16c6819.jpg",
     "jpg_tries": 1
   }
 ]
