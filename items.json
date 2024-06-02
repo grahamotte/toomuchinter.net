@@ -4332,5 +4332,38 @@
     "wbm_tries": 1,
     "jpg": "snapshots/3f70a789a7662c917f74348f67dabdf0397f86c920debcb473245ced94ce469f.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 395,
+    "digest": "bc0ca569440241b7e704be14cc1d57c4de1d04ca3997458bc798d8f6b2e644a7",
+    "url": "https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md",
+    "title": "githublog/2024/5/29/fast-inverse-sqrt.md at main · francisrstokes/githublog",
+    "timestamp": "2024-06-02 13:12:07 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 396,
+    "digest": "5530d7da7aa0e6828ab31cc0439575acba2137a55adbfd1840c4818b32d906af",
+    "url": "https://www.behance.net/gallery/196351115/UNE-VIE-POUR-RIEN",
+    "title": "UNE VIE POUR RIEN :: Behance",
+    "timestamp": "2024-06-02 13:35:09 -0700",
+    "wbm": "http://web.archive.org/web/20240531162110/https://www.behance.net/gallery/196351115/UNE-VIE-POUR-RIEN",
+    "wbm_tries": 1,
+    "jpg": "snapshots/5530d7da7aa0e6828ab31cc0439575acba2137a55adbfd1840c4818b32d906af.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 397,
+    "digest": "6373397869ee3e2424bd376da052a4cc88d03c63d781c9982793cfda38622379",
+    "url": "https://old.reddit.com/r/Art/comments/1d4fxjj/a_prison_of_his_own_making_nicksirotich_me_pen/",
+    "title": "‘A prison of his own making’, nicksirotich/ me, pen and ink with digital color, 2022 : Art",
+    "timestamp": "2024-06-02 13:41:11 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/6373397869ee3e2424bd376da052a4cc88d03c63d781c9982793cfda38622379.jpg",
+    "jpg_tries": 1
   }
 ]
