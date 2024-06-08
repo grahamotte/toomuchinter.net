@@ -4376,5 +4376,16 @@
     "wbm_tries": 8,
     "jpg": "snapshots/284640c3b0d5f12466f0d08df6343e29ec49235fb2e57b54666d2543d16c6819.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 399,
+    "digest": "8ed7508d05c8542dc0e18c040cfce3c7f1a2268f0bbceaa6edb86e7a1a7098a7",
+    "url": "https://news.ycombinator.com/item?id=40561872",
+    "title": "How many photons are received per bit transmitted from Voyager 1? | Hacker News",
+    "timestamp": "2024-06-08 08:41:33 -0700",
+    "wbm": "http://web.archive.org/web/20240607144127/https://news.ycombinator.com/item?id=40561872",
+    "wbm_tries": 1,
+    "jpg": "snapshots/8ed7508d05c8542dc0e18c040cfce3c7f1a2268f0bbceaa6edb86e7a1a7098a7.jpg",
+    "jpg_tries": 1
   }
 ]
