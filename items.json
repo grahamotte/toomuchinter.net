@@ -4387,5 +4387,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/8ed7508d05c8542dc0e18c040cfce3c7f1a2268f0bbceaa6edb86e7a1a7098a7.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 400,
+    "digest": "de63bf345f30c08d3a69060beaa5a5cddb1735f753b7da3fc1144bf371da632f",
+    "url": "https://www.dayroselane.com/hydrants",
+    "title": "The Hydrant Directory",
+    "timestamp": "2024-06-08 21:38:20 -0700",
+    "wbm": "http://web.archive.org/web/20240525023553/https://www.dayroselane.com/hydrants",
+    "wbm_tries": 1,
+    "jpg": "snapshots/de63bf345f30c08d3a69060beaa5a5cddb1735f753b7da3fc1144bf371da632f.jpg",
+    "jpg_tries": 1
   }
 ]
