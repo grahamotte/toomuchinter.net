@@ -4431,5 +4431,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/dfa54cfe17674e83c1d0808937335f9293b5943911aa402b39fe025c34a68a68.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 404,
+    "digest": "24678c04f57a96fd942baa74328d67f365dd318271c6bed565c3cfafd8b1f108",
+    "url": "https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it",
+    "title": "Things the guys who stole my phone have texted me to try to get me to unlock it - Gothamist",
+    "timestamp": "2024-06-15 00:51:21 -0700",
+    "wbm": "http://web.archive.org/web/20240610113006/https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it",
+    "wbm_tries": 1,
+    "jpg": "snapshots/24678c04f57a96fd942baa74328d67f365dd318271c6bed565c3cfafd8b1f108.jpg",
+    "jpg_tries": 1
   }
 ]
