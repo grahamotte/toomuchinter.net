@@ -4471,8 +4471,8 @@
     "url": "https://lama.co/harriorrihar/en",
     "title": "Jon Juarez",
     "timestamp": "2024-06-17 10:03:58 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240607220629/https://lama.co/harriorrihar/en",
+    "wbm_tries": 1,
     "jpg": "snapshots/932ab5444f0a3821ee9c5a26419243de0009a8fda1948689e5ea7ecb5c9009e4.jpg",
     "jpg_tries": 1
   },
@@ -4484,7 +4484,7 @@
     "timestamp": "2024-06-17 10:09:58 -0700",
     "wbm": "http://web.archive.org/web/20240501130446/https://www.youtube.com/watch?v=jYCIkIyAYk4",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/dc70439da8eb24781fe0bf60ad6d8b553f15623a5395a923d7f0211429ea0ada.jpg",
+    "jpg_tries": 1
   }
 ]
