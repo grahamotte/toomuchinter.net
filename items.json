@@ -4442,5 +4442,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/24678c04f57a96fd942baa74328d67f365dd318271c6bed565c3cfafd8b1f108.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 405,
+    "digest": "efbd5c7eb116b03dc1a3fa748e64b1962e6f7c2ac26ad625ad958c58281f007e",
+    "url": "https://www.thierry-urbain.com/series.php?s=ETMK2",
+    "title": "Thierry Urbain - Etemenanki II",
+    "timestamp": "2024-06-16 22:36:12 -0700",
+    "wbm": "http://web.archive.org/web/20230322083409/https://www.thierry-urbain.com/series.php?s=ETMK2",
+    "wbm_tries": 1,
+    "jpg": "snapshots/efbd5c7eb116b03dc1a3fa748e64b1962e6f7c2ac26ad625ad958c58281f007e.jpg",
+    "jpg_tries": 1
   }
 ]
