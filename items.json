@@ -4497,5 +4497,27 @@
     "wbm_tries": 1,
     "jpg": "snapshots/6dbd9f247fb0e1903d01be1fc4450121702a662e5fcd633cb0d86e7ebd624e9a.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 410,
+    "digest": "1f8db686be851689e2f7e081485f240693d4f7b5c03967971483e7a4b01982c3",
+    "url": "https://news.ycombinator.com/item?id=40680648",
+    "title": "Start presentations on the second slide | Hacker News",
+    "timestamp": "2024-06-19 10:20:00 -0700",
+    "wbm": "http://web.archive.org/web/20240617171644/https://news.ycombinator.com/item?id=40680648",
+    "wbm_tries": 1,
+    "jpg": "snapshots/1f8db686be851689e2f7e081485f240693d4f7b5c03967971483e7a4b01982c3.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 411,
+    "digest": "008591ba8211427fccddadd35bd3fd3bec884c2a49ef90dc7f1e80cece257595",
+    "url": "https://same.energy/",
+    "title": "Same Energy | Visual Search Engine",
+    "timestamp": "2024-06-19 10:24:49 -0700",
+    "wbm": "http://web.archive.org/web/20240615100539/https://same.energy/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/008591ba8211427fccddadd35bd3fd3bec884c2a49ef90dc7f1e80cece257595.jpg",
+    "jpg_tries": 1
   }
 ]
