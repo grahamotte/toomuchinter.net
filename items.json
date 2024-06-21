@@ -4527,7 +4527,7 @@
     "title": "Data leaks - sizeof(cat)",
     "timestamp": "2024-06-21 00:54:44 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/556ab6af7e501588ecca1a01094638d2873988d26f29b84d24a9dba8fccd2a66.jpg",
     "jpg_tries": 1
   },
@@ -4571,7 +4571,7 @@
     "title": "Reddit - https://i.redd.it/4i89ehrzck5d1.jpeg",
     "timestamp": "2024-06-21 00:58:07 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/c4f359d6e7a82bd4d29a3dec9b11a9f82c03cbae9ea6e123d88f2aaf4d374494.jpg",
     "jpg_tries": 1
   },
@@ -4595,6 +4595,17 @@
     "wbm": null,
     "wbm_tries": 1,
     "jpg": "snapshots/c302266d566b960d95bc0f63ef0a58b8d79765747f2374467d2c8e7699c49000.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 419,
+    "digest": "6062771b13a93e2d0d33e768fda1467dcc5c4ec3790550f6ecba154c9bd48d5d",
+    "url": "https://dynomight.net/travel/",
+    "title": "Obvious travel advice",
+    "timestamp": "2024-06-21 13:26:38 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/6062771b13a93e2d0d33e768fda1467dcc5c4ec3790550f6ecba154c9bd48d5d.jpg",
     "jpg_tries": 1
   }
 ]
