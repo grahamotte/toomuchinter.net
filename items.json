@@ -4581,8 +4581,8 @@
     "url": "https://www.bbc.com/news/articles/cg33zqd5wyeo",
     "title": "Sandy Hook survivors graduate from high school",
     "timestamp": "2024-06-21 10:50:49 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240620013133/https://www.bbc.com/news/articles/cg33zqd5wyeo",
+    "wbm_tries": 1,
     "jpg": "snapshots/86992ff5bcf8cb1c591a0cb3ff4ebeecca929af0cc25c0825e28499bd04fe44e.jpg",
     "jpg_tries": 1
   },
@@ -4593,7 +4593,7 @@
     "title": "AbiToads, digital art, artwork, illustration, digital painting, nature, 4K, animals, toad, clouds, sky, parachutes, blue | 3840x2160 Wallpaper - wallhaven.cc",
     "timestamp": "2024-06-21 10:57:55 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/c302266d566b960d95bc0f63ef0a58b8d79765747f2374467d2c8e7699c49000.jpg",
     "jpg_tries": 1
   }
