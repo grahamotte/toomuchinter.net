@@ -4571,7 +4571,7 @@
     "title": "Reddit - https://i.redd.it/4i89ehrzck5d1.jpeg",
     "timestamp": "2024-06-21 00:58:07 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/c4f359d6e7a82bd4d29a3dec9b11a9f82c03cbae9ea6e123d88f2aaf4d374494.jpg",
     "jpg_tries": 1
   },
@@ -4603,8 +4603,8 @@
     "url": "https://dynomight.net/travel/",
     "title": "Obvious travel advice",
     "timestamp": "2024-06-21 13:26:38 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240620162807/https://dynomight.net/travel/",
+    "wbm_tries": 1,
     "jpg": "snapshots/6062771b13a93e2d0d33e768fda1467dcc5c4ec3790550f6ecba154c9bd48d5d.jpg",
     "jpg_tries": 1
   }
