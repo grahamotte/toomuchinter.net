@@ -4539,8 +4539,8 @@
     "timestamp": "2024-06-21 00:57:16 -0700",
     "wbm": "http://web.archive.org/web/20231222074725/https://butdoesitfloat.com/index/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/335923c9da09036c49712f4dc254c978f0de738744637edc48727c706c832a7e.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 414,
@@ -4548,8 +4548,8 @@
     "url": "https://socks-studio.com/",
     "title": "SOCKS – An online magazine of Art, Architecture, Media, Culture, Sounds, Territories, Technology",
     "timestamp": "2024-06-21 00:57:27 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240609141454/https://socks-studio.com/",
+    "wbm_tries": 1,
     "jpg": "snapshots/e6c014b738837874a6f73d536b96a7e4c025dd74ff5c5f20a0e6c66d7c345efa.jpg",
     "jpg_tries": 1
   },
@@ -4560,7 +4560,7 @@
     "title": "Arizona, USA, nature, landscape, rocks, coyote buttes, erosion, desert, clouds | 8688x5792 Wallpaper - wallhaven.cc",
     "timestamp": "2024-06-21 00:57:53 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/c32720782ffa1d81eb820372bee2adb13a3821427cdbd395b6abae9e5dbb5188.jpg",
     "jpg_tries": 1
   },
