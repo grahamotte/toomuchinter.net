@@ -4560,7 +4560,7 @@
     "title": "Arizona, USA, nature, landscape, rocks, coyote buttes, erosion, desert, clouds | 8688x5792 Wallpaper - wallhaven.cc",
     "timestamp": "2024-06-21 00:57:53 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/c32720782ffa1d81eb820372bee2adb13a3821427cdbd395b6abae9e5dbb5188.jpg",
     "jpg_tries": 1
   },
@@ -4571,8 +4571,30 @@
     "title": "Reddit - https://i.redd.it/4i89ehrzck5d1.jpeg",
     "timestamp": "2024-06-21 00:58:07 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/c4f359d6e7a82bd4d29a3dec9b11a9f82c03cbae9ea6e123d88f2aaf4d374494.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 417,
+    "digest": "86992ff5bcf8cb1c591a0cb3ff4ebeecca929af0cc25c0825e28499bd04fe44e",
+    "url": "https://www.bbc.com/news/articles/cg33zqd5wyeo",
+    "title": "Sandy Hook survivors graduate from high school",
+    "timestamp": "2024-06-21 10:50:49 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/86992ff5bcf8cb1c591a0cb3ff4ebeecca929af0cc25c0825e28499bd04fe44e.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 418,
+    "digest": "c302266d566b960d95bc0f63ef0a58b8d79765747f2374467d2c8e7699c49000",
+    "url": "https://wallhaven.cc/w/m3eyyk",
+    "title": "AbiToads, digital art, artwork, illustration, digital painting, nature, 4K, animals, toad, clouds, sky, parachutes, blue | 3840x2160 Wallpaper - wallhaven.cc",
+    "timestamp": "2024-06-21 10:57:55 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/c302266d566b960d95bc0f63ef0a58b8d79765747f2374467d2c8e7699c49000.jpg",
     "jpg_tries": 1
   }
 ]
