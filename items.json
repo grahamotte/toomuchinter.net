@@ -4527,7 +4527,7 @@
     "title": "Data leaks - sizeof(cat)",
     "timestamp": "2024-06-21 00:54:44 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/556ab6af7e501588ecca1a01094638d2873988d26f29b84d24a9dba8fccd2a66.jpg",
     "jpg_tries": 1
   },
@@ -4571,7 +4571,7 @@
     "title": "Reddit - https://i.redd.it/4i89ehrzck5d1.jpeg",
     "timestamp": "2024-06-21 00:58:07 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/c4f359d6e7a82bd4d29a3dec9b11a9f82c03cbae9ea6e123d88f2aaf4d374494.jpg",
     "jpg_tries": 1
   },
