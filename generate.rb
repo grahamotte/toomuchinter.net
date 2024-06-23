@@ -126,7 +126,7 @@ items
   puts "jpg #{item.digest} #{item.url}"
   item.jpg_tries += 1
   item.jpg ||= "snapshots/#{item.digest}.jpg";
-  browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 30) }
+  browse(item.url) { |x| x.screenshot(path: item.jpg, full: true, quality: 50) }
 end
 
 # items

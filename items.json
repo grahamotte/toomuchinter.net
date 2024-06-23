@@ -689,7 +689,7 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg": null,
     "jpg_tries": 6
   },
   {
@@ -3846,8 +3846,8 @@
     "timestamp": "2024-04-27 09:30:26 -0700",
     "wbm": "http://web.archive.org/web/20240427143544/https://alexharri.com/blog/planes",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/8995d8f9cc4dad5c0b9f77e31ba5854bc657cb8e93bb40d58600f8c58324369e.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 351,
@@ -4637,7 +4637,7 @@
     "title": "The Rarest Trees in the World | Moss and Fog",
     "timestamp": "2024-06-23 11:41:47 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": "snapshots/f4e1a42878df39915fb288a9ed2ebbe37db31e8d6a45e3c2061841ac6b4971f4.jpg",
     "jpg_tries": 1
   },
@@ -4648,7 +4648,7 @@
     "title": "Dark Roasted Blend: Glorious Retrofuture from Japan, Part 1",
     "timestamp": "2024-06-23 11:50:51 -0700",
     "wbm": null,
-    "wbm_tries": 7,
+    "wbm_tries": 8,
     "jpg": null,
     "jpg_tries": 1
   },
@@ -4661,6 +4661,17 @@
     "wbm": "http://web.archive.org/web/20240623033713/https://www.youtube.com/watch?v=1Vnghdsjmd0",
     "wbm_tries": 1,
     "jpg": "snapshots/e442db68a09ef0f2364ee50c05eafa3d96c2693343dd4f30594a1d4cc1022f00.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 425,
+    "digest": "48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193",
+    "url": "https://old.reddit.com/r/toolgifs/comments/1dm7cio/floating_by/",
+    "title": "Floating by : toolgifs",
+    "timestamp": "2024-06-23 14:07:46 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193.jpg",
     "jpg_tries": 1
   }
 ]
