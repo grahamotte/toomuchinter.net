@@ -4637,9 +4637,9 @@
     "title": "The Rarest Trees in the World | Moss and Fog",
     "timestamp": "2024-06-23 11:41:47 -0700",
     "wbm": null,
-    "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 1,
+    "jpg": "snapshots/f4e1a42878df39915fb288a9ed2ebbe37db31e8d6a45e3c2061841ac6b4971f4.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 423,
@@ -4648,7 +4648,7 @@
     "title": "Dark Roasted Blend: Glorious Retrofuture from Japan, Part 1",
     "timestamp": "2024-06-23 11:50:51 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/2f13d10c51cde7e59da51318673e91792a6fce6bc93a54be906aed9bf34ce251.jpg",
     "jpg_tries": 1
   },
