@@ -656,7 +656,7 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
     "wbm_tries": 2,
-    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg": null,
     "jpg_tries": 5
   },
   {
@@ -689,8 +689,8 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 5
+    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg_tries": 6
   },
   {
     "id": 64,
@@ -843,8 +843,8 @@
     "timestamp": "2024-01-09 11:04:14 -0800",
     "wbm": "http://web.archive.org/web/20240121182924/https://twitter.com/ryanjreilly/status/1743656421562970545",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/9e4f9fe524571ee8de8558a1837dcd9080bfc54fc00949abf9b9ffaa05eddacd.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 78,
@@ -2691,7 +2691,7 @@
     "timestamp": "2024-03-04 12:53:08 -0800",
     "wbm": "http://web.archive.org/web/20220811122617/https://www.theartofdoingstuff.com/25-things-you-didnt-know-you-can-freeze/",
     "wbm_tries": 1,
-    "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg": null,
     "jpg_tries": 4
   },
   {
@@ -4637,7 +4637,7 @@
     "title": "The Rarest Trees in the World | Moss and Fog",
     "timestamp": "2024-06-23 11:41:47 -0700",
     "wbm": null,
-    "wbm_tries": 5,
+    "wbm_tries": 6,
     "jpg": "snapshots/f4e1a42878df39915fb288a9ed2ebbe37db31e8d6a45e3c2061841ac6b4971f4.jpg",
     "jpg_tries": 1
   },
@@ -4648,7 +4648,7 @@
     "title": "Dark Roasted Blend: Glorious Retrofuture from Japan, Part 1",
     "timestamp": "2024-06-23 11:50:51 -0700",
     "wbm": null,
-    "wbm_tries": 6,
+    "wbm_tries": 7,
     "jpg": null,
     "jpg_tries": 1
   },
