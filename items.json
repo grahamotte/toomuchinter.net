@@ -469,8 +469,8 @@
     "timestamp": "2024-01-04 10:53:29 -0800",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/2dbe7e3a729ee0628f44ebd810e4da3efa54ee79ba1fb8321486c034e9539680.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 44,
@@ -1272,8 +1272,8 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 117,
@@ -4637,7 +4637,7 @@
     "title": "The Rarest Trees in the World | Moss and Fog",
     "timestamp": "2024-06-23 11:41:47 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/f4e1a42878df39915fb288a9ed2ebbe37db31e8d6a45e3c2061841ac6b4971f4.jpg",
     "jpg_tries": 1
   },
@@ -4648,7 +4648,7 @@
     "title": "Dark Roasted Blend: Glorious Retrofuture from Japan, Part 1",
     "timestamp": "2024-06-23 11:50:51 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": null,
     "jpg_tries": 1
   },
