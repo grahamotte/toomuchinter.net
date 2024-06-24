@@ -1272,8 +1272,8 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 117,
@@ -3395,8 +3395,8 @@
     "timestamp": "2024-04-06 09:46:05 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/e088e8a63d32562bb253f6c15969de426ba2d6265807dddb3b4ea1820a56896e.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 310,
@@ -4670,7 +4670,7 @@
     "title": "Floating by : toolgifs",
     "timestamp": "2024-06-23 14:07:46 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193.jpg",
     "jpg_tries": 1
   },
