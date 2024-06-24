@@ -777,8 +777,8 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 72,
@@ -3912,8 +3912,8 @@
     "timestamp": "2024-04-28 12:39:36 -0700",
     "wbm": "http://web.archive.org/web/20240428201101/https://rarehistoricalphotos.com/victorian-london-color-photos/",
     "wbm_tries": 7,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/762588ddf03aecae30989bbf709eca4f427eea4bdb81ef329849a3da16044d89.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 357,
@@ -4670,7 +4670,7 @@
     "title": "Floating by : toolgifs",
     "timestamp": "2024-06-23 14:07:46 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193.jpg",
     "jpg_tries": 1
   },
