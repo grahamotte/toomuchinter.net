@@ -1426,8 +1426,8 @@
     "timestamp": "2024-01-20 21:33:44 -0800",
     "wbm": "http://web.archive.org/web/20240119134113/https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/e31ee2517cfa78f72e8e187e264feebc09c00acbfd3cc94c296dc6e4a78d69bc.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 131,
@@ -3736,8 +3736,8 @@
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/70a9e305334865b10fbd0872d9714824f76ce558354c39c5bfe9ebc7f445303d.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 341,
@@ -4670,7 +4670,7 @@
     "title": "Floating by : toolgifs",
     "timestamp": "2024-06-23 14:07:46 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193.jpg",
     "jpg_tries": 1
   },
