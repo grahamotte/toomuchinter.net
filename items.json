@@ -414,8 +414,8 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 39,
@@ -3615,8 +3615,8 @@
     "timestamp": "2024-04-17 15:22:16 -0700",
     "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 330,
@@ -4670,7 +4670,7 @@
     "title": "Floating by : toolgifs",
     "timestamp": "2024-06-23 14:07:46 -0700",
     "wbm": null,
-    "wbm_tries": 4,
+    "wbm_tries": 5,
     "jpg": "snapshots/48b91f8dfe2138634332a222dae2b2fff95f15bd68da1bd6207fc83218dcc193.jpg",
     "jpg_tries": 1
   },
