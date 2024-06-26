@@ -689,8 +689,8 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 6
+    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg_tries": 7
   },
   {
     "id": 64,
@@ -2482,8 +2482,8 @@
     "timestamp": "2024-03-01 08:36:48 -0800",
     "wbm": "http://web.archive.org/web/20240308113658/https://blog.frost.kiwi/WebGL-LUTS-made-simple/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/2e86cb6057d6b64258573ad76251f110cbd08c8f38f01110ae17fb50c7ce775a.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 227,
