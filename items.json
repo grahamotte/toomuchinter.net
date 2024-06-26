@@ -1492,8 +1492,8 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 137,
@@ -2317,8 +2317,8 @@
     "timestamp": "2024-02-17 11:46:21 -0800",
     "wbm": "http://web.archive.org/web/20230106211952/https://chsi.harvard.edu/harvard-ibm-mark-1-language",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/53a7aa27b73e41cb9c3f720b2489c206cff36b7e714825b3e16bf1049b34787e.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 212,
