@@ -90,8 +90,8 @@ def browse(url)
   try do
     browser = Ferrum::Browser.new(
       window_size: [800, 800],
-      headless: false,
-      # url.include?('reddit') ? false : true,
+      # headless: false,
+      headless: url.include?('reddit') ? false : true,
       timeout: 60,
     )
     browser.go_to(url)
