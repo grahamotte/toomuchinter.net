@@ -4717,5 +4717,16 @@
     "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 8
+  },
+  {
+    "id": 430,
+    "digest": "71fc9004cbf2defc24d937a419cae78ecffd579b70024423c1d5d4c526d91fcb",
+    "url": "https://news.ycombinator.com/item?id=40800869",
+    "title": "One Million Checkboxes | Hacker News",
+    "timestamp": "2024-07-04 10:02:17 -0700",
+    "wbm": "http://web.archive.org/web/20240701051023/https://news.ycombinator.com/item?id=40800869",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
