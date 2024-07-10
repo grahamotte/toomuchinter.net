@@ -4728,5 +4728,27 @@
     "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 8
+  },
+  {
+    "id": 431,
+    "digest": "5dcf24f84b0be637203ce5d08ca3e309bb82de48cf0500df41d9fddbf44fbf1e",
+    "url": "https://news.ycombinator.com/item?id=40765770",
+    "title": "Liquid Layers | Hacker News",
+    "timestamp": "2024-07-09 11:04:59 -0700",
+    "wbm": "http://web.archive.org/web/20240628132900/https://news.ycombinator.com/item?id=40765770",
+    "wbm_tries": 1,
+    "jpg": "snapshots/5dcf24f84b0be637203ce5d08ca3e309bb82de48cf0500df41d9fddbf44fbf1e.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 432,
+    "digest": "0bcc855e0458f596895284e26bb53d1c6347f106e57c7b07b9391302425235b9",
+    "url": "http://boredmob.com/dump/money/",
+    "title": "How Money is Created",
+    "timestamp": "2024-07-09 13:39:04 -0700",
+    "wbm": "http://web.archive.org/web/20240427232604/http://boredmob.com/dump/money/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/0bcc855e0458f596895284e26bb53d1c6347f106e57c7b07b9391302425235b9.jpg",
+    "jpg_tries": 1
   }
 ]

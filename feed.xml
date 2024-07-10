@@ -4,11 +4,27 @@
     <title>toomuchinter.net</title>
     <description>toomuchinter.net</description>
     <link>https://toomuchinter.net</link>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 -0700</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 00:00:00 -0700</pubDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 -0700</lastBuildDate>
+    <pubDate>Tue, 09 Jul 2024 00:00:00 -0700</pubDate>
     <ttl>1800</ttl>
 
     <item>
+  <title><![CDATA[How Money is Created]]></title>
+  <description></description>
+  <link><![CDATA[http://boredmob.com/dump/money/]]></link>
+  <pubDate>Tue, 09 Jul 2024 13:39:04 -0700</pubDate>
+  <guid>0bcc855e0458f596895284e26bb53d1c6347f106e57c7b07b9391302425235b9</guid>
+</item>
+
+<item>
+  <title><![CDATA[Liquid Layers | Hacker News]]></title>
+  <description></description>
+  <link><![CDATA[https://news.ycombinator.com/item?id=40765770]]></link>
+  <pubDate>Tue, 09 Jul 2024 11:04:59 -0700</pubDate>
+  <guid>5dcf24f84b0be637203ce5d08ca3e309bb82de48cf0500df41d9fddbf44fbf1e</guid>
+</item>
+
+<item>
   <title><![CDATA[One Million Checkboxes | Hacker News]]></title>
   <description></description>
   <link><![CDATA[https://news.ycombinator.com/item?id=40800869]]></link>
