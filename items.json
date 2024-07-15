@@ -4750,5 +4750,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/0bcc855e0458f596895284e26bb53d1c6347f106e57c7b07b9391302425235b9.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 433,
+    "digest": "60df4c418325ed864d5b383e4ab64c23531c3756e3cd4c229df921e0ec1de151",
+    "url": "https://xkcd.com/2957/",
+    "title": "xkcd: A Crossword Puzzle",
+    "timestamp": "2024-07-15 15:40:07 -0700",
+    "wbm": "http://web.archive.org/web/20240713181820/https://xkcd.com/2957/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/60df4c418325ed864d5b383e4ab64c23531c3756e3cd4c229df921e0ec1de151.jpg",
+    "jpg_tries": 1
   }
 ]
