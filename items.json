@@ -4761,5 +4761,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/60df4c418325ed864d5b383e4ab64c23531c3756e3cd4c229df921e0ec1de151.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 434,
+    "digest": "989a2172fbcc0f5a19d95da827066af3de3569cf63211a6b2ae42c0967f2b75d",
+    "url": "https://brr.fyi/posts/engineering-for-slow-internet",
+    "title": "Engineering for Slow Internet",
+    "timestamp": "2024-07-16 11:47:13 -0700",
+    "wbm": "http://web.archive.org/web/20240711180447/https://brr.fyi/posts/engineering-for-slow-internet",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
