@@ -4783,5 +4783,16 @@
     "wbm_tries": 4,
     "jpg": "snapshots/7cbeb08fda7d329dbd39adfd6ebdcf6d8cfd9ddb9eddfdccd913faee7a6a4f38.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 436,
+    "digest": "af146a152f760da89fb78de358796ba3f6fba0526a6e42f463ee3acaba7b4430",
+    "url": "https://dgerrells.com/blog/how-not-to-use-box-shadows",
+    "title": "How not to use box shadows",
+    "timestamp": "2024-07-23 10:12:12 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
