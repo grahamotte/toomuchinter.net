@@ -4790,9 +4790,20 @@
     "url": "https://dgerrells.com/blog/how-not-to-use-box-shadows",
     "title": "How not to use box shadows",
     "timestamp": "2024-07-23 10:12:12 -0700",
-    "wbm": null,
-    "wbm_tries": 1,
+    "wbm": "http://web.archive.org/web/20240722151851/https://dgerrells.com/blog/how-not-to-use-box-shadows",
+    "wbm_tries": 2,
     "jpg": null,
+    "jpg_tries": 2
+  },
+  {
+    "id": 437,
+    "digest": "ecc5dfe8efed7d5045722d90d574748efbe40c1e15063730af6ffef5ea77fbbd",
+    "url": "https://apod.nasa.gov/apod/ap240722.html",
+    "title": "APOD: 2024 July 22 – Chamaeleon Dark Nebulas",
+    "timestamp": "2024-07-23 13:52:34 -0700",
+    "wbm": "http://web.archive.org/web/20240723001731/https://apod.nasa.gov/apod/ap240722.html",
+    "wbm_tries": 1,
+    "jpg": "snapshots/ecc5dfe8efed7d5045722d90d574748efbe40c1e15063730af6ffef5ea77fbbd.jpg",
     "jpg_tries": 1
   }
 ]
