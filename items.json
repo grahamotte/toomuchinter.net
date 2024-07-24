@@ -4793,7 +4793,7 @@
     "wbm": "http://web.archive.org/web/20240722151851/https://dgerrells.com/blog/how-not-to-use-box-shadows",
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 3
+    "jpg_tries": 4
   },
   {
     "id": 437,
@@ -4804,6 +4804,17 @@
     "wbm": "http://web.archive.org/web/20240723001731/https://apod.nasa.gov/apod/ap240722.html",
     "wbm_tries": 1,
     "jpg": "snapshots/ecc5dfe8efed7d5045722d90d574748efbe40c1e15063730af6ffef5ea77fbbd.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 438,
+    "digest": "6b4b087b1fbde39c35621e8e16e045997825a6d6ef7bd21b611173acd1cf1cf7",
+    "url": "https://xkcd.com/2962/",
+    "title": "xkcd: President Venn Diagram",
+    "timestamp": "2024-07-23 22:25:43 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/6b4b087b1fbde39c35621e8e16e045997825a6d6ef7bd21b611173acd1cf1cf7.jpg",
     "jpg_tries": 1
   }
 ]
