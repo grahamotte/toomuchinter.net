@@ -4793,7 +4793,7 @@
     "wbm": "http://web.archive.org/web/20240722151851/https://dgerrells.com/blog/how-not-to-use-box-shadows",
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 4
+    "jpg_tries": 5
   },
   {
     "id": 437,
@@ -4813,7 +4813,7 @@
     "title": "xkcd: President Venn Diagram",
     "timestamp": "2024-07-23 22:25:43 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/6b4b087b1fbde39c35621e8e16e045997825a6d6ef7bd21b611173acd1cf1cf7.jpg",
     "jpg_tries": 1
   }
