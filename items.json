@@ -4816,5 +4816,16 @@
     "wbm_tries": 3,
     "jpg": "snapshots/6b4b087b1fbde39c35621e8e16e045997825a6d6ef7bd21b611173acd1cf1cf7.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 439,
+    "digest": "42532aeaca085771751b72cc3cc6bb8a3689658aaf674795d5cc6d512794b1e5",
+    "url": "https://matthewstrom.com/writing/copying/",
+    "title": "Copying is the way design works || Matthew Ström: designer & developer",
+    "timestamp": "2024-07-25 10:14:46 -0700",
+    "wbm": "http://web.archive.org/web/20240723082110/https://matthewstrom.com/writing/copying/",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
