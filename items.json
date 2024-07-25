@@ -4826,6 +4826,17 @@
     "wbm": "http://web.archive.org/web/20240723082110/https://matthewstrom.com/writing/copying/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
+  },
+  {
+    "id": 440,
+    "digest": "bb335037c8ef805948469bb2114b319d318d6dfbcc732f1bb671a5b623cbfc31",
+    "url": "https://www.youtube.com/watch?v=sHky_Xopyrw",
+    "title": "Kamala Harris Launches Her Campaign for President - YouTube",
+    "timestamp": "2024-07-25 13:17:47 -0700",
+    "wbm": "http://web.archive.org/web/20240725152436/https://www.youtube.com/watch?v=sHky_Xopyrw",
+    "wbm_tries": 1,
+    "jpg": "snapshots/bb335037c8ef805948469bb2114b319d318d6dfbcc732f1bb671a5b623cbfc31.jpg",
+    "jpg_tries": 1
   }
 ]
