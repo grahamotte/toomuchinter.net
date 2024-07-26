@@ -4826,7 +4826,7 @@
     "wbm": "http://web.archive.org/web/20240723082110/https://matthewstrom.com/writing/copying/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 6
+    "jpg_tries": 7
   },
   {
     "id": 440,
@@ -4837,6 +4837,17 @@
     "wbm": "http://web.archive.org/web/20240725152436/https://www.youtube.com/watch?v=sHky_Xopyrw",
     "wbm_tries": 1,
     "jpg": "snapshots/bb335037c8ef805948469bb2114b319d318d6dfbcc732f1bb671a5b623cbfc31.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 441,
+    "digest": "2aa2c2107c744513793fe69671425b8d3bca42a37a2a93f167aa0be678ed4cb6",
+    "url": "https://jlongster.com/why-chromaticity-shape",
+    "title": "Why does the chromaticity diagram look like that?",
+    "timestamp": "2024-07-26 15:51:38 -0700",
+    "wbm": "http://web.archive.org/web/20240726220141/https://jlongster.com/why-chromaticity-shape",
+    "wbm_tries": 1,
+    "jpg": null,
     "jpg_tries": 1
   }
 ]
