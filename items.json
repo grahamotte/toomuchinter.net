@@ -4826,7 +4826,7 @@
     "wbm": "http://web.archive.org/web/20240723082110/https://matthewstrom.com/writing/copying/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 7
+    "jpg_tries": 8
   },
   {
     "id": 440,
@@ -4848,6 +4848,6 @@
     "wbm": "http://web.archive.org/web/20240726220141/https://jlongster.com/why-chromaticity-shape",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 1
+    "jpg_tries": 2
   }
 ]
