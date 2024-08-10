@@ -4859,6 +4859,17 @@
     "wbm": "http://web.archive.org/web/20240807234331/https://learnhowtolearn.org/how-to-build-extremely-quickly/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 6
+    "jpg_tries": 7
+  },
+  {
+    "id": 443,
+    "digest": "f1540a8c799dec792d40e2eaeed06b25d9089f43c8bb0bb7aae32162df83099e",
+    "url": "https://scottaaronson.blog/?p=8172",
+    "title": "Shtetl-Optimized » Blog Archive » My “Never-Trump From Here to Eternity” FAQ",
+    "timestamp": "2024-08-10 15:35:48 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
