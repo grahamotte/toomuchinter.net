@@ -4849,5 +4849,16 @@
     "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 8
+  },
+  {
+    "id": 442,
+    "digest": "5ecf9a2a1d8375ec46b6325a9919c2aef8e32aaa864630866e5ea1e5084bc1e2",
+    "url": "https://learnhowtolearn.org/how-to-build-extremely-quickly/",
+    "title": "How to Build Anything Extremely Quickly - Learn How To Learn",
+    "timestamp": "2024-08-08 21:18:27 -0700",
+    "wbm": "http://web.archive.org/web/20240807234331/https://learnhowtolearn.org/how-to-build-extremely-quickly/",
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 1
   }
 ]
