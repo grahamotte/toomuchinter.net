@@ -4870,7 +4870,7 @@
     "wbm": "http://web.archive.org/web/20240801142000/https://scottaaronson.blog/?p=8172",
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 2
+    "jpg_tries": 3
   },
   {
     "id": 444,
@@ -4878,8 +4878,8 @@
     "url": "https://hartmannreport.com/p/the-new-over-the-top-secret-plan-518",
     "title": "The New \"Over the Top\" Secret Plan on How Fascists Could Win in 2024",
     "timestamp": "2024-08-10 16:13:25 -0700",
-    "wbm": null,
-    "wbm_tries": 2,
+    "wbm": "http://web.archive.org/web/20240515203710/https://hartmannreport.com/p/the-new-over-the-top-secret-plan-518",
+    "wbm_tries": 3,
     "jpg": "snapshots/7a82302673afdc479d8798062c77b94ef2bc623a59517eb05536366aee1d336e.jpg",
     "jpg_tries": 1
   },
@@ -4889,10 +4889,10 @@
     "url": "https://jordaneldredge.com/notes/corrupted-skins/",
     "title": "The bizarre secrets I found investigating corrupt Winamp skins / Jordan Eldredge",
     "timestamp": "2024-08-10 16:13:35 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240804131524/https://jordaneldredge.com/notes/corrupted-skins/",
+    "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 1
+    "jpg_tries": 2
   },
   {
     "id": 446,
