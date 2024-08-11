@@ -4870,7 +4870,7 @@
     "wbm": "http://web.archive.org/web/20240801142000/https://scottaaronson.blog/?p=8172",
     "wbm_tries": 2,
     "jpg": null,
-    "jpg_tries": 1
+    "jpg_tries": 2
   },
   {
     "id": 444,
@@ -4879,7 +4879,7 @@
     "title": "The New \"Over the Top\" Secret Plan on How Fascists Could Win in 2024",
     "timestamp": "2024-08-10 16:13:25 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/7a82302673afdc479d8798062c77b94ef2bc623a59517eb05536366aee1d336e.jpg",
     "jpg_tries": 1
   },
@@ -4892,7 +4892,7 @@
     "wbm": null,
     "wbm_tries": 0,
     "jpg": null,
-    "jpg_tries": 0
+    "jpg_tries": 1
   },
   {
     "id": 446,
@@ -4900,8 +4900,8 @@
     "url": "https://timwalzfixedyourbicycle.com/",
     "title": "Tim Walz Fixed Your Bicycle",
     "timestamp": "2024-08-10 16:27:04 -0700",
-    "wbm": null,
-    "wbm_tries": 0,
+    "wbm": "http://web.archive.org/web/20240810000221/https://timwalzfixedyourbicycle.com/",
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   }
