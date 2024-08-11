@@ -4859,7 +4859,7 @@
     "wbm": "http://web.archive.org/web/20240807234331/https://learnhowtolearn.org/how-to-build-extremely-quickly/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 7
+    "jpg_tries": 8
   },
   {
     "id": 443,
@@ -4867,9 +4867,42 @@
     "url": "https://scottaaronson.blog/?p=8172",
     "title": "Shtetl-Optimized » Blog Archive » My “Never-Trump From Here to Eternity” FAQ",
     "timestamp": "2024-08-10 15:35:48 -0700",
-    "wbm": null,
-    "wbm_tries": 1,
+    "wbm": "http://web.archive.org/web/20240801142000/https://scottaaronson.blog/?p=8172",
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 1
+  },
+  {
+    "id": 444,
+    "digest": "7a82302673afdc479d8798062c77b94ef2bc623a59517eb05536366aee1d336e",
+    "url": "https://hartmannreport.com/p/the-new-over-the-top-secret-plan-518",
+    "title": "The New \"Over the Top\" Secret Plan on How Fascists Could Win in 2024",
+    "timestamp": "2024-08-10 16:13:25 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/7a82302673afdc479d8798062c77b94ef2bc623a59517eb05536366aee1d336e.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 445,
+    "digest": "1913da405bf59e5d5f33dccba7856d171980a0239daaab1d2f5598f35b8386ab",
+    "url": "https://jordaneldredge.com/notes/corrupted-skins/",
+    "title": "The bizarre secrets I found investigating corrupt Winamp skins / Jordan Eldredge",
+    "timestamp": "2024-08-10 16:13:35 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 446,
+    "digest": "45c31729b5a1816b34a5ebb762c5a9fb52c2707a4d21772d3207826baaad36d2",
+    "url": "https://timwalzfixedyourbicycle.com/",
+    "title": "Tim Walz Fixed Your Bicycle",
+    "timestamp": "2024-08-10 16:27:04 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
