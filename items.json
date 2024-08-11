@@ -4892,7 +4892,7 @@
     "wbm": "http://web.archive.org/web/20240804131524/https://jordaneldredge.com/notes/corrupted-skins/",
     "wbm_tries": 1,
     "jpg": null,
-    "jpg_tries": 4
+    "jpg_tries": 5
   },
   {
     "id": 446,
@@ -4902,7 +4902,7 @@
     "timestamp": "2024-08-10 16:27:04 -0700",
     "wbm": "http://web.archive.org/web/20240810000221/https://timwalzfixedyourbicycle.com/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/45c31729b5a1816b34a5ebb762c5a9fb52c2707a4d21772d3207826baaad36d2.jpg",
+    "jpg_tries": 1
   }
 ]
