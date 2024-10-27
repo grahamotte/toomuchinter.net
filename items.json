@@ -4923,7 +4923,7 @@
     "title": "LIKALINéA",
     "timestamp": "2024-09-02 17:51:06 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c.jpg",
     "jpg_tries": 1
   },
@@ -4957,8 +4957,8 @@
     "timestamp": "2024-10-27 05:24:55 -0700",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/d5f6097d51e536def4abf6f8214a9300c64edd9da5d1d7d21d089df5a169c247.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 452,
@@ -4978,9 +4978,9 @@
     "title": "ankane/transformers-ruby: State-of-the-art transformers for Ruby",
     "timestamp": "2024-10-27 05:38:54 -0700",
     "wbm": null,
-    "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 0
+    "wbm_tries": 2,
+    "jpg": "snapshots/6010155b3b5eec89e35f4f398a3129f6f5cb694d019c50aa0c0865f59a0c4f0c.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 454,
