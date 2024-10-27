@@ -3,46 +3,81 @@ require 'bundler/setup'
 Bundler.require
 
 #
-# places
+# FF places
 #
 
-tmp_dir = File.join(__dir__, 'tmp')
-tmp_places_path = File.join(tmp_dir, 'places.sqlite')
-ff_places_path = File
-  .expand_path('~/Library/Application Support/Firefox/Profiles/*/places.sqlite')
-  .then { |x| Dir.glob(x) }
-  .first
+# tmp_dir = File.join(__dir__, 'tmp')
+# tmp_places_path = File.join(tmp_dir, 'places.sqlite')
+# ff_places_path = File
+#   .expand_path('~/Library/Application Support/Firefox/Profiles/*/places.sqlite')
+#   .then { |x| Dir.glob(x) }
+#   .first
 
-FileUtils.rm_rf(tmp_dir)
-FileUtils.mkdir(tmp_dir)
-FileUtils.cp(ff_places_path, tmp_places_path)
+# FileUtils.rm_rf(tmp_dir)
+# FileUtils.mkdir(tmp_dir)
+# FileUtils.cp(ff_places_path, tmp_places_path)
 
-places = SQLite3::Database
-  .new(tmp_places_path)
-  .execute(
-    <<~SQL,
-      select
-        p.url,
-        b.title,
-        b.lastModified
-      from moz_bookmarks b
-      left join moz_places p on b.fk = p.id
-      left join moz_bookmarks f on f.id = b.parent
-      where b.type = 1
-        and f.type = 2 and f.title = 'GOOD'
-    SQL
-  )
-  .map do |url, title, timestamp|
+# places = SQLite3::Database
+#   .new(tmp_places_path)
+#   .execute(
+#     <<~SQL,
+#       select
+#         p.url,
+#         b.title,
+#         b.lastModified
+#       from moz_bookmarks b
+#       left join moz_places p on b.fk = p.id
+#       left join moz_bookmarks f on f.id = b.parent
+#       where b.type = 1
+#         and f.type = 2 and f.title = 'GOOD'
+#     SQL
+#   )
+#   .map do |url, title, timestamp|
+#     OpenStruct.new(
+#       url:,
+#       title:,
+#       timestamp: Time.at(timestamp / 1_000_000),
+#     )
+#   end
+#   .sort_by(&:timestamp)
+#   .reverse
+
+# FileUtils.rm_rf(tmp_dir)
+
+#
+# Arc Places
+#
+
+data = File
+  .expand_path('~/Library/Application Support/Arc/StorableSidebar.json')
+  .then { |x| File.read(x) }
+  .then { |x| JSON.parse(x, symbolize_names: true) }
+
+container = data.dig(:sidebar, :containers).find do |c|
+  (c[:spaces] || [])
+    .select { |s| s.is_a?(Hash) }
+    .find { |s| s[:title].downcase == 'play' }
+end
+items = container[:items].select { |x| x.is_a?(Hash) }
+good_ids = items
+  .select { |i| i[:title].to_s.downcase == 'good' }
+  .sort_by { |x| x[:childrenIds].length }
+  .last
+  .dig(:childrenIds)
+places = good_ids
+  .map { |id| items.find { |i| i[:id] == id }  }
+  .map do |item|
     OpenStruct.new(
-      url:,
-      title:,
-      timestamp: Time.at(timestamp / 1_000_000),
+      url: item[:data][:tab][:savedURL],
+      title: item[:data][:tab][:savedTitle],
+      timestamp: Time.new(2001, 1, 1) + item[:createdAt],
     )
   end
   .sort_by(&:timestamp)
   .reverse
 
-FileUtils.rm_rf(tmp_dir)
+item = nil
+items = nil
 
 #
 # items

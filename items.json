@@ -4904,5 +4904,115 @@
     "wbm_tries": 1,
     "jpg": "snapshots/45c31729b5a1816b34a5ebb762c5a9fb52c2707a4d21772d3207826baaad36d2.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 447,
+    "digest": "c10aec3de907df69b77369678a1a791e78a6bbc257629650dacef21ceca0a6f4",
+    "url": "https://www.nomataminoru.com/ghost-6-en",
+    "title": "gekka-6 | minoru-nomata",
+    "timestamp": "2024-09-02 17:51:06 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 448,
+    "digest": "2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c",
+    "url": "https://www.likalinea.com/",
+    "title": "LIKALINéA",
+    "timestamp": "2024-09-02 17:51:06 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 449,
+    "digest": "006bad1c15e64570a1eed801afb70482f64019eb271be27afd1fac94688065a8",
+    "url": "https://www.presentandcorrect.com/blogs/blog/swede-dreams",
+    "title": "Swede dreams. – Present & Correct",
+    "timestamp": "2024-09-04 16:05:29 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 450,
+    "digest": "b804829b5b88eff6d191fb4cb64061263b285aa874e190dcbc8657e7b821d647",
+    "url": "https://www.presentandcorrect.com/blogs/blog/bathroom-palettes-1940",
+    "title": "Bathroom palettes (1940) – Present & Correct",
+    "timestamp": "2024-09-19 02:23:16 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 451,
+    "digest": "d5f6097d51e536def4abf6f8214a9300c64edd9da5d1d7d21d089df5a169c247",
+    "url": "https://marincomics.com/vallejo-pixelart.html",
+    "title": "Boris Vallejo and the Pixel Art of the Demoscene | Marin Comics",
+    "timestamp": "2024-10-27 05:24:55 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 452,
+    "digest": "91b8f2e6cf1b721b71dc897a05a1ff7a2c8cf524362bcdef20a9aa5abeddf4d1",
+    "url": "https://www.thisiscolossal.com/2024/09/nazca-lines-ai/",
+    "title": "An A.I. Model Helped Uncover 303 Previously Unseen Nazca Lines in Peru — Colossal",
+    "timestamp": "2024-10-27 05:25:23 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 453,
+    "digest": "6010155b3b5eec89e35f4f398a3129f6f5cb694d019c50aa0c0865f59a0c4f0c",
+    "url": "https://github.com/ankane/transformers-ruby?tab=readme-ov-file",
+    "title": "ankane/transformers-ruby: State-of-the-art transformers for Ruby",
+    "timestamp": "2024-10-27 05:38:54 -0700",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 454,
+    "digest": "beeb340d4ebed8bb739cb1d4940584ec142981ac4b13dedca3c2716f292d41c4",
+    "url": "https://public.work/",
+    "title": "Public Work by Cosmos",
+    "timestamp": "2024-10-27 05:39:30 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
+  },
+  {
+    "id": 455,
+    "digest": "429bf10bc09c0c69167159fe6603da8a1fbd4537d4550913ef4589dce8a9ca7d",
+    "url": "https://en.wikipedia.org/wiki/Bum_Farto",
+    "title": "Bum Farto - Wikipedia",
+    "timestamp": "2024-10-27 05:39:48 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": "snapshots/429bf10bc09c0c69167159fe6603da8a1fbd4537d4550913ef4589dce8a9ca7d.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 456,
+    "digest": "916c17aa9cfee5df4ad3f797cb60adcd304af0d26cdc02274b5ae6fe9e1b043b",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-episodes-of-all-time-1235090945/king-of-the-hill-bobby-goes-nuts-season-6-episode-1-1235091130/",
+    "title": "The 100 Best TV Episodes of All Time",
+    "timestamp": "2024-10-27 05:43:45 -0700",
+    "wbm": null,
+    "wbm_tries": 0,
+    "jpg": null,
+    "jpg_tries": 0
   }
 ]
