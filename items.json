@@ -414,8 +414,8 @@
     "timestamp": "2024-01-02 23:26:18 -0800",
     "wbm": "http://web.archive.org/web/20240103124026/https://rarehistoricalphotos.com/soviet-fashion-photos-1960s-and-1970s/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/b100ae8461f069ebd02ae897e6df9c85fe19dc4d608f0e30ff7eb2c598ca6fea.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 39,
@@ -4220,8 +4220,8 @@
     "timestamp": "2024-05-25 20:32:17 -0700",
     "wbm": "http://web.archive.org/web/20240521085101/https://github.com/lydiahallie/javascript-questions",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/c39fbd5ad920102e4a4b326d13553522e44ab7d1dcdd566c26bd6333700ea999.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 385,
@@ -4967,7 +4967,7 @@
     "title": "An A.I. Model Helped Uncover 303 Previously Unseen Nazca Lines in Peru — Colossal",
     "timestamp": "2024-10-27 05:25:23 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/91b8f2e6cf1b721b71dc897a05a1ff7a2c8cf524362bcdef20a9aa5abeddf4d1.jpg",
     "jpg_tries": 1
   },
@@ -5011,7 +5011,7 @@
     "title": "The 100 Best TV Episodes of All Time",
     "timestamp": "2024-10-27 05:43:45 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   }
