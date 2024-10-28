@@ -1492,8 +1492,8 @@
     "timestamp": "2024-01-21 22:57:58 -0800",
     "wbm": "http://web.archive.org/web/20231208061745/https://casualphotophile.com/2021/01/11/ten-best-mechanical-slrs-ever-made/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/bfadaf8e3a18a870b6436b8257d566ee030fa7b0722d5475100647c3905eb5d6.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 137,
@@ -2691,8 +2691,8 @@
     "timestamp": "2024-03-04 12:53:08 -0800",
     "wbm": "http://web.archive.org/web/20220811122617/https://www.theartofdoingstuff.com/25-things-you-didnt-know-you-can-freeze/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 5
+    "jpg": "snapshots/a98c3927428f45e8ce2a101abe5b8094f3148885a76d191c18ef05d9673159e3.jpg",
+    "jpg_tries": 6
   },
   {
     "id": 246,
@@ -4945,7 +4945,7 @@
     "title": "Bathroom palettes (1940) – Present & Correct",
     "timestamp": "2024-09-19 02:23:16 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -5000,7 +5000,7 @@
     "title": "Bum Farto - Wikipedia",
     "timestamp": "2024-10-27 05:39:48 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": "snapshots/429bf10bc09c0c69167159fe6603da8a1fbd4537d4550913ef4589dce8a9ca7d.jpg",
     "jpg_tries": 1
   },
