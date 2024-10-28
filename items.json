@@ -1272,8 +1272,8 @@
     "timestamp": "2024-01-16 09:02:02 -0800",
     "wbm": "http://web.archive.org/web/20240116060421/https://rarehistoricalphotos.com/juliane-koepcke-surviving-story/",
     "wbm_tries": 0,
-    "jpg": null,
-    "jpg_tries": 5
+    "jpg": "snapshots/13cccb536dcd8825c5ba6cf6e9f0cf2a2392f1d6e5b4db85e6bdfa6ea815116c.jpg",
+    "jpg_tries": 6
   },
   {
     "id": 117,
@@ -3615,8 +3615,8 @@
     "timestamp": "2024-04-17 15:22:16 -0700",
     "wbm": "http://web.archive.org/web/20240417044312/https://tonsky.me/blog/centering/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/88bc2ee2dc3954f75592026f5dc258d723f1305c9fd6a14a722b346a5bbf8a7f.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 330,
@@ -4923,7 +4923,7 @@
     "title": "LIKALINéA",
     "timestamp": "2024-09-02 17:51:06 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c.jpg",
     "jpg_tries": 1
   },
@@ -4956,7 +4956,7 @@
     "title": "Boris Vallejo and the Pixel Art of the Demoscene | Marin Comics",
     "timestamp": "2024-10-27 05:24:55 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/d5f6097d51e536def4abf6f8214a9300c64edd9da5d1d7d21d089df5a169c247.jpg",
     "jpg_tries": 1
   },
