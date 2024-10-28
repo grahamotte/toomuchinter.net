@@ -656,8 +656,8 @@
     "timestamp": "2024-01-05 20:24:31 -0800",
     "wbm": "http://web.archive.org/web/20240131061458/https://brr.fyi/posts/south-pole-signage",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 6
+    "jpg": "snapshots/915cb9be95573f5da38c351671b582ecf7a60fcabf2fd4cd44f03c85a90ef827.jpg",
+    "jpg_tries": 7
   },
   {
     "id": 61,
@@ -777,8 +777,8 @@
     "timestamp": "2024-01-08 17:44:20 -0800",
     "wbm": "http://web.archive.org/web/20240203001720/https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 5
+    "jpg": "snapshots/18d1b639154b3338f51853aa728db4b5288d0ff952f1457ecd7032f7a223bf5a.jpg",
+    "jpg_tries": 6
   },
   {
     "id": 72,
@@ -4923,7 +4923,7 @@
     "title": "LIKALINéA",
     "timestamp": "2024-09-02 17:51:06 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c.jpg",
     "jpg_tries": 1
   },
@@ -4967,7 +4967,7 @@
     "title": "An A.I. Model Helped Uncover 303 Previously Unseen Nazca Lines in Peru — Colossal",
     "timestamp": "2024-10-27 05:25:23 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": "snapshots/91b8f2e6cf1b721b71dc897a05a1ff7a2c8cf524362bcdef20a9aa5abeddf4d1.jpg",
     "jpg_tries": 1
   },
