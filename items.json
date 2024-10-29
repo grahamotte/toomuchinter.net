@@ -3736,8 +3736,8 @@
     "timestamp": "2024-04-24 14:46:52 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 3
+    "jpg": "snapshots/70a9e305334865b10fbd0872d9714824f76ce558354c39c5bfe9ebc7f445303d.jpg",
+    "jpg_tries": 4
   },
   {
     "id": 341,
@@ -4912,7 +4912,7 @@
     "title": "gekka-6 | minoru-nomata",
     "timestamp": "2024-09-02 17:51:06 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4946,8 +4946,8 @@
     "timestamp": "2024-09-19 02:23:16 -0700",
     "wbm": null,
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/b804829b5b88eff6d191fb4cb64061263b285aa874e190dcbc8657e7b821d647.jpg",
+    "jpg_tries": 1
   },
   {
     "id": 451,
@@ -4967,7 +4967,7 @@
     "title": "An A.I. Model Helped Uncover 303 Previously Unseen Nazca Lines in Peru — Colossal",
     "timestamp": "2024-10-27 05:25:23 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/91b8f2e6cf1b721b71dc897a05a1ff7a2c8cf524362bcdef20a9aa5abeddf4d1.jpg",
     "jpg_tries": 1
   },
