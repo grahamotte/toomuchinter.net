@@ -3593,8 +3593,8 @@
     "timestamp": "2024-04-17 15:06:13 -0700",
     "wbm": "http://web.archive.org/web/20230924071552/https://graphicstudiodublin.com/artist/akino-yoko/",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 4
+    "jpg": "snapshots/0ae1a20b875796064c15473a307937907b4b7b845a0ee604a2c2e1ca413a6ff2.jpg",
+    "jpg_tries": 5
   },
   {
     "id": 328,
@@ -3846,8 +3846,8 @@
     "timestamp": "2024-04-27 09:30:26 -0700",
     "wbm": "http://web.archive.org/web/20240427143544/https://alexharri.com/blog/planes",
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/8995d8f9cc4dad5c0b9f77e31ba5854bc657cb8e93bb40d58600f8c58324369e.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 351,
@@ -4912,7 +4912,7 @@
     "title": "gekka-6 | minoru-nomata",
     "timestamp": "2024-09-02 17:51:06 -0700",
     "wbm": null,
-    "wbm_tries": 1,
+    "wbm_tries": 2,
     "jpg": null,
     "jpg_tries": 0
   },
@@ -4934,7 +4934,7 @@
     "title": "Swede dreams. – Present & Correct",
     "timestamp": "2024-09-04 16:05:29 -0700",
     "wbm": null,
-    "wbm_tries": 0,
+    "wbm_tries": 1,
     "jpg": null,
     "jpg_tries": 1
   },
