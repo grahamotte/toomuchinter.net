@@ -689,8 +689,8 @@
     "timestamp": "2024-01-07 09:35:25 -0800",
     "wbm": "http://web.archive.org/web/20240107060628/https://rarehistoricalphotos.com/carl-stormer-candid-photos/",
     "wbm_tries": 2,
-    "jpg": null,
-    "jpg_tries": 7
+    "jpg": "snapshots/3ed2e61345c9bf062290ddbdcf03832f96216f5af03313fef6e29adfeba51135.jpg",
+    "jpg_tries": 8
   },
   {
     "id": 64,
@@ -4935,8 +4935,8 @@
     "timestamp": "2024-09-04 16:05:29 -0700",
     "wbm": null,
     "wbm_tries": 1,
-    "jpg": null,
-    "jpg_tries": 1
+    "jpg": "snapshots/006bad1c15e64570a1eed801afb70482f64019eb271be27afd1fac94688065a8.jpg",
+    "jpg_tries": 2
   },
   {
     "id": 450,
@@ -4956,7 +4956,7 @@
     "title": "Boris Vallejo and the Pixel Art of the Demoscene | Marin Comics",
     "timestamp": "2024-10-27 05:24:55 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/d5f6097d51e536def4abf6f8214a9300c64edd9da5d1d7d21d089df5a169c247.jpg",
     "jpg_tries": 1
   },
@@ -5011,7 +5011,7 @@
     "title": "The 100 Best TV Episodes of All Time",
     "timestamp": "2024-10-27 05:43:45 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": null,
     "jpg_tries": 0
   }
