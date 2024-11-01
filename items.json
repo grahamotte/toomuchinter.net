@@ -470,7 +470,7 @@
     "wbm": null,
     "wbm_tries": 8,
     "jpg": null,
-    "jpg_tries": 7
+    "jpg_tries": 8
   },
   {
     "id": 44,
@@ -4977,8 +4977,8 @@
     "url": "https://github.com/ankane/transformers-ruby?tab=readme-ov-file",
     "title": "ankane/transformers-ruby: State-of-the-art transformers for Ruby",
     "timestamp": "2024-10-27 05:38:54 -0700",
-    "wbm": null,
-    "wbm_tries": 4,
+    "wbm": "http://web.archive.org/web/20240820190355/https://github.com/ankane/transformers-ruby?tab=readme-ov-file",
+    "wbm_tries": 5,
     "jpg": "snapshots/6010155b3b5eec89e35f4f398a3129f6f5cb694d019c50aa0c0865f59a0c4f0c.jpg",
     "jpg_tries": 1
   },
@@ -5010,8 +5010,8 @@
     "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-episodes-of-all-time-1235090945/king-of-the-hill-bobby-goes-nuts-season-6-episode-1-1235091130/",
     "title": "The 100 Best TV Episodes of All Time",
     "timestamp": "2024-10-27 05:43:45 -0700",
-    "wbm": null,
-    "wbm_tries": 4,
+    "wbm": "http://web.archive.org/web/20240902173518/https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-episodes-of-all-time-1235090945/king-of-the-hill-bobby-goes-nuts-season-6-episode-1-1235091130/",
+    "wbm_tries": 5,
     "jpg": "snapshots/916c17aa9cfee5df4ad3f797cb60adcd304af0d26cdc02274b5ae6fe9e1b043b.jpg",
     "jpg_tries": 1
   }
