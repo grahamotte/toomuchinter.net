@@ -470,7 +470,7 @@
     "wbm": null,
     "wbm_tries": 8,
     "jpg": null,
-    "jpg_tries": 5
+    "jpg_tries": 6
   },
   {
     "id": 44,
@@ -4967,7 +4967,7 @@
     "title": "An A.I. Model Helped Uncover 303 Previously Unseen Nazca Lines in Peru — Colossal",
     "timestamp": "2024-10-27 05:25:23 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/91b8f2e6cf1b721b71dc897a05a1ff7a2c8cf524362bcdef20a9aa5abeddf4d1.jpg",
     "jpg_tries": 1
   },
@@ -5000,7 +5000,7 @@
     "title": "Bum Farto - Wikipedia",
     "timestamp": "2024-10-27 05:39:48 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/429bf10bc09c0c69167159fe6603da8a1fbd4537d4550913ef4589dce8a9ca7d.jpg",
     "jpg_tries": 1
   },
@@ -5012,7 +5012,7 @@
     "timestamp": "2024-10-27 05:43:45 -0700",
     "wbm": null,
     "wbm_tries": 3,
-    "jpg": null,
-    "jpg_tries": 0
+    "jpg": "snapshots/916c17aa9cfee5df4ad3f797cb60adcd304af0d26cdc02274b5ae6fe9e1b043b.jpg",
+    "jpg_tries": 1
   }
 ]
