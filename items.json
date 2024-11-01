@@ -470,7 +470,7 @@
     "wbm": null,
     "wbm_tries": 8,
     "jpg": null,
-    "jpg_tries": 6
+    "jpg_tries": 7
   },
   {
     "id": 44,
@@ -4649,8 +4649,8 @@
     "timestamp": "2024-06-23 11:50:51 -0700",
     "wbm": null,
     "wbm_tries": 8,
-    "jpg": null,
-    "jpg_tries": 2
+    "jpg": "snapshots/2f13d10c51cde7e59da51318673e91792a6fce6bc93a54be906aed9bf34ce251.jpg",
+    "jpg_tries": 3
   },
   {
     "id": 424,
@@ -4978,7 +4978,7 @@
     "title": "ankane/transformers-ruby: State-of-the-art transformers for Ruby",
     "timestamp": "2024-10-27 05:38:54 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/6010155b3b5eec89e35f4f398a3129f6f5cb694d019c50aa0c0865f59a0c4f0c.jpg",
     "jpg_tries": 1
   },
@@ -5011,7 +5011,7 @@
     "title": "The 100 Best TV Episodes of All Time",
     "timestamp": "2024-10-27 05:43:45 -0700",
     "wbm": null,
-    "wbm_tries": 3,
+    "wbm_tries": 4,
     "jpg": "snapshots/916c17aa9cfee5df4ad3f797cb60adcd304af0d26cdc02274b5ae6fe9e1b043b.jpg",
     "jpg_tries": 1
   }
