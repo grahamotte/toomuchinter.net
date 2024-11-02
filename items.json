@@ -4911,8 +4911,8 @@
     "url": "https://www.nomataminoru.com/ghost-6-en",
     "title": "gekka-6 | minoru-nomata",
     "timestamp": "2024-09-02 17:51:06 -0700",
-    "wbm": null,
-    "wbm_tries": 2,
+    "wbm": "http://web.archive.org/web/20240718223501/https://www.nomataminoru.com/ghost-6-en",
+    "wbm_tries": 3,
     "jpg": "snapshots/c10aec3de907df69b77369678a1a791e78a6bbc257629650dacef21ceca0a6f4.jpg",
     "jpg_tries": 1
   },
@@ -4989,7 +4989,7 @@
     "title": "Public Work by Cosmos",
     "timestamp": "2024-10-27 05:39:30 -0700",
     "wbm": null,
-    "wbm_tries": 2,
+    "wbm_tries": 3,
     "jpg": "snapshots/beeb340d4ebed8bb739cb1d4940584ec142981ac4b13dedca3c2716f292d41c4.jpg",
     "jpg_tries": 1
   },
