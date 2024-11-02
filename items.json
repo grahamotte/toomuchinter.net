@@ -4922,8 +4922,8 @@
     "url": "https://www.likalinea.com/",
     "title": "LIKALINéA",
     "timestamp": "2024-09-02 17:51:06 -0700",
-    "wbm": null,
-    "wbm_tries": 4,
+    "wbm": "http://web.archive.org/web/20240826032633/https://www.likalinea.com/",
+    "wbm_tries": 5,
     "jpg": "snapshots/2db2c5c3c75b01525429f9b8d49cbab52660bb4ee4b17655d93472b7cc85b93c.jpg",
     "jpg_tries": 1
   },
