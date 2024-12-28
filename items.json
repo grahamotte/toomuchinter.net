@@ -5036,5 +5036,16 @@
     "wbm_tries": 1,
     "jpg": "snapshots/84dea4403956d74167970732d0e508ef358c59ac1917159cc9f866852d1404c2.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 459,
+    "digest": "e24f4d1c5856050ee85fb4e5a8712d64f123366f36e115053e271e47bce63103",
+    "url": "https://news.ycombinator.com/item?id=42311069",
+    "title": "Egoless Engineering | Hacker News",
+    "timestamp": "2024-12-28 19:34:05 -0800",
+    "wbm": "http://web.archive.org/web/20241209081311/https://news.ycombinator.com/item?id=42311069",
+    "wbm_tries": 1,
+    "jpg": "snapshots/e24f4d1c5856050ee85fb4e5a8712d64f123366f36e115053e271e47bce63103.jpg",
+    "jpg_tries": 1
   }
 ]
