@@ -5047,5 +5047,27 @@
     "wbm_tries": 1,
     "jpg": "snapshots/e24f4d1c5856050ee85fb4e5a8712d64f123366f36e115053e271e47bce63103.jpg",
     "jpg_tries": 1
+  },
+  {
+    "id": 460,
+    "digest": "f58e46580226d66838aa035b2f5acac4c2df9fe5055e6b0cdd3c02bf34277824",
+    "url": "https://everyuuid.com/",
+    "title": "Every UUID V4",
+    "timestamp": "2024-12-29 07:23:06 -0800",
+    "wbm": "http://web.archive.org/web/20241224064141/https://everyuuid.com/",
+    "wbm_tries": 1,
+    "jpg": "snapshots/f58e46580226d66838aa035b2f5acac4c2df9fe5055e6b0cdd3c02bf34277824.jpg",
+    "jpg_tries": 1
+  },
+  {
+    "id": 461,
+    "digest": "234acbaa4b1a2731f6f68bbc58e7df29413d36ce977315fd2bd5e7f0b21f00ae",
+    "url": "https://matthewstrom.com/writing/ui-density/",
+    "title": "UI Density || Matthew Ström, designer-leader",
+    "timestamp": "2024-12-29 07:36:23 -0800",
+    "wbm": null,
+    "wbm_tries": 1,
+    "jpg": "snapshots/234acbaa4b1a2731f6f68bbc58e7df29413d36ce977315fd2bd5e7f0b21f00ae.jpg",
+    "jpg_tries": 1
   }
 ]
